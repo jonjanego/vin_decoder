@@ -1,6 +1,7 @@
 import re
 import json
 import os
+import sys
 
 # Load WMI manufacturers from external JSON file
 WMI_MANUFACTURERS_FILE = os.path.join(os.path.dirname(__file__), "wmi_manufacturers.json")
@@ -63,7 +64,12 @@ def decode_vin(vin):
 
 # Example usage
 if __name__ == "__main__":
-    vin_input = input("Enter a 17-character VIN: ").strip()
+    # Check if a VIN is provided as a command-line argument
+    if len(sys.argv) > 1:
+        vin_input = sys.argv[1].strip()
+    else:
+        vin_input = input("Enter a 17-character VIN: ").strip()
+
     try:
         decoded_details = decode_vin(vin_input)
         print("\nDecoded VIN Details:")
