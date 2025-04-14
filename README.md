@@ -72,7 +72,3 @@ Contributions are welcome! Please open an issue or submit a pull request if youâ
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you want to tweak the tone or add more details!
