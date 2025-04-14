@@ -1,6 +1,6 @@
 {
     "AAA": {
-        "Manufacturer": "rowspan=19| South Africa || Audi South Africa made by Volkswagen of South Africa"
+        "Manufacturer": "Audi South Africa made by Volkswagen of South Africa"
     },
     "AAK": {
         "Manufacturer": "FAW Vehicle Manufacturers SA (PTY) Ltd."
@@ -9,7 +9,7 @@
         "Manufacturer": "MAN Automotive (South Africa) (Pty) Ltd. includes VW Truck & Bus"
     },
     "AAV": {
-        "Manufacturer": "date=2018-01-15 |title=List of manufacturers of motor vehicles and their trailers \u2013 numerical \u2013 SV 3.2 |url=https://www.kba.de/SharedDocs/Downloads/EN/SV/sv32_pdf_en.pdf?__blob=publicationFile&v=3 |access-date=2019-01-08 |publisher=Kraftfahrt-Bundesamt |location=Germany}}</ref>"
+        "Manufacturer": "Kraftfahrt-Bundesamt"
     },
     "ABJ": {
         "Manufacturer": "Mitsubishi Fuso made by Daimler Trucks & Buses Southern Africa"
@@ -51,22 +51,22 @@
         "Manufacturer": "Honda Ballade made by Mercedes-Benz South Africa 1982\u20132000"
     },
     "AHT": {
-        "Manufacturer": "Toyota South Africa Motors<ref name=\"KBA list\" />"
+        "Manufacturer": "Toyota South Africa Motors"
     },
     "BAB": {
-        "Manufacturer": "|| BMW cars 1986-2019"
+        "Manufacturer": "BMW cars 1986-2019"
     },
     "BF9": {
-        "Manufacturer": "Kenya || KIBO Motorcycles"
+        "Manufacturer": "KIBO Motorcycles"
     },
     "CL9": {
-        "Manufacturer": "Tunisia || Wallyscar"
+        "Manufacturer": "Wallyscar"
     },
     "DA1": {
-        "Manufacturer": "rowspan=3| Egypt || Arab American Vehicles"
+        "Manufacturer": "Arab American Vehicles"
     },
     "DA4": {
-        "Manufacturer": "rowspan=3| Egypt || Arab American Vehicles"
+        "Manufacturer": "Arab American Vehicles"
     },
     "DAA": {
         "Manufacturer": "Fiat Auto Egypt Industrial Co"
@@ -81,7 +81,7 @@
         "Manufacturer": "Madagascar || Renault /SOMACOA - Soci\u00e9t\u00e9 Malgache de Construction Automobile"
     },
     "J81": {
-        "Manufacturer": "rowspan=104| Japan || Geo car made by Isuzu"
+        "Manufacturer": "Geo car made by Isuzu"
     },
     "J87": {
         "Manufacturer": "Pontiac/As\u00fcna car made by Isuzu for GM Canada"
@@ -213,10 +213,10 @@
         "Manufacturer": "Hino"
     },
     "JHL": {
-        "Manufacturer": "Honda MPV/SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda MPV/SUV"
     },
     "JHM": {
-        "Manufacturer": "Honda car<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda car"
     },
     "JJ3": {
         "Manufacturer": "Chrysler car made by Mitsubishi Motors"
@@ -258,16 +258,16 @@
         "Manufacturer": "Mazda MPV/SUV"
     },
     "JM6": {
-        "Manufacturer": "Mazda<ref name=\"KBA list\" />"
+        "Manufacturer": "Mazda"
     },
     "JM7": {
         "Manufacturer": "Mazda"
     },
     "JMA": {
-        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+        "Manufacturer": "Mitsubishi"
     },
     "JMB": {
-        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+        "Manufacturer": "Mitsubishi"
     },
     "JMF": {
         "Manufacturer": "Mitsubishi"
@@ -279,7 +279,7 @@
         "Manufacturer": "Mazda for Europe export"
     },
     "JN": {
-        "Manufacturer": "Nissan<ref name=\"KBA list\" />"
+        "Manufacturer": "Nissan"
     },
     "JN1": {
         "Manufacturer": "Nissan car & Infiniti car"
@@ -327,7 +327,7 @@
         "Manufacturer": "Isuzu Oasis made by Honda"
     },
     "JS": {
-        "Manufacturer": "Suzuki<ref name=\"KBA list\" />"
+        "Manufacturer": "Suzuki"
     },
     "JS1": {
         "Manufacturer": "Kawasaki KLX400S/KLX400SR motorcycle made by Suzuki"
@@ -348,7 +348,7 @@
         "Manufacturer": "Kawasaki KFX400 ATV made by Suzuki"
     },
     "JT": {
-        "Manufacturer": "Toyota<ref name=\"KBA list\" />"
+        "Manufacturer": "Toyota"
     },
     "JT2": {
         "Manufacturer": "Toyota car"
@@ -402,7 +402,7 @@
         "Manufacturer": "Mitsubishi FUSO division of Mitsubishi Motors (through mid 2003)"
     },
     "JY": {
-        "Manufacturer": "Yamaha Motor<ref name=\"KBA list\" />"
+        "Manufacturer": "Yamaha Motor"
     },
     "JY3": {
         "Manufacturer": "Yamaha Motor 3-wheel ATV"
@@ -417,7 +417,7 @@
         "Manufacturer": "Yamaha Motor snowmobile"
     },
     "KAL": {
-        "Manufacturer": "rowspan=\"3\" |Sri Lanka || Lanka Ashok Leyland"
+        "Manufacturer": "Sri Lanka || Lanka Ashok Leyland"
     },
     "KAA": {
         "Manufacturer": "RS Automotive"
@@ -426,7 +426,7 @@
         "Manufacturer": "KEWR Technologies"
     },
     "KF3": {
-        "Manufacturer": "rowspan=3| Israel || Merkavim"
+        "Manufacturer": "Merkavim"
     },
     "KF6": {
         "Manufacturer": "Automotive Industries, Ltd."
@@ -438,7 +438,7 @@
         "Manufacturer": "Tomcar"
     },
     "KLA": {
-        "Manufacturer": "rowspan=29| South Korea || Daewoo/GM Korea<ref name=\"KBA list\" />"
+        "Manufacturer": "Daewoo/GM Korea"
     },
     "KLT": {
         "Manufacturer": "Tata Daewoo"
@@ -480,7 +480,7 @@
         "Manufacturer": "Hyundai van & commercial truck & Bering Truck"
     },
     "KMH": {
-        "Manufacturer": "Hyundai car<ref name=\"KBA list\" />"
+        "Manufacturer": "Hyundai car"
     },
     "KMJ": {
         "Manufacturer": "Hyundai bus & minibus"
@@ -501,13 +501,13 @@
         "Manufacturer": "Hyundai SUV"
     },
     "KNA": {
-        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+        "Manufacturer": "Kia car"
     },
     "KNC": {
-        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+        "Manufacturer": "Kia car"
     },
     "KNE": {
-        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+        "Manufacturer": "Kia car"
     },
     "KND": {
         "Manufacturer": "Kia SUV/MPV & Hyundai Entourage"
@@ -528,10 +528,10 @@
         "Manufacturer": "Mitsubishi Precis"
     },
     "KPT": {
-        "Manufacturer": "SsangYong SUV/MPV<ref name=\"KBA list\" />"
+        "Manufacturer": "SsangYong SUV/MPV"
     },
     "L1C": {
-        "Manufacturer": "rowspan=119| China || Hubei Huawei Special-Purpose Automobile"
+        "Manufacturer": "Hubei Huawei Special-Purpose Automobile"
     },
     "L2C": {
         "Manufacturer": "Chery Jaguar Land Rover"
@@ -1113,13 +1113,13 @@
         "Manufacturer": "AAT plant)"
     },
     "MM8": {
-        "Manufacturer": "AAT plant)<ref>{{Cite AV media|url=http://www.car.go.th//api/render/tagImageEcoA4grayCT/cc4463140bb246a89a2c4daefcd5e75e|title=ECO Sticker|website=car.go.th|url-status=dead|archive-url=https://web.archive.org/web/20211016002955/http://www.car.go.th/api/render/tagImageEcoA4grayCT/cc4463140bb246a89a2c4daefcd5e75e|archive-date=16 October 2021}}</ref>"
+        "Manufacturer": "AAT plant"
     },
     "MMA": {
-        "Manufacturer": "Mitsubishi Motors (Thailand)<ref name=\"KBA list\" />"
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
     },
     "MMB": {
-        "Manufacturer": "Mitsubishi Motors (Thailand)<ref name=\"KBA list\" />"
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
     },
     "MMC": {
         "Manufacturer": "Mitsubishi Motors (Thailand)"
@@ -1128,10 +1128,10 @@
         "Manufacturer": "Mitsubishi Motors (Thailand)"
     },
     "MMF": {
-        "Manufacturer": "BMW<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/093082806ad44a8fa85aa1be049fac6c Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+        "Manufacturer": "BMW"
     },
     "MMH": {
-        "Manufacturer": "Tata<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/7d35eaf890b845f4aaa13b1974c8a598 Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+        "Manufacturer": "Tata"
     },
     "MMK": {
         "Manufacturer": "date=September 2023}}</ref>"
@@ -1158,7 +1158,7 @@
         "Manufacturer": "Ford (Ford-Mazda AAT plant) for Australia/New Zealand export"
     },
     "MNB": {
-        "Manufacturer": "Ford (Ford-Mazda AAT plant)<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/31c0027f349c47a8a36c315bcd970477 Tag Image] car.go.th {{dead link|date=September 2023}}</ref> for other right-hand drive markets"
+        "Manufacturer": "Ford (Ford-Mazda AAT plant)"
     },
     "MNC": {
         "Manufacturer": "Ford (Ford-Mazda AAT plant) for left-hand drive markets"
@@ -1173,7 +1173,7 @@
         "Manufacturer": "IMCT Isuzu Motors Company Thailand"
     },
     "MPB": {
-        "Manufacturer": "Ford (FTM plant)<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/65710f4c794e44388ea4d6519e6b1fe6 Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+        "Manufacturer": "Ford (FTM plant)"
     },
     "MP1": {
         "Manufacturer": "IMCT Isuzu Motors Company Thailand"
@@ -1182,7 +1182,7 @@
         "Manufacturer": "Mazda BT-50 pickup built by Isuzu Motors (Thailand) Co., Ltd."
     },
     "MP5": {
-        "Manufacturer": "Foton<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/ba1b29ef16734c76b289b99eceb24e6e Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+        "Manufacturer": "Foton"
     },
     "MRH": {
         "Manufacturer": "Honda car"
@@ -1197,13 +1197,13 @@
         "Manufacturer": "date=September 2023}}</ref>"
     },
     "MS0": {
-        "Manufacturer": "rowspan=2| Myanmar|| SSS MOTORS Myanmar/Kia"
+        "Manufacturer": "SSS MOTORS Myanmar/Kia"
     },
     "MS3": {
         "Manufacturer": "Suzuki Myanmar Motor Co., Ltd."
     },
     "MXV": {
-        "Manufacturer": "rowspan=2| Kazakhstan|| IMZ-Ural Ural Motorcycles"
+        "Manufacturer": "IMZ-Ural Ural Motorcycles"
     },
     "MX3": {
         "Manufacturer": "Hyundai Trans Auto"
@@ -1224,16 +1224,16 @@
         "Manufacturer": "Saipa Co."
     },
     "NC0": {
-        "Manufacturer": "row span =\u201c2\u201d | South Africa || BMW South Africa"
+        "Manufacturer": "BMW South Africa"
     },
     "NFB": {
-        "Manufacturer": "rowspan=\"2\" | Pakistan || Honda Atlas Cars Pakistan Ltd"
+        "Manufacturer": "Honda Atlas Cars Pakistan Ltd"
     },
     "NG3": {
         "Manufacturer": "Lucky Motor Corporation"
     },
     "NLA": {
-        "Manufacturer": "rowspan=17| Turkey || Honda cars"
+        "Manufacturer": "Honda cars"
     },
     "NLC": {
         "Manufacturer": "Askam Kamyon Imalat Ve Ticaret A.S."
@@ -1257,7 +1257,7 @@
         "Manufacturer": "Togg"
     },
     "NMA": {
-        "Manufacturer": "MAN T\u00fcrkiye A.\u015e.<ref name=\"KBA list\" />"
+        "Manufacturer": "MAN T\u00fcrkiye A.\u015e."
     },
     "NMB": {
         "Manufacturer": "Mercedes-Benz T\u00fcrk A.S."
@@ -1284,7 +1284,7 @@
         "Manufacturer": "Anadolu Isuzu"
     },
     "PAB": {
-        "Manufacturer": "rowspan=5| Philippines || Isuzu Philippines Corporation"
+        "Manufacturer": "Isuzu Philippines Corporation"
     },
     "PAD": {
         "Manufacturer": "Honda Cars Philippines"
@@ -1299,7 +1299,7 @@
         "Manufacturer": "Mazda Philippines made by Ford Motor Company Philippines"
     },
     "PL1": {
-        "Manufacturer": "rowspan=\"26\" | Malaysia || Proton"
+        "Manufacturer": "Proton"
     },
     "PL8": {
         "Manufacturer": "Hyundai/Inokom"
@@ -1374,7 +1374,7 @@
         "Manufacturer": "GAC Trumpchi made by Warisan Tan Chong Automotif Malaysia"
     },
     "LFA": {
-        "Manufacturer": "rowspan=\"18\" | Taiwan || Ford Lio Ho Motor Co Ltd old designation"
+        "Manufacturer": "Ford Lio Ho Motor Co Ltd old designation"
     },
     "LM1": {
         "Manufacturer": "Tai Ling Motor Co Ltd old designation"
@@ -1431,7 +1431,7 @@
         "Manufacturer": "Honda Taiwan"
     },
     "RL0": {
-        "Manufacturer": "rowspan=11| Vietnam || Ford Vietnam"
+        "Manufacturer": "Ford Vietnam"
     },
     "RL4": {
         "Manufacturer": "Toyota Motor Vietnam"
@@ -1464,7 +1464,7 @@
         "Manufacturer": "Piaggio Vietnam Co. Ltd."
     },
     "R4N": {
-        "Manufacturer": "Hong Kong ||  Elyx Smart Technology Holdings (Hong Kong) Ltd."
+        "Manufacturer": "Elyx Smart Technology Holdings (Hong Kong) Ltd."
     },
     "SA9": {
         "Manufacturer": "KaiserRushforth"
@@ -1491,7 +1491,7 @@
         "Manufacturer": "KaiserRushforth"
     },
     "SAA": {
-        "Manufacturer": "rowspan=59| United Kingdom  || Austin"
+        "Manufacturer": "Austin"
     },
     "SAB": {
         "Manufacturer": "Optare"
@@ -1509,16 +1509,16 @@
         "Manufacturer": "Jaguar"
     },
     "SAL": {
-        "Manufacturer": "Land Rover<ref name=\"KBA list\" />"
+        "Manufacturer": "Land Rover"
     },
     "SAM": {
         "Manufacturer": "Morris"
     },
     "SAR": {
-        "Manufacturer": "Rover & MG Rover Group<ref name=\"KBA list\" />"
+        "Manufacturer": "Rover & MG Rover Group"
     },
     "SAT": {
-        "Manufacturer": "Triumph car<ref name=\"KBA list\" />"
+        "Manufacturer": "Triumph car"
     },
     "SAX": {
         "Manufacturer": "Sterling Cars"
@@ -1542,7 +1542,7 @@
         "Manufacturer": "Leyland Motors & Leyland DAF"
     },
     "SBM": {
-        "Manufacturer": "McLaren Group<ref name=\"KBA list\" />"
+        "Manufacturer": "McLaren Group"
     },
     "SBS": {
         "Manufacturer": "Scammell"
@@ -1551,7 +1551,7 @@
         "Manufacturer": "Kenworth & Peterbilt trucks made by Leyland Trucks"
     },
     "SB1": {
-        "Manufacturer": "Toyota Manufacturing UK<ref name=\"KBA list\" />"
+        "Manufacturer": "Toyota Manufacturing UK"
     },
     "SCA": {
         "Manufacturer": "Rolls-Royce Motor Cars & Rolls-Royce Motors car"
@@ -1560,13 +1560,13 @@
         "Manufacturer": "Bentley Motors Limited"
     },
     "SCC": {
-        "Manufacturer": "Lotus Cars Limited<ref name=\"KBA list\" />"
+        "Manufacturer": "Lotus Cars Limited"
     },
     "SCE": {
         "Manufacturer": "DeLorean"
     },
     "SCF": {
-        "Manufacturer": "Aston Martin Lagonda Limited<ref name=\"KBA list\" />"
+        "Manufacturer": "Aston Martin Lagonda Limited"
     },
     "SCG": {
         "Manufacturer": "Triumph Engineering original Triumph Motorcycle company"
@@ -1581,7 +1581,7 @@
         "Manufacturer": "Volvo Truck & Bus"
     },
     "SC6": {
-        "Manufacturer": "INEOS Automotive<ref name=\"KBA list\" />"
+        "Manufacturer": "INEOS Automotive"
     },
     "SDB": {
         "Manufacturer": "Talbot Motor Company"
@@ -1632,19 +1632,19 @@
         "Manufacturer": "Swift Group Ltd."
     },
     "SHH": {
-        "Manufacturer": "Honda UK Manufacturing car<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda UK Manufacturing car"
     },
     "SHS": {
-        "Manufacturer": "Honda UK Manufacturing SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda UK Manufacturing SUV"
     },
     "SJA": {
         "Manufacturer": "Bentley SUV"
     },
     "SJK": {
-        "Manufacturer": "Nissan Motor Manufacturing UK<ref name=\"KBA list\" /> Infiniti"
+        "Manufacturer": "Nissan Motor Manufacturing UK Infiniti"
     },
     "SJN": {
-        "Manufacturer": "Nissan Motor Manufacturing UK<ref name=\"KBA list\" /> Nissan"
+        "Manufacturer": "Nissan Motor Manufacturing UK Nissan"
     },
     "SKA": {
         "Manufacturer": "Vauxhall Motors"
@@ -1665,7 +1665,7 @@
         "Manufacturer": "Triumph Motorcycles Ltd current Triumph Motorcycle company"
     },
     "SNE": {
-        "Manufacturer": "rowspan=3| East Germany || Wartburg"
+        "Manufacturer": "Wartburg"
     },
     "SNT": {
         "Manufacturer": "Trabant"
@@ -1674,7 +1674,7 @@
         "Manufacturer": "MZ Motorrad- und Zweiradwerk"
     },
     "SUA": {
-        "Manufacturer": "rowspan=\"20\" | Poland || Sanocka Fabryka Autobusow Sfa / Autosan"
+        "Manufacturer": "Sanocka Fabryka Autobusow Sfa / Autosan"
     },
     "SUD": {
         "Manufacturer": "Wielton"
@@ -1692,7 +1692,7 @@
         "Manufacturer": "Metal-Fach Sp. z o.o."
     },
     "SUN": {
-        "Manufacturer": "{{ill|Department of Commercial Vehicles|pl|Zak\u0142ad Samochod\u00f3w Dostawczych|lt=FSD}}"
+        "Manufacturer": "Department of Commercial Vehicles|pl|Zak\u0142ad Samochod\u00f3w Dostawczych"
     },
     "SUP": {
         "Manufacturer": "Fabryka Samochodow Osobowych"
@@ -1731,7 +1731,7 @@
         "Manufacturer": "BORO"
     },
     "TAM": {
-        "Manufacturer": "rowspan=6|Switzerland || Mowag"
+        "Manufacturer": "Mowag"
     },
     "TAP": {
         "Manufacturer": "Polaris Europe (based in Switzerland)"
@@ -1740,7 +1740,7 @@
         "Manufacturer": "Nutzfahrzeuggesellschaft Arbon & Wetzikon (NAW) former Swiss manufacturer of commercial vehicles (until 2003)"
     },
     "TCC": {
-        "Manufacturer": "Micro Compact Car<ref name=\"KBA list\" /> (until 5/99)"
+        "Manufacturer": "Micro Compact Car"
     },
     "TEB": {
         "Manufacturer": "Bucher Municipal including Johnston Sweepers of the UK (owned by Bucher Municipal of Switzerland)"
@@ -1749,19 +1749,19 @@
         "Manufacturer": "Carrosserie HESS AG Swiss manufacturer of buses and trolleybuses"
     },
     "TK9": {
-        "Manufacturer": "rowspan=10| Czech Republic || SOR Libchavy"
+        "Manufacturer": "SOR Libchavy"
     },
     "SL5": {
-        "Manufacturer": "rowspan=10| Czech Republic || SOR Libchavy"
+        "Manufacturer": "SOR Libchavy"
     },
     "TLJ": {
         "Manufacturer": "Jawa Moto"
     },
     "TMA": {
-        "Manufacturer": "Hyundai Motor Manufacturing Czech car<ref name=\"KBA list\" />"
+        "Manufacturer": "Hyundai Motor Manufacturing Czech car"
     },
     "TMB": {
-        "Manufacturer": "\u0160koda Auto AS<ref name=\"KBA list\" />"
+        "Manufacturer": "\u0160koda Auto AS"
     },
     "TMC": {
         "Manufacturer": "Hyundai Motor Manufacturing Czech SUV"
@@ -1785,16 +1785,16 @@
         "Manufacturer": "Tatra trucks"
     },
     "TRA": {
-        "Manufacturer": "rowspan=3| Hungary || Ikarus Bus"
+        "Manufacturer": "Ikarus Bus"
     },
     "TRU": {
-        "Manufacturer": "Audi<ref name=\"KBA list\" />"
+        "Manufacturer": "Audi"
     },
     "TSM": {
-        "Manufacturer": "Suzuki<ref name=\"KBA list\" />"
+        "Manufacturer": "Suzuki"
     },
     "TW1": {
-        "Manufacturer": "rowspan=8| Portugal || Toyota Caetano Portugal"
+        "Manufacturer": "Toyota Caetano Portugal"
     },
     "TW3": {
         "Manufacturer": "Renault Portuguesa SARL"
@@ -1818,7 +1818,7 @@
         "Manufacturer": "Mitsubishi Fuso Truck and Bus Corp."
     },
     "U5Y": {
-        "Manufacturer": "rowspan=2| Slovakia || Kia Motors Slovakia car<ref name=\"KBA list\" />"
+        "Manufacturer": "Kia Motors Slovakia car"
     },
     "U6Y": {
         "Manufacturer": "Kia Motors Slovakia SUV"
@@ -1830,7 +1830,7 @@
         "Manufacturer": "ASA-LIFT: Vegetable Technology Specialist (Agricultural Machinery)"
     },
     "UU1": {
-        "Manufacturer": "rowspan=8| Romania || Dacia<ref name=\"KBA list\" />"
+        "Manufacturer": "rowspan=8| Romania || Dacia"
     },
     "UU2": {
         "Manufacturer": "Oltcit"
@@ -1854,7 +1854,7 @@
         "Manufacturer": "UTB (Uzina de Tractoare Bra\u0219ov)"
     },
     "VA0": {
-        "Manufacturer": "rowspan=\"7\" | Austria || \u00d6AF<ref name=\"KBA list\" />"
+        "Manufacturer": "rowspan=\"7\" | Austria || \u00d6AF"
     },
     "VAG": {
         "Manufacturer": "Puch G & Steyr-Puch Pinzgauer"
@@ -1872,28 +1872,28 @@
         "Manufacturer": "rowspan=\"33\" | France || Renault<ref name=\"KBA list\" /> & Eagle Medallion made by Renault"
     },
     "VF2": {
-        "Manufacturer": "Renault Trucks<ref name=\"KBA list\" />"
+        "Manufacturer": "Renault Trucks"
     },
     "VF3": {
-        "Manufacturer": "Peugeot<ref name=\"KBA list\" />"
+        "Manufacturer": "Peugeot"
     },
     "VF4": {
-        "Manufacturer": "Talbot<ref name=\"KBA list\" />"
+        "Manufacturer": "Talbot"
     },
     "VF5": {
-        "Manufacturer": "Iveco Unic<ref name=\"KBA list\" />"
+        "Manufacturer": "Iveco Unic"
     },
     "VF6": {
-        "Manufacturer": "Renault Trucks<ref name=\"KBA list\" />"
+        "Manufacturer": "Renault Trucks"
     },
     "VF7": {
-        "Manufacturer": "Citro\u00ebn<ref name=\"KBA list\" />"
+        "Manufacturer": "Citro\u00ebn"
     },
     "VF8": {
-        "Manufacturer": "Matra/Talbot/Simca<ref name=\"KBA list\" />"
+        "Manufacturer": "Matra/Talbot/Simca"
     },
     "VF9": {
-        "Manufacturer": "Bugatti Automobiles S.A.S.<ref name=\"KBA list\" />"
+        "Manufacturer": "Bugatti Automobiles S.A.S."
     },
     "607": {
         "Manufacturer": "Mathieu Fayat Group"
@@ -1902,7 +1902,7 @@
         "Manufacturer": "Venturi Automobiles"
     },
     "795": {
-        "Manufacturer": "Bugatti Automobiles S.A.S.<ref name=\"KBA list\" />"
+        "Manufacturer": "Bugatti Automobiles S.A.S."
     },
     "VFA": {
         "Manufacturer": "Alpine"
@@ -1992,7 +1992,7 @@
         "Manufacturer": "Nissan Motor Iberica SA, Nissan passenger car/MPV/van/SUV/pickup & Ford Maverick 1993\u20131999"
     },
     "VSS": {
-        "Manufacturer": "SEAT<ref name=\"KBA list\" />"
+        "Manufacturer": "SEAT"
     },
     "VSX": {
         "Manufacturer": "Opel Automobile Espana, SA"
@@ -2037,25 +2037,25 @@
         "Manufacturer": "rowspan=\"87\" | Germany || RS 2 Avant"
     },
     "WAG": {
-        "Manufacturer": "Neoplan<ref name=\"KBA list\" />"
+        "Manufacturer": "Neoplan"
     },
     "WAU": {
-        "Manufacturer": "Audi car<ref name=\"KBA list\" />"
+        "Manufacturer": "Audi car"
     },
     "WAP": {
-        "Manufacturer": "Alpina<ref name=\"KBA list\" />"
+        "Manufacturer": "Alpina"
     },
     "WUA": {
-        "Manufacturer": "Audi Sport GmbH & Quattro GmbH car<ref name=\"KBA list\" />"
+        "Manufacturer": "Audi Sport GmbH & Quattro GmbH car"
     },
     "WBA": {
-        "Manufacturer": "BMW car<ref name=\"KBA list\" />"
+        "Manufacturer": "BMW car"
     },
     "WBS": {
-        "Manufacturer": "BMW M car<ref name=\"KBA list\" />"
+        "Manufacturer": "BMW M car"
     },
     "WBX": {
-        "Manufacturer": "BMW SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "BMW SUV"
     },
     "WBY": {
         "Manufacturer": "BMW i car"
@@ -2109,10 +2109,10 @@
         "Manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
     },
     "WDB": {
-        "Manufacturer": "Mercedes-Benz & Maybach<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercedes-Benz & Maybach"
     },
     "WDC": {
-        "Manufacturer": "Mercedes-Benz SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercedes-Benz SUV"
     },
     "WDD": {
         "Manufacturer": "Mercedes-Benz car"
@@ -2139,13 +2139,13 @@
         "Manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
     },
     "WEB": {
-        "Manufacturer": "EvoBus Mercedes-Benz buses<ref name=\"KBA list\" />"
+        "Manufacturer": "EvoBus Mercedes-Benz buses"
     },
     "WEL": {
         "Manufacturer": "e.GO Mobile AG"
     },
     "WF0": {
-        "Manufacturer": "Ford of Europe<ref name=\"KBA list\" />"
+        "Manufacturer": "Ford of Europe"
     },
     "WF1": {
         "Manufacturer": "Merkur"
@@ -2154,19 +2154,19 @@
         "Manufacturer": "Iveco/Iveco Magirus"
     },
     "WJR": {
-        "Manufacturer": "Irmscher<ref name=\"KBA list\" />"
+        "Manufacturer": "Irmscher"
     },
     "WKK": {
-        "Manufacturer": "Setra & Karl K\u00e4ssbohrer Fahrzeugwerke<ref name=\"KBA list\" />"
+        "Manufacturer": "Setra & Karl K\u00e4ssbohrer Fahrzeugwerke"
     },
     "WMA": {
-        "Manufacturer": "MAN<ref name=\"KBA list\" />"
+        "Manufacturer": "MAN"
     },
     "WME": {
         "Manufacturer": "Smart<ref name=\"KBA list\" /> (from 5/99)"
     },
     "WMW": {
-        "Manufacturer": "Mini car<ref name=\"KBA list\" />"
+        "Manufacturer": "Mini car"
     },
     "WMX": {
         "Manufacturer": "Mercedes-AMG used for Mercedes-Benz SLS AMG & Mercedes-AMG GT (not used in North America)"
@@ -2178,10 +2178,10 @@
         "Manufacturer": "Next.e.GO Mobile SE"
     },
     "WP0": {
-        "Manufacturer": "Porsche car<ref name=\"KBA list\" />"
+        "Manufacturer": "Porsche car"
     },
     "WP1": {
-        "Manufacturer": "Porsche SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Porsche SUV"
     },
     "WS5": {
         "Manufacturer": "StreetScooter"
@@ -2190,7 +2190,7 @@
         "Manufacturer": "Audi Sport GmbH SUV"
     },
     "WVG": {
-        "Manufacturer": "Volkswagen SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen SUV"
     },
     "WVM": {
         "Manufacturer": "Arbeitsgemeinschaft VW-MAN"
@@ -2199,13 +2199,13 @@
         "Manufacturer": "Viseon Bus"
     },
     "WVW": {
-        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen car"
     },
     "WV1": {
-        "Manufacturer": "Volkswagen Commercial Vehicles<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen Commercial Vehicles"
     },
     "WV2": {
-        "Manufacturer": "Volkswagen Commercial Vehicles<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen Commercial Vehicles"
     },
     "WZ1": {
         "Manufacturer": "Toyota Supra Fifth generation"
@@ -2220,7 +2220,7 @@
         "Manufacturer": "Saturn Astra"
     },
     "W09": {
-        "Manufacturer": "Ruf Automobile<ref name=\"KBA list\" />"
+        "Manufacturer": "Ruf Automobile"
     },
     "B09": {
         "Manufacturer": "Bitter Cars"
@@ -2235,13 +2235,13 @@
         "Manufacturer": "HWA AG"
     },
     "R06": {
-        "Manufacturer": "Ruf Automobile<ref name=\"KBA list\" />"
+        "Manufacturer": "Ruf Automobile"
     },
     "W0L": {
         "Manufacturer": "Adam Opel AG/Vauxhall<ref name=\"KBA list\" /> & Holden"
     },
     "W0S": {
-        "Manufacturer": "Opel Special Vehicles<ref name=\"KBA list\" />"
+        "Manufacturer": "Opel Special Vehicles"
     },
     "W0V": {
         "Manufacturer": "Opel Automobile Gmbh/Vauxhall & Holden"
@@ -2334,10 +2334,10 @@
         "Manufacturer": "Tesla Europe (based in the Netherlands)"
     },
     "XTA": {
-        "Manufacturer": "rowspan=28| Russia || AvtoVAZ<ref name=\"KBA list\" />"
+        "Manufacturer": "rowspan=28| Russia || AvtoVAZ"
     },
     "XTB": {
-        "Manufacturer": "AZLK<ref name=\"KBA list\" />"
+        "Manufacturer": "AZLK"
     },
     "XTC": {
         "Manufacturer": "KAMAZ"
@@ -2448,7 +2448,7 @@
         "Manufacturer": "Honda"
     },
     "YE2": {
-        "Manufacturer": "Van Hool<ref name=\"KBA list\" />"
+        "Manufacturer": "Van Hool"
     },
     "YH2": {
         "Manufacturer": "rowspan=4| Finland || Lynx (snowmobile)"
@@ -2466,7 +2466,7 @@
         "Manufacturer": "rowspan=13| Sweden || Scania, S\u00f6dert\u00e4lje<ref name=\"KBA list\" /> truck"
     },
     "YS3": {
-        "Manufacturer": "Saab<ref name=\"KBA list\" />"
+        "Manufacturer": "Saab"
     },
     "YS4": {
         "Manufacturer": "Scania, Katrineholm<ref name=\"KBA list\" /> bus"
@@ -2490,13 +2490,13 @@
         "Manufacturer": "Husaberg Swedish built models"
     },
     "YV1": {
-        "Manufacturer": "Volvo Cars car<ref name=\"KBA list\" />"
+        "Manufacturer": "Volvo Cars car"
     },
     "YV2": {
-        "Manufacturer": "Volvo Trucks<ref name=\"KBA list\" />"
+        "Manufacturer": "Volvo Trucks"
     },
     "YV3": {
-        "Manufacturer": "Volvo Buses<ref name=\"KBA list\" />"
+        "Manufacturer": "Volvo Buses"
     },
     "YV4": {
         "Manufacturer": "Volvo Cars SUV"
@@ -2538,7 +2538,7 @@
         "Manufacturer": "Dodge Hornet"
     },
     "ZAM": {
-        "Manufacturer": "Maserati car<ref name=\"KBA list\" />"
+        "Manufacturer": "Maserati car"
     },
     "ZAP": {
         "Manufacturer": " url=http://modernvespa.com/forum/wiki-vin-decoding| title=Modern Vespa : VIN Decoding| website=modernvespa.com| access-date=2019-10-08}}</ref>"
@@ -2577,7 +2577,7 @@
         "Manufacturer": "Chrysler TC by Maserati"
     },
     "ZCF": {
-        "Manufacturer": "Iveco<ref name=\"KBA list\" />"
+        "Manufacturer": "Iveco"
     },
     "ZCG": {
         "Manufacturer": "Husqvarna Motorcycles Under MV Agusta ownership"
@@ -2616,7 +2616,7 @@
         "Manufacturer": "Ram 1200"
     },
     "ZFF": {
-        "Manufacturer": "Ferrari<ref name=\"KBA list\" />"
+        "Manufacturer": "Ferrari"
     },
     "ZFM": {
         "Manufacturer": "Fantic Motor"
@@ -2625,7 +2625,7 @@
         "Manufacturer": "Pininfarina"
     },
     "ZGA": {
-        "Manufacturer": "Iveco Bus<ref name=\"KBA list\" />"
+        "Manufacturer": "Iveco Bus"
     },
     "ZGU": {
         "Manufacturer": "Moto Guzzi"
@@ -2652,7 +2652,7 @@
         "Manufacturer": "Hyundai Automobili Italia Importazioni"
     },
     "ZLA": {
-        "Manufacturer": "Lancia<ref name=\"KBA list\" />"
+        "Manufacturer": "Lancia"
     },
     "ZLM": {
         "Manufacturer": "Moto Morini srl"
@@ -2766,7 +2766,7 @@
         "Manufacturer": "Dodge MPV/SUV 2003\u20132009 only"
     },
     "1F": {
-        "Manufacturer": "Ford<ref name=\"KBA list\" />"
+        "Manufacturer": "Ford"
     },
     "1F1": {
         "Manufacturer": "Ford SUV \u2013 limousine (through 2009)"
@@ -2805,7 +2805,7 @@
         "Manufacturer": "Freightliner Trucks"
     },
     "1G": {
-        "Manufacturer": "General Motors<ref name=\"KBA list\" />"
+        "Manufacturer": "General Motors"
     },
     "1G0": {
         "Manufacturer": "Opel car 2007\u20132017"
@@ -2928,7 +2928,7 @@
         "Manufacturer": "Marmon Motor Company"
     },
     "1L": {
-        "Manufacturer": "Lincoln<ref name=\"KBA list\" />"
+        "Manufacturer": "Lincoln"
     },
     "1L1": {
         "Manufacturer": "Lincoln car \u2013 limousine"
@@ -2973,7 +2973,7 @@
         "Manufacturer": "Mercedes-Benz Truck Co."
     },
     "1ME": {
-        "Manufacturer": "Mercury car<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercury car"
     },
     "1MR": {
         "Manufacturer": "Continental Mark VI & VII 1981\u20131985 & Continental sedan<ref name=\"KBA list\" /> 1982\u20131985"
@@ -3063,7 +3063,7 @@
         "Manufacturer": "Vermeer Corporation"
     },
     "1VW": {
-        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen car"
     },
     "1WU": {
         "Manufacturer": "White truck"
@@ -3096,7 +3096,7 @@
         "Manufacturer": "Rokon International, Inc."
     },
     "1YV": {
-        "Manufacturer": "Mazda<ref name=\"KBA list\" />"
+        "Manufacturer": "Mazda"
     },
     "1Z3": {
         "Manufacturer": "Mitsubishi Raider"
@@ -3258,7 +3258,7 @@
         "Manufacturer": "Lancia MPV"
     },
     "2F": {
-        "Manufacturer": "Ford<ref name=\"KBA list\" />"
+        "Manufacturer": "Ford"
     },
     "2FA": {
         "Manufacturer": "Ford car"
@@ -3384,7 +3384,7 @@
         "Manufacturer": "Lincoln SUV"
     },
     "2LN": {
-        "Manufacturer": "Lincoln car<ref name=\"KBA list\" />"
+        "Manufacturer": "Lincoln car"
     },
     "2M1": {
         "Manufacturer": "Mack Trucks"
@@ -3393,7 +3393,7 @@
         "Manufacturer": "Mack Trucks"
     },
     "2ME": {
-        "Manufacturer": "Mercury car<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercury car"
     },
     "2MG": {
         "Manufacturer": "Motor Coach Industries (Produced from Sept. 1, 2008 on)"
@@ -3570,7 +3570,7 @@
         "Manufacturer": "Ford truck"
     },
     "3G": {
-        "Manufacturer": "General Motors<ref name=\"KBA list\" />"
+        "Manufacturer": "General Motors"
     },
     "3G0": {
         "Manufacturer": "Holden Equinox 2018\u20132020"
@@ -3624,7 +3624,7 @@
         "Manufacturer": "International Trucks truck"
     },
     "3HG": {
-        "Manufacturer": "Honda car<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda car"
     },
     "3HS": {
         "Manufacturer": "International Trucks & Caterpillar Trucks truck"
@@ -3636,7 +3636,7 @@
         "Manufacturer": "Can-Am ATV/UTV & Can-Am Ryker"
     },
     "3KP": {
-        "Manufacturer": "Hyundai car<ref name=\"KBA list\" />"
+        "Manufacturer": "Hyundai car"
     },
     "3LN": {
         "Manufacturer": "Lincoln car"
@@ -3690,7 +3690,7 @@
         "Manufacturer": "Volkswagen SUV"
     },
     "3VW": {
-        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen car"
     },
     "3WK": {
         "Manufacturer": "Kenworth truck"
@@ -3759,7 +3759,7 @@
         "Manufacturer": "Isuzu incomplete vehicle built by GM"
     },
     "4JG": {
-        "Manufacturer": "Mercedes-Benz SUV<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercedes-Benz SUV"
     },
     "4KB": {
         "Manufacturer": "Chevrolet W-Series incomplete vehicle (gas engine only)"
@@ -3801,10 +3801,10 @@
         "Manufacturer": "Isuzu SUV made by Subaru Isuzu Automotive"
     },
     "4S3": {
-        "Manufacturer": "Subaru car<ref name=\"KBA list\" />"
+        "Manufacturer": "Subaru car"
     },
     "4S4": {
-        "Manufacturer": "Subaru SUV/MPV<ref name=\"KBA list\" />"
+        "Manufacturer": "Subaru SUV/MPV"
     },
     "4S6": {
         "Manufacturer": "Honda SUV made by Subaru Isuzu Automotive"
@@ -3858,7 +3858,7 @@
         "Manufacturer": "Arctic Cat"
     },
     "4US": {
-        "Manufacturer": "BMW car<ref name=\"KBA list\" />"
+        "Manufacturer": "BMW car"
     },
     "4UZ": {
         "Manufacturer": "Freightliner Custom Chassis Corporation & gas-powered Mitsubishi Fuso trucks assembled by Freightliner Custom Chassis & Thomas Built Buses FS-65 & Saf-T-Liner C2"
@@ -4044,7 +4044,7 @@
         "Manufacturer": "Toyota truck made by TMMTX"
     },
     "5UM": {
-        "Manufacturer": "BMW M car<ref name=\"KBA list\" />"
+        "Manufacturer": "BMW M car"
     },
     "5UX": {
         "Manufacturer": "BMW SUV"
@@ -4077,7 +4077,7 @@
         "Manufacturer": "Toyota car made by TMMMS"
     },
     "5YJ": {
-        "Manufacturer": "Tesla<ref name=\"KBA list\" />"
+        "Manufacturer": "Tesla"
     },
     "5YM": {
         "Manufacturer": "BMW M SUV"
@@ -4122,7 +4122,7 @@
         "Manufacturer": "Isuzu & Chevrolet commercial trucks built by Spartan Motors/The Shyft Group"
     },
     "55S": {
-        "Manufacturer": "Mercedes-Benz car<ref name=\"KBA list\" />"
+        "Manufacturer": "Mercedes-Benz car"
     },
     "56K": {
         "Manufacturer": "Indian Motorcycle International, LLC Polaris subsidiary"
@@ -4137,7 +4137,7 @@
         "Manufacturer": "TMMK"
     },
     "6F1": {
-        "Manufacturer": "rowspan=17| Australia ||Ford<ref name=\"KBA list\" />"
+        "Manufacturer": "rowspan=17| Australia ||Ford"
     },
     "6F2": {
         "Manufacturer": "Iveco Trucks Australia Ltd."
@@ -4170,7 +4170,7 @@
         "Manufacturer": "Holden"
     },
     "6MM": {
-        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+        "Manufacturer": "Mitsubishi"
     },
     "6MP": {
         "Manufacturer": "Mercury Capri"
@@ -4278,7 +4278,7 @@
         "Manufacturer": "Peugeot van"
     },
     "8AF": {
-        "Manufacturer": "Ford Motor Argentina<ref name=\"KBA list\" />"
+        "Manufacturer": "Ford Motor Argentina"
     },
     "8AG": {
         "Manufacturer": "General Motors de Argentina Chevrolet"
@@ -4398,16 +4398,16 @@
         "Manufacturer": "Volvo Trucks"
     },
     "9BW": {
-        "Manufacturer": "Volkswagen do Brasil<ref name=\"KBA list\" />"
+        "Manufacturer": "Volkswagen do Brasil"
     },
     "9BY": {
         "Manufacturer": "Agrale S.A."
     },
     "9C2": {
-        "Manufacturer": "Honda Motorcycles<ref name=\"KBA list\" />"
+        "Manufacturer": "Honda Motorcycles"
     },
     "9C6": {
-        "Manufacturer": "Yamaha Motor<ref name=\"KBA list\" />"
+        "Manufacturer": "Yamaha Motor"
     },
     "9CD": {
         "Manufacturer": "Suzuki (motorcycles) assembled by J. Toledo Motos do Brasil"
