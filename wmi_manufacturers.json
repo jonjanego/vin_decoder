@@ -1,0 +1,4544 @@
+{
+    "AAA": {
+        "Manufacturer": "rowspan=19| South Africa || Audi South Africa made by Volkswagen of South Africa"
+    },
+    "AAK": {
+        "Manufacturer": "FAW Vehicle Manufacturers SA (PTY) Ltd."
+    },
+    "AAM": {
+        "Manufacturer": "MAN Automotive (South Africa) (Pty) Ltd. includes VW Truck & Bus"
+    },
+    "AAV": {
+        "Manufacturer": "date=2018-01-15 |title=List of manufacturers of motor vehicles and their trailers \u2013 numerical \u2013 SV 3.2 |url=https://www.kba.de/SharedDocs/Downloads/EN/SV/sv32_pdf_en.pdf?__blob=publicationFile&v=3 |access-date=2019-01-08 |publisher=Kraftfahrt-Bundesamt |location=Germany}}</ref>"
+    },
+    "ABJ": {
+        "Manufacturer": "Mitsubishi Fuso made by Daimler Trucks & Buses Southern Africa"
+    },
+    "ABM": {
+        "Manufacturer": "BMW Southern Africa"
+    },
+    "ACV": {
+        "Manufacturer": "Isuzu Motors South Africa 2018-"
+    },
+    "AC5": {
+        "Manufacturer": "Hyundai Automotive South Africa (cars)"
+    },
+    "ADD": {
+        "Manufacturer": "UD Trucks Southern Africa (Pty) Ltd"
+    },
+    "ADM": {
+        "Manufacturer": "General Motors South Africa includes Isuzu through 2018"
+    },
+    "ADN": {
+        "Manufacturer": "Nissan South Africa (Pty) Ltd"
+    },
+    "ADR": {
+        "Manufacturer": "Nissan South Africa (Pty) Ltd"
+    },
+    "ADX": {
+        "Manufacturer": "Tata Automobile Corporation (SA) Ltd."
+    },
+    "AFA": {
+        "Manufacturer": "Ford Motor Company of Southern Africa & Samcor"
+    },
+    "AFB": {
+        "Manufacturer": "Mazda BT-50 made by Ford Motor Company of Southern Africa"
+    },
+    "AHH": {
+        "Manufacturer": "Hino South Africa"
+    },
+    "AHM": {
+        "Manufacturer": "Honda Ballade made by Mercedes-Benz South Africa 1982\u20132000"
+    },
+    "AHT": {
+        "Manufacturer": "Toyota South Africa Motors<ref name=\"KBA list\" />"
+    },
+    "BAB": {
+        "Manufacturer": "|| BMW cars 1986-2019"
+    },
+    "BF9": {
+        "Manufacturer": "Kenya || KIBO Motorcycles"
+    },
+    "CL9": {
+        "Manufacturer": "Tunisia || Wallyscar"
+    },
+    "DA1": {
+        "Manufacturer": "rowspan=3| Egypt || Arab American Vehicles"
+    },
+    "DA4": {
+        "Manufacturer": "rowspan=3| Egypt || Arab American Vehicles"
+    },
+    "DAA": {
+        "Manufacturer": "Fiat Auto Egypt Industrial Co"
+    },
+    "DAB": {
+        "Manufacturer": "BMW Egypt SKD"
+    },
+    "DF9": {
+        "Manufacturer": "Morocco || Laraki"
+    },
+    "GA1": {
+        "Manufacturer": "Madagascar || Renault /SOMACOA - Soci\u00e9t\u00e9 Malgache de Construction Automobile"
+    },
+    "J81": {
+        "Manufacturer": "rowspan=104| Japan || Geo car made by Isuzu"
+    },
+    "J87": {
+        "Manufacturer": "Pontiac/As\u00fcna car made by Isuzu for GM Canada"
+    },
+    "J8B": {
+        "Manufacturer": "Chevrolet commercial trucks made by Isuzu"
+    },
+    "J8C": {
+        "Manufacturer": "Chevrolet commercial trucks made by Isuzu"
+    },
+    "J8D": {
+        "Manufacturer": "GMC commercial trucks made by Isuzu"
+    },
+    "J8T": {
+        "Manufacturer": "GMC commercial trucks made by Isuzu"
+    },
+    "J8Z": {
+        "Manufacturer": "Chevrolet pickup truck made by Isuzu"
+    },
+    "JA3": {
+        "Manufacturer": "Mitsubishi car"
+    },
+    "JA4": {
+        "Manufacturer": "Mitsubishi MPV/SUV"
+    },
+    "JA7": {
+        "Manufacturer": "Mitsubishi truck"
+    },
+    "JAA": {
+        "Manufacturer": "Isuzu truck"
+    },
+    "JAB": {
+        "Manufacturer": "Isuzu car"
+    },
+    "JAC": {
+        "Manufacturer": "Isuzu SUV"
+    },
+    "JAE": {
+        "Manufacturer": "Acura SLX made by Isuzu"
+    },
+    "JAL": {
+        "Manufacturer": "Hino S-series truck made by Isuzu"
+    },
+    "JAM": {
+        "Manufacturer": "Isuzu commercial trucks"
+    },
+    "JB3": {
+        "Manufacturer": "Dodge car made by Mitsubishi Motors"
+    },
+    "JB4": {
+        "Manufacturer": "Dodge MPV/SUV made by Mitsubishi Motors"
+    },
+    "JB7": {
+        "Manufacturer": "Dodge truck made by Mitsubishi Motors"
+    },
+    "JC0": {
+        "Manufacturer": "Ford brand cars made by Mazda"
+    },
+    "JC1": {
+        "Manufacturer": "Fiat 124 Spider made by Mazda"
+    },
+    "JC2": {
+        "Manufacturer": "Ford Courier made by Mazda"
+    },
+    "JD1": {
+        "Manufacturer": "Daihatsu car"
+    },
+    "JD2": {
+        "Manufacturer": "Daihatsu SUV"
+    },
+    "JD4": {
+        "Manufacturer": "Daihatsu truck"
+    },
+    "JDA": {
+        "Manufacturer": "Daihatsu"
+    },
+    "JE3": {
+        "Manufacturer": "Eagle car made by Mitsubishi Motors"
+    },
+    "JE4": {
+        "Manufacturer": "Mitsubishi"
+    },
+    "JF1": {
+        "Manufacturer": "Subaru \u2013 Fuji Heavy Industries car"
+    },
+    "JF2": {
+        "Manufacturer": "Subaru \u2013 Fuji Heavy Industries SUV"
+    },
+    "JF3": {
+        "Manufacturer": "Subaru \u2013 Fuji Heavy Industries truck"
+    },
+    "JF4": {
+        "Manufacturer": "Saab 9-2X made by Subaru"
+    },
+    "JG1": {
+        "Manufacturer": "Chevrolet/Geo car made by Suzuki"
+    },
+    "JG7": {
+        "Manufacturer": "Pontiac/Asuna car made by Suzuki for GM Canada"
+    },
+    "JGC": {
+        "Manufacturer": "Chevrolet/Geo SUV made by Suzuki"
+    },
+    "JGT": {
+        "Manufacturer": "GMC SUV made by Suzuki for GM Canada"
+    },
+    "JH2": {
+        "Manufacturer": "Honda motorcycle/ATV"
+    },
+    "JH3": {
+        "Manufacturer": "Honda ATV"
+    },
+    "JH4": {
+        "Manufacturer": "Acura car"
+    },
+    "JHA": {
+        "Manufacturer": "Hino"
+    },
+    "JHB": {
+        "Manufacturer": "Hino"
+    },
+    "JHD": {
+        "Manufacturer": "Hino"
+    },
+    "JHF": {
+        "Manufacturer": "Hino"
+    },
+    "JHH": {
+        "Manufacturer": "Hino"
+    },
+    "JHL": {
+        "Manufacturer": "Honda MPV/SUV<ref name=\"KBA list\" />"
+    },
+    "JHM": {
+        "Manufacturer": "Honda car<ref name=\"KBA list\" />"
+    },
+    "JJ3": {
+        "Manufacturer": "Chrysler car made by Mitsubishi Motors"
+    },
+    "JK8": {
+        "Manufacturer": "Kawasaki"
+    },
+    "JKA": {
+        "Manufacturer": "Kawasaki"
+    },
+    "JKB": {
+        "Manufacturer": "Kawasaki"
+    },
+    "JKS": {
+        "Manufacturer": "Kawasaki"
+    },
+    "JL5": {
+        "Manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+    },
+    "JL6": {
+        "Manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+    },
+    "JLF": {
+        "Manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+    },
+    "JLS": {
+        "Manufacturer": "Mitsubishi FUSO Truck & Bus Corp"
+    },
+    "JM0": {
+        "Manufacturer": "Mazda for Oceania export"
+    },
+    "JM1": {
+        "Manufacturer": "Mazda car"
+    },
+    "JM2": {
+        "Manufacturer": "Mazda truck"
+    },
+    "JM3": {
+        "Manufacturer": "Mazda MPV/SUV"
+    },
+    "JM6": {
+        "Manufacturer": "Mazda<ref name=\"KBA list\" />"
+    },
+    "JM7": {
+        "Manufacturer": "Mazda"
+    },
+    "JMA": {
+        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+    },
+    "JMB": {
+        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+    },
+    "JMF": {
+        "Manufacturer": "Mitsubishi"
+    },
+    "JMY": {
+        "Manufacturer": "Mitsubishi"
+    },
+    "JMZ": {
+        "Manufacturer": "Mazda for Europe export"
+    },
+    "JN": {
+        "Manufacturer": "Nissan<ref name=\"KBA list\" />"
+    },
+    "JN1": {
+        "Manufacturer": "Nissan car & Infiniti car"
+    },
+    "JN3": {
+        "Manufacturer": "Nissan incomplete vehicle"
+    },
+    "JN6": {
+        "Manufacturer": "Nissan truck"
+    },
+    "JN8": {
+        "Manufacturer": "Nissan MPV/SUV & Infiniti SUV"
+    },
+    "JNA": {
+        "Manufacturer": "Nissan Diesel/UD Trucks incomplete vehicle"
+    },
+    "JNC": {
+        "Manufacturer": "Nissan Diesel/UD Trucks"
+    },
+    "JNE": {
+        "Manufacturer": "Nissan Diesel/UD Trucks truck"
+    },
+    "JNK": {
+        "Manufacturer": "Infiniti car"
+    },
+    "JNR": {
+        "Manufacturer": "Infiniti SUV"
+    },
+    "JNX": {
+        "Manufacturer": "Infiniti incomplete vehicle"
+    },
+    "JP3": {
+        "Manufacturer": "Plymouth car made by Mitsubishi Motors"
+    },
+    "JP4": {
+        "Manufacturer": "Plymouth MPV/SUV made by Mitsubishi Motors"
+    },
+    "JP7": {
+        "Manufacturer": "Plymouth truck made by Mitsubishi Motors"
+    },
+    "JPC": {
+        "Manufacturer": "Nissan Diesel/UD Trucks"
+    },
+    "JR2": {
+        "Manufacturer": "Isuzu Oasis made by Honda"
+    },
+    "JS": {
+        "Manufacturer": "Suzuki<ref name=\"KBA list\" />"
+    },
+    "JS1": {
+        "Manufacturer": "Kawasaki KLX400S/KLX400SR motorcycle made by Suzuki"
+    },
+    "JS2": {
+        "Manufacturer": "Suzuki car"
+    },
+    "JS3": {
+        "Manufacturer": "Suzuki SUV"
+    },
+    "JSA": {
+        "Manufacturer": "Kawasaki KFX400 ATV made by Suzuki"
+    },
+    "JSK": {
+        "Manufacturer": "Kawasaki KLX125/KLX125L motorcycle made by Suzuki"
+    },
+    "JSL": {
+        "Manufacturer": "Kawasaki KFX400 ATV made by Suzuki"
+    },
+    "JT": {
+        "Manufacturer": "Toyota<ref name=\"KBA list\" />"
+    },
+    "JT2": {
+        "Manufacturer": "Toyota car"
+    },
+    "JT3": {
+        "Manufacturer": "Toyota MPV/SUV"
+    },
+    "JT4": {
+        "Manufacturer": "Toyota truck"
+    },
+    "JT5": {
+        "Manufacturer": "Toyota incomplete vehicle"
+    },
+    "JT6": {
+        "Manufacturer": "Lexus SUV"
+    },
+    "JT8": {
+        "Manufacturer": "Lexus car"
+    },
+    "JTD": {
+        "Manufacturer": "Toyota car"
+    },
+    "JTE": {
+        "Manufacturer": "Toyota MPV/SUV"
+    },
+    "JTF": {
+        "Manufacturer": "Toyota van/truck"
+    },
+    "JTG": {
+        "Manufacturer": "Toyota MPV/bus"
+    },
+    "JTH": {
+        "Manufacturer": "Lexus car"
+    },
+    "JTJ": {
+        "Manufacturer": "Lexus SUV"
+    },
+    "JTK": {
+        "Manufacturer": "Toyota car"
+    },
+    "JTL": {
+        "Manufacturer": "Toyota SUV"
+    },
+    "JTM": {
+        "Manufacturer": "Toyota SUV"
+    },
+    "JTN": {
+        "Manufacturer": "Toyota car"
+    },
+    "JW6": {
+        "Manufacturer": "Mitsubishi FUSO division of Mitsubishi Motors (through mid 2003)"
+    },
+    "JY": {
+        "Manufacturer": "Yamaha Motor<ref name=\"KBA list\" />"
+    },
+    "JY3": {
+        "Manufacturer": "Yamaha Motor 3-wheel ATV"
+    },
+    "JY4": {
+        "Manufacturer": "Yamaha Motor 4-wheel ATV"
+    },
+    "JYA": {
+        "Manufacturer": "Yamaha Motor motorcycles"
+    },
+    "JYE": {
+        "Manufacturer": "Yamaha Motor snowmobile"
+    },
+    "KAL": {
+        "Manufacturer": "rowspan=\"3\" |Sri Lanka || Lanka Ashok Leyland"
+    },
+    "KAA": {
+        "Manufacturer": "RS Automotive"
+    },
+    "KA1": {
+        "Manufacturer": "KEWR Technologies"
+    },
+    "KF3": {
+        "Manufacturer": "rowspan=3| Israel || Merkavim"
+    },
+    "KF6": {
+        "Manufacturer": "Automotive Industries, Ltd."
+    },
+    "KF9": {
+        "Manufacturer": "Tomcar"
+    },
+    "004": {
+        "Manufacturer": "Tomcar"
+    },
+    "KLA": {
+        "Manufacturer": "rowspan=29| South Korea || Daewoo/GM Korea<ref name=\"KBA list\" />"
+    },
+    "KLT": {
+        "Manufacturer": "Tata Daewoo"
+    },
+    "KLU": {
+        "Manufacturer": "Tata Daewoo"
+    },
+    "KL1": {
+        "Manufacturer": "GM Daewoo/GM Korea Chevrolet car"
+    },
+    "KL2": {
+        "Manufacturer": "Daewoo/GM Daewoo Pontiac"
+    },
+    "KL3": {
+        "Manufacturer": "GM Daewoo/GM Korea Holden"
+    },
+    "KL4": {
+        "Manufacturer": "GM Korea Buick"
+    },
+    "KL5": {
+        "Manufacturer": "GM Daewoo Suzuki"
+    },
+    "KL6": {
+        "Manufacturer": "GM Daewoo GMC"
+    },
+    "KL7": {
+        "Manufacturer": "GM Daewoo/GM Korea Chevrolet MPV/SUV (Post-2000)"
+    },
+    "KL8": {
+        "Manufacturer": "GM Daewoo/GM Korea Chevrolet car (Spark)"
+    },
+    "KMA": {
+        "Manufacturer": "Asia Motors"
+    },
+    "KME": {
+        "Manufacturer": "Hyundai commercial truck"
+    },
+    "KMF": {
+        "Manufacturer": "Hyundai van & commercial truck & Bering Truck"
+    },
+    "KMH": {
+        "Manufacturer": "Hyundai car<ref name=\"KBA list\" />"
+    },
+    "KMJ": {
+        "Manufacturer": "Hyundai bus & minibus"
+    },
+    "KMT": {
+        "Manufacturer": "Genesis Motor car"
+    },
+    "KMU": {
+        "Manufacturer": "Genesis Motor SUV"
+    },
+    "KMY": {
+        "Manufacturer": "Daelim Motor Company, Ltd/DNA Motors Co., Ltd."
+    },
+    "KM4": {
+        "Manufacturer": "Hyosung Motors/S&T Motors/KR Motors"
+    },
+    "KM8": {
+        "Manufacturer": "Hyundai SUV"
+    },
+    "KNA": {
+        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+    },
+    "KNC": {
+        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+    },
+    "KNE": {
+        "Manufacturer": "Kia car<ref name=\"KBA list\" />"
+    },
+    "KND": {
+        "Manufacturer": "Kia SUV/MPV & Hyundai Entourage"
+    },
+    "KNJ": {
+        "Manufacturer": "Ford Festiva & Aspire"
+    },
+    "KNM": {
+        "Manufacturer": "Nissan Rogue made by Renault Samsung Motors"
+    },
+    "KPA": {
+        "Manufacturer": "SsangYong pickup"
+    },
+    "KPB": {
+        "Manufacturer": "SsangYong car"
+    },
+    "KPH": {
+        "Manufacturer": "Mitsubishi Precis"
+    },
+    "KPT": {
+        "Manufacturer": "SsangYong SUV/MPV<ref name=\"KBA list\" />"
+    },
+    "L1C": {
+        "Manufacturer": "rowspan=119| China || Hubei Huawei Special-Purpose Automobile"
+    },
+    "L2C": {
+        "Manufacturer": "Chery Jaguar Land Rover"
+    },
+    "L5Y": {
+        "Manufacturer": "Znen Taizhou Zhongneng Motorcycle Co. Ltd."
+    },
+    "L6T": {
+        "Manufacturer": "Geely"
+    },
+    "L8A": {
+        "Manufacturer": "Jinhua Youngman Automobile Manufacturing Co., Ltd."
+    },
+    "L8Y": {
+        "Manufacturer": "Zhejiang Jonway Motorcycle Manufacturing Co., Ltd."
+    },
+    "L9N": {
+        "Manufacturer": "Zhejiang Taotao Vehicles Co., Ltd."
+    },
+    "LA6": {
+        "Manufacturer": "King Long"
+    },
+    "LA9": {
+        "Manufacturer": "BYD Auto"
+    },
+    "LC0": {
+        "Manufacturer": "BYD Auto Industry Co. Ltd."
+    },
+    "LAL": {
+        "Manufacturer": "Sundiro Honda Motorcycle Co., Ltd."
+    },
+    "LB1": {
+        "Manufacturer": "Fujian Benz"
+    },
+    "LB2": {
+        "Manufacturer": "Geely motorcycle"
+    },
+    "LB3": {
+        "Manufacturer": "Geely"
+    },
+    "LBB": {
+        "Manufacturer": "Benelli"
+    },
+    "LBE": {
+        "Manufacturer": "Beijing Hyundai"
+    },
+    "LBP": {
+        "Manufacturer": "Chongqing Jianshe Yamaha Motor Co. Ltd."
+    },
+    "LBV": {
+        "Manufacturer": "BMW Brilliance"
+    },
+    "LC2": {
+        "Manufacturer": "Changzhou Kwang Yang Motor Co., Ltd."
+    },
+    "LC6": {
+        "Manufacturer": "Changzhou Haojue Suzuki Motorcycle Co. Ltd."
+    },
+    "LCE": {
+        "Manufacturer": "CF Moto by Chunfeng Holding Group Hangzhou Motorcycles Manufacturing Co., Ltd."
+    },
+    "LCR": {
+        "Manufacturer": "Gonow"
+    },
+    "LDC": {
+        "Manufacturer": "Dongfeng Peugeot-Citro\u00ebn"
+    },
+    "LDK": {
+        "Manufacturer": "FAW Bus (Dalian) Co., Ltd."
+    },
+    "LDN": {
+        "Manufacturer": "Soueast"
+    },
+    "LDY": {
+        "Manufacturer": "Zhongtong Bus"
+    },
+    "LE4": {
+        "Manufacturer": "Beijing Benz-Daimler Chrysler Automotive Co., Ltd."
+    },
+    "LEF": {
+        "Manufacturer": "JMC"
+    },
+    "LET": {
+        "Manufacturer": "Jiangxi Isuzu"
+    },
+    "LF3": {
+        "Manufacturer": "Lifan motorcycle"
+    },
+    "LFB": {
+        "Manufacturer": "FAW Jilin"
+    },
+    "LFM": {
+        "Manufacturer": "FAW Toyota"
+    },
+    "LFN": {
+        "Manufacturer": "FAW Bus (Wuxi) Co., Ltd."
+    },
+    "LFP": {
+        "Manufacturer": "FAW Car"
+    },
+    "LFV": {
+        "Manufacturer": "FAW-Volkswagen"
+    },
+    "LGA": {
+        "Manufacturer": "Dongfeng Commercial Vehicle Co., Ltd. trucks"
+    },
+    "LGB": {
+        "Manufacturer": "Dongfeng Nissan"
+    },
+    "LGC": {
+        "Manufacturer": "Dongfeng Commercial Vehicle Co., Ltd. buses"
+    },
+    "LGG": {
+        "Manufacturer": "Dongfeng Liuzhou Motor"
+    },
+    "LGJ": {
+        "Manufacturer": "Dongfeng Fengshen (Aeolus)"
+    },
+    "LGL": {
+        "Manufacturer": "Guilin Daewoo"
+    },
+    "LGW": {
+        "Manufacturer": "Great Wall (Haval)"
+    },
+    "LGX": {
+        "Manufacturer": "BYD Auto"
+    },
+    "LGZ": {
+        "Manufacturer": "Guangzhou Denway Bus"
+    },
+    "LH1": {
+        "Manufacturer": "FAW Haima"
+    },
+    "LHG": {
+        "Manufacturer": "Guangzhou Honda"
+    },
+    "LJ1": {
+        "Manufacturer": "JAC"
+    },
+    "LJ8": {
+        "Manufacturer": "Zotye Auto"
+    },
+    "LJC": {
+        "Manufacturer": "Jincheng Corporation"
+    },
+    "LJD": {
+        "Manufacturer": "Dongfeng Yueda Kia"
+    },
+    "LJN": {
+        "Manufacturer": "Zhengzhou Nissan"
+    },
+    "LJS": {
+        "Manufacturer": "Yaxing Coach"
+    },
+    "LJU": {
+        "Manufacturer": "Shanghai Maple Automobile & Kandi"
+    },
+    "LJV": {
+        "Manufacturer": "Sinotruk Chengdu Wangpai Commercial Vehicle Co., Ltd."
+    },
+    "LJX": {
+        "Manufacturer": "JMC Ford"
+    },
+    "LKC": {
+        "Manufacturer": "Changhe"
+    },
+    "LKG": {
+        "Manufacturer": "Youngman Lotus Automobile Co., Ltd."
+    },
+    "LKL": {
+        "Manufacturer": "Higer Bus"
+    },
+    "LKT": {
+        "Manufacturer": "Yunnan Lifan Junma Vehicle Co., Ltd. commercial vehicles"
+    },
+    "LL3": {
+        "Manufacturer": "Xiamen Golden Dragon Bus Co. Ltd"
+    },
+    "LL6": {
+        "Manufacturer": "GAC Mitsubishi"
+    },
+    "LL8": {
+        "Manufacturer": "Jiangsu Linhai Yamaha Motor Co., Ltd."
+    },
+    "LLC": {
+        "Manufacturer": "Loncin Holdings"
+    },
+    "LLN": {
+        "Manufacturer": "Qoros"
+    },
+    "LLV": {
+        "Manufacturer": "Lifan"
+    },
+    "LM6": {
+        "Manufacturer": "SWM (automobiles)"
+    },
+    "LMG": {
+        "Manufacturer": "GAC Trumpchi"
+    },
+    "LNB": {
+        "Manufacturer": "BAIC Motor"
+    },
+    "LNP": {
+        "Manufacturer": "NAC MG UK Limited & Nanjing Fiat Automobile"
+    },
+    "LNY": {
+        "Manufacturer": "Yuejin"
+    },
+    "LPA": {
+        "Manufacturer": "Changan PSA (DS Automobiles)"
+    },
+    "LPE": {
+        "Manufacturer": "BYD Auto"
+    },
+    "LPS": {
+        "Manufacturer": "Polestar"
+    },
+    "LRB": {
+        "Manufacturer": "SAIC General Motors Buick"
+    },
+    "LRD": {
+        "Manufacturer": "Beijing Foton Daimler Automotive Co., Ltd. Auman trucks"
+    },
+    "LRE": {
+        "Manufacturer": "SAIC General Motors Cadillac"
+    },
+    "LRW": {
+        "Manufacturer": "Tesla"
+    },
+    "LS5": {
+        "Manufacturer": "Changan Automobile & Changan Suzuki"
+    },
+    "LS7": {
+        "Manufacturer": "JMC Heavy Duty Vehicle"
+    },
+    "LSF": {
+        "Manufacturer": "Shanghai Sunwin Bus Corporation"
+    },
+    "LSG": {
+        "Manufacturer": "SAIC General Motors Chevrolet"
+    },
+    "LSH": {
+        "Manufacturer": "SAIC Maxus"
+    },
+    "LSJ": {
+        "Manufacturer": "SAIC MG & SAIC Roewe"
+    },
+    "LSK": {
+        "Manufacturer": "SAIC Maxus"
+    },
+    "LSV": {
+        "Manufacturer": "SAIC Volkswagen"
+    },
+    "LSY": {
+        "Manufacturer": "Brilliance & Jinbei GM"
+    },
+    "LTA": {
+        "Manufacturer": "ZX Auto"
+    },
+    "LTN": {
+        "Manufacturer": "Soueast built Chrysler & Dodge vehicles"
+    },
+    "LTV": {
+        "Manufacturer": "FAW Toyota (Tianjin)"
+    },
+    "LUC": {
+        "Manufacturer": "Honda Automobile (China)"
+    },
+    "LUD": {
+        "Manufacturer": "Dongfeng Nissan Diesel Motor Co Ltd"
+    },
+    "LUX": {
+        "Manufacturer": "Dongfeng Yulon Motor Co. Ltd"
+    },
+    "LVA": {
+        "Manufacturer": "Foton Motor"
+    },
+    "LVB": {
+        "Manufacturer": "Foton Motor"
+    },
+    "LVC": {
+        "Manufacturer": "Foton Motor"
+    },
+    "LVF": {
+        "Manufacturer": "Changhe Suzuki"
+    },
+    "LVG": {
+        "Manufacturer": "GAC Toyota"
+    },
+    "LVH": {
+        "Manufacturer": "Dongfeng Honda"
+    },
+    "LVM": {
+        "Manufacturer": "Chery Commercial Vehicle"
+    },
+    "LVR": {
+        "Manufacturer": "Changan Mazda"
+    },
+    "LVS": {
+        "Manufacturer": "Changan Ford & Changan Ford Mazda"
+    },
+    "LVV": {
+        "Manufacturer": "Chery"
+    },
+    "LVX": {
+        "Manufacturer": "Landwind"
+    },
+    "LVY": {
+        "Manufacturer": "Volvo Cars Daqing factory"
+    },
+    "LVZ": {
+        "Manufacturer": "DFSK Motor"
+    },
+    "LWB": {
+        "Manufacturer": "Wuyang Honda Motorcycle (Guangzhou) Co., Ltd."
+    },
+    "LWL": {
+        "Manufacturer": "Qingling Isuzu"
+    },
+    "LWV": {
+        "Manufacturer": "GAC Fiat Chrysler"
+    },
+    "LXV": {
+        "Manufacturer": "Beijing Borgward Automotive Co., Ltd."
+    },
+    "LXY": {
+        "Manufacturer": "Chongqing Shineray Motorcycle Co., Ltd."
+    },
+    "LYB": {
+        "Manufacturer": "Weichai (Yangzhou) Yaxing Automobile Co., Ltd."
+    },
+    "LYM": {
+        "Manufacturer": "Zhuzhou Jianshe Yamaha Motorcycle Co., Ltd."
+    },
+    "LYV": {
+        "Manufacturer": "Volvo Cars Chengdu factory & Luqiao factory"
+    },
+    "LZF": {
+        "Manufacturer": "SAIC Iveco Hongyan"
+    },
+    "LZG": {
+        "Manufacturer": "Shaanxi Automobile Group Shacman Bus"
+    },
+    "LZK": {
+        "Manufacturer": "Sinotruk (CNHTC) Huanghe bus"
+    },
+    "LZS": {
+        "Manufacturer": "Zongshen"
+    },
+    "LZU": {
+        "Manufacturer": "Guangzhou Isuzu Bus"
+    },
+    "LZW": {
+        "Manufacturer": "SAIC GM Wuling"
+    },
+    "LZY": {
+        "Manufacturer": "Yutong"
+    },
+    "LZZ": {
+        "Manufacturer": "Sinotruk (CNHTC) Howo, Sitrak"
+    },
+    "MA1": {
+        "Manufacturer": "rowspan=51| India || Mahindra"
+    },
+    "MA3": {
+        "Manufacturer": "Maruti Suzuki India Limited"
+    },
+    "MA6": {
+        "Manufacturer": "General Motors India Pvt. Ltd."
+    },
+    "MA7": {
+        "Manufacturer": "Hindustan Motors Ltd & Mitsubishi Motors models made by Hindustan Motors & Isuzu models made by Hindustan Motors"
+    },
+    "MAH": {
+        "Manufacturer": "Fiat India Automobiles Pvt. Ltd"
+    },
+    "MAJ": {
+        "Manufacturer": "Ford India"
+    },
+    "MAK": {
+        "Manufacturer": "Honda Cars India"
+    },
+    "MAL": {
+        "Manufacturer": "Hyundai Motor India"
+    },
+    "MAN": {
+        "Manufacturer": "Eicher Polaris Multix"
+    },
+    "MAT": {
+        "Manufacturer": "Tata Motors"
+    },
+    "MB1": {
+        "Manufacturer": "Ashok Leyland Ltd"
+    },
+    "MB8": {
+        "Manufacturer": "Suzuki Motorcycle India Limited"
+    },
+    "MBF": {
+        "Manufacturer": "Royal Enfield"
+    },
+    "MBH": {
+        "Manufacturer": "Maruti Suzuki India Limited"
+    },
+    "MBJ": {
+        "Manufacturer": "Toyota Kirloskar Motor Pvt Ltd"
+    },
+    "MBK": {
+        "Manufacturer": "MAN Trucks India Pvt. Ltd"
+    },
+    "MBL": {
+        "Manufacturer": "Hero MotoCorp"
+    },
+    "MBU": {
+        "Manufacturer": "Swaraj Vehicles Limited"
+    },
+    "MBV": {
+        "Manufacturer": "Premier Automobiles Limited"
+    },
+    "MBX": {
+        "Manufacturer": "Piaggio India Piaggio Ape"
+    },
+    "MBY": {
+        "Manufacturer": "Asia Motor Works Ltd"
+    },
+    "MC1": {
+        "Manufacturer": "Force Motors Limited"
+    },
+    "MC2": {
+        "Manufacturer": "Eicher Motors Limited"
+    },
+    "MC4": {
+        "Manufacturer": "Dilip Chhabria Design Pvt Ltd"
+    },
+    "MCA": {
+        "Manufacturer": "FCA India Automobiles Pvt. Ltd"
+    },
+    "MCB": {
+        "Manufacturer": "General Motors India Pvt. Ltd."
+    },
+    "MCD": {
+        "Manufacturer": "Mahindra Two Wheelers"
+    },
+    "MCG": {
+        "Manufacturer": "Atul Auto"
+    },
+    "MCL": {
+        "Manufacturer": "International Cars And Motors Ltd"
+    },
+    "MD2": {
+        "Manufacturer": "Bajaj Auto Ltd & Husqvarna models built by Bajaj"
+    },
+    "MD6": {
+        "Manufacturer": "TVS Motor Company"
+    },
+    "MD7": {
+        "Manufacturer": "LML Ltd including Genuine Scooter Company Stella"
+    },
+    "MDE": {
+        "Manufacturer": "Kinetic Engineering Limited"
+    },
+    "MDH": {
+        "Manufacturer": "Nissan Motor India Pvt Ltd"
+    },
+    "MDT": {
+        "Manufacturer": "Kerala Automobiles Limited"
+    },
+    "ME1": {
+        "Manufacturer": "India Yamaha Motor Pvt. Ltd"
+    },
+    "ME3": {
+        "Manufacturer": "Royal Enfield"
+    },
+    "ME4": {
+        "Manufacturer": "Honda Motorcycle and Scooter India"
+    },
+    "ME9": {
+        "Manufacturer": "BUYMYEV TECHNOLOGY PVT LTD"
+    },
+    "MEC": {
+        "Manufacturer": "Daimler India Commercial Vehicles Pvt. Ltd. BharatBenz"
+    },
+    "MEE": {
+        "Manufacturer": "Renault India Private Limited"
+    },
+    "MEG": {
+        "Manufacturer": "Harley-Davidson India"
+    },
+    "MER": {
+        "Manufacturer": "Benelli"
+    },
+    "MET": {
+        "Manufacturer": "Piaggio India Vespa"
+    },
+    "MEX": {
+        "Manufacturer": "\u0160koda Auto Volkswagen India Pvt. Ltd. 2015 on"
+    },
+    "MYH": {
+        "Manufacturer": "Ather Energy"
+    },
+    "MZ7": {
+        "Manufacturer": "MG Motor India Pvt. Ltd."
+    },
+    "MZB": {
+        "Manufacturer": "Kia India Pvt. Ltd."
+    },
+    "MZD": {
+        "Manufacturer": "Classic Legends Private Limited \u2013 Jawa"
+    },
+    "M3G": {
+        "Manufacturer": "Isuzu Motors India"
+    },
+    "M6F": {
+        "Manufacturer": "UM Lohia Two Wheelers Private Limited"
+    },
+    "MH1": {
+        "Manufacturer": "rowspan=12| Indonesia || PT Astra Honda Motor"
+    },
+    "MH3": {
+        "Manufacturer": "PT Yamaha Indonesia Motor Mfg."
+    },
+    "MH4": {
+        "Manufacturer": "PT Kawasaki Motor Indonesia"
+    },
+    "MHF": {
+        "Manufacturer": "PT Toyota Astra Motor"
+    },
+    "MHH": {
+        "Manufacturer": "BMW cars 2003-2019 India{{clarify|reason=India or Indonesia?|date=April 2024}}"
+    },
+    "MHK": {
+        "Manufacturer": "PT Astra Daihatsu Motor including Toyotas made by Astra Daihatsu"
+    },
+    "MHL": {
+        "Manufacturer": "PT Mercedes-Benz Indonesia"
+    },
+    "MHR": {
+        "Manufacturer": "PT Honda Prospect Motor"
+    },
+    "MHY": {
+        "Manufacturer": "PT Suzuki Indomobil Motor"
+    },
+    "MJB": {
+        "Manufacturer": "GM Indonesia"
+    },
+    "MK2": {
+        "Manufacturer": "Mitsubishi Motors Krama Yudha Indonesia"
+    },
+    "MK3": {
+        "Manufacturer": "PT SGMW Motor Indonesia Wuling"
+    },
+    "ML0": {
+        "Manufacturer": "rowspan=34| Thailand || Ducati Motor (Thailand) Co., Ltd."
+    },
+    "ML3": {
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
+    },
+    "ML5": {
+        "Manufacturer": "Kawasaki Motors Enterprise Co. Ltd. (Thailand)"
+    },
+    "MLC": {
+        "Manufacturer": "Thai Suzuki Motor Co., Ltd."
+    },
+    "MLE": {
+        "Manufacturer": "Thai Yamaha Motor Co., Ltd."
+    },
+    "MLH": {
+        "Manufacturer": "Honda motorcycle"
+    },
+    "MLY": {
+        "Manufacturer": "Harley-Davidson"
+    },
+    "MM0": {
+        "Manufacturer": "AAT plant)"
+    },
+    "MM6": {
+        "Manufacturer": "AAT plant)"
+    },
+    "MM7": {
+        "Manufacturer": "AAT plant)"
+    },
+    "MM8": {
+        "Manufacturer": "AAT plant)<ref>{{Cite AV media|url=http://www.car.go.th//api/render/tagImageEcoA4grayCT/cc4463140bb246a89a2c4daefcd5e75e|title=ECO Sticker|website=car.go.th|url-status=dead|archive-url=https://web.archive.org/web/20211016002955/http://www.car.go.th/api/render/tagImageEcoA4grayCT/cc4463140bb246a89a2c4daefcd5e75e|archive-date=16 October 2021}}</ref>"
+    },
+    "MMA": {
+        "Manufacturer": "Mitsubishi Motors (Thailand)<ref name=\"KBA list\" />"
+    },
+    "MMB": {
+        "Manufacturer": "Mitsubishi Motors (Thailand)<ref name=\"KBA list\" />"
+    },
+    "MMC": {
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
+    },
+    "MMD": {
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
+    },
+    "MMF": {
+        "Manufacturer": "BMW<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/093082806ad44a8fa85aa1be049fac6c Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+    },
+    "MMH": {
+        "Manufacturer": "Tata<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/7d35eaf890b845f4aaa13b1974c8a598 Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+    },
+    "MMK": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MMM": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MML": {
+        "Manufacturer": "MG"
+    },
+    "MMR": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MMS": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MMT": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MMU": {
+        "Manufacturer": "Holden"
+    },
+    "MNA": {
+        "Manufacturer": "Ford (Ford-Mazda AAT plant) for Australia/New Zealand export"
+    },
+    "MNB": {
+        "Manufacturer": "Ford (Ford-Mazda AAT plant)<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/31c0027f349c47a8a36c315bcd970477 Tag Image] car.go.th {{dead link|date=September 2023}}</ref> for other right-hand drive markets"
+    },
+    "MNC": {
+        "Manufacturer": "Ford (Ford-Mazda AAT plant) for left-hand drive markets"
+    },
+    "MNK": {
+        "Manufacturer": "Hino Motors Manufacturing Thailand Co Ltd"
+    },
+    "MNT": {
+        "Manufacturer": "Nissan Motor Thailand"
+    },
+    "MPA": {
+        "Manufacturer": "IMCT Isuzu Motors Company Thailand"
+    },
+    "MPB": {
+        "Manufacturer": "Ford (FTM plant)<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/65710f4c794e44388ea4d6519e6b1fe6 Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+    },
+    "MP1": {
+        "Manufacturer": "IMCT Isuzu Motors Company Thailand"
+    },
+    "MP2": {
+        "Manufacturer": "Mazda BT-50 pickup built by Isuzu Motors (Thailand) Co., Ltd."
+    },
+    "MP5": {
+        "Manufacturer": "Foton<ref>[http://www.car.go.th//api/render/tagImageEcoA4CT/ba1b29ef16734c76b289b99eceb24e6e Tag Image] car.go.th {{dead link|date=September 2023}}</ref>"
+    },
+    "MRH": {
+        "Manufacturer": "Honda car"
+    },
+    "MR0": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MR1": {
+        "Manufacturer": "Toyota (Samrong plant) (Fortuner)"
+    },
+    "MR2": {
+        "Manufacturer": "date=September 2023}}</ref>"
+    },
+    "MS0": {
+        "Manufacturer": "rowspan=2| Myanmar|| SSS MOTORS Myanmar/Kia"
+    },
+    "MS3": {
+        "Manufacturer": "Suzuki Myanmar Motor Co., Ltd."
+    },
+    "MXV": {
+        "Manufacturer": "rowspan=2| Kazakhstan|| IMZ-Ural Ural Motorcycles"
+    },
+    "MX3": {
+        "Manufacturer": "Hyundai Trans Auto"
+    },
+    "NAA": {
+        "Manufacturer": "Iran khodro Company"
+    },
+    "NAD": {
+        "Manufacturer": "Saipa Diesel"
+    },
+    "NAG": {
+        "Manufacturer": "Bahman Industrial Group"
+    },
+    "NAP": {
+        "Manufacturer": "Pars Khodro"
+    },
+    "NAS": {
+        "Manufacturer": "Saipa Co."
+    },
+    "NC0": {
+        "Manufacturer": "row span =\u201c2\u201d | South Africa || BMW South Africa"
+    },
+    "NFB": {
+        "Manufacturer": "rowspan=\"2\" | Pakistan || Honda Atlas Cars Pakistan Ltd"
+    },
+    "NG3": {
+        "Manufacturer": "Lucky Motor Corporation"
+    },
+    "NLA": {
+        "Manufacturer": "rowspan=17| Turkey || Honda cars"
+    },
+    "NLC": {
+        "Manufacturer": "Askam Kamyon Imalat Ve Ticaret A.S."
+    },
+    "NLH": {
+        "Manufacturer": "Hyundai Assan Otomotiv car/SUV"
+    },
+    "NLJ": {
+        "Manufacturer": "Hyundai Assan Otomotiv van"
+    },
+    "NLN": {
+        "Manufacturer": "Karsan Automotive Industry & Trade"
+    },
+    "NLR": {
+        "Manufacturer": "Otokar"
+    },
+    "NLT": {
+        "Manufacturer": "TEMSA"
+    },
+    "NL1": {
+        "Manufacturer": "Togg"
+    },
+    "NMA": {
+        "Manufacturer": "MAN T\u00fcrkiye A.\u015e.<ref name=\"KBA list\" />"
+    },
+    "NMB": {
+        "Manufacturer": "Mercedes-Benz T\u00fcrk A.S."
+    },
+    "NMC": {
+        "Manufacturer": "BMC Otomotiv Sanayi ve Ticaret A.\u015e."
+    },
+    "NMH": {
+        "Manufacturer": "Honda motorcycle"
+    },
+    "NMT": {
+        "Manufacturer": "Toyota Motor Manufacturing Turkey"
+    },
+    "NM0": {
+        "Manufacturer": "Ford Otosan"
+    },
+    "NM1": {
+        "Manufacturer": "Oyak-Renault Oto Fab AS"
+    },
+    "NM4": {
+        "Manufacturer": "Tofas (Turk Otomobil Fabrikasi AS)"
+    },
+    "NNA": {
+        "Manufacturer": "Anadolu Isuzu"
+    },
+    "PAB": {
+        "Manufacturer": "rowspan=5| Philippines || Isuzu Philippines Corporation"
+    },
+    "PAD": {
+        "Manufacturer": "Honda Cars Philippines"
+    },
+    "PAF": {
+        "Manufacturer": "BMW  Philippines"
+    },
+    "PE1": {
+        "Manufacturer": "Ford Motor Company Philippines"
+    },
+    "PE3": {
+        "Manufacturer": "Mazda Philippines made by Ford Motor Company Philippines"
+    },
+    "PL1": {
+        "Manufacturer": "rowspan=\"26\" | Malaysia || Proton"
+    },
+    "PL8": {
+        "Manufacturer": "Hyundai/Inokom"
+    },
+    "PLP": {
+        "Manufacturer": "Subaru"
+    },
+    "PLZ": {
+        "Manufacturer": "Isuzu Malaysia"
+    },
+    "PMH": {
+        "Manufacturer": "Honda car"
+    },
+    "PML": {
+        "Manufacturer": "Hicom"
+    },
+    "PM1": {
+        "Manufacturer": "BMW"
+    },
+    "PM2": {
+        "Manufacturer": "Perodua"
+    },
+    "PM9": {
+        "Manufacturer": "Bufori"
+    },
+    "PMK": {
+        "Manufacturer": "Honda Boon Siew  motorcycle"
+    },
+    "PMN": {
+        "Manufacturer": "Modenas"
+    },
+    "PMV": {
+        "Manufacturer": "Hong Leong Yamaha Motor Sdn. Bhd."
+    },
+    "PNA": {
+        "Manufacturer": "Peugeot"
+    },
+    "PNV": {
+        "Manufacturer": "Volvo Cars"
+    },
+    "PN1": {
+        "Manufacturer": "Toyota"
+    },
+    "PN2": {
+        "Manufacturer": "Toyota"
+    },
+    "PN8": {
+        "Manufacturer": "Nissan"
+    },
+    "PP1": {
+        "Manufacturer": "Mazda"
+    },
+    "PP3": {
+        "Manufacturer": "Hyundai"
+    },
+    "PPP": {
+        "Manufacturer": "Suzuki"
+    },
+    "PPV": {
+        "Manufacturer": "Volkswagen"
+    },
+    "PR8": {
+        "Manufacturer": "Ford"
+    },
+    "PRA": {
+        "Manufacturer": "Sinotruk"
+    },
+    "PRH": {
+        "Manufacturer": "Chery"
+    },
+    "PRN": {
+        "Manufacturer": "GAC Trumpchi made by Warisan Tan Chong Automotif Malaysia"
+    },
+    "LFA": {
+        "Manufacturer": "rowspan=\"18\" | Taiwan || Ford Lio Ho Motor Co Ltd old designation"
+    },
+    "LM1": {
+        "Manufacturer": "Tai Ling Motor Co Ltd old designation"
+    },
+    "LM4": {
+        "Manufacturer": "Tai Ling Motor Co Ltd old designation"
+    },
+    "LPR": {
+        "Manufacturer": "Yamaha Motor Taiwan Co. Ltd. old designation"
+    },
+    "RF3": {
+        "Manufacturer": "Aeon Motor"
+    },
+    "RF5": {
+        "Manufacturer": "Yulon Motor Co Ltd"
+    },
+    "RFB": {
+        "Manufacturer": "Kymco"
+    },
+    "RFC": {
+        "Manufacturer": "Taiwan Golden Bee"
+    },
+    "RFD": {
+        "Manufacturer": "Tai Ling Motor Co Ltd new designation"
+    },
+    "RFG": {
+        "Manufacturer": "SYM Motors"
+    },
+    "RFV": {
+        "Manufacturer": "Genuine Scooter Company models made by PGO"
+    },
+    "RGS": {
+        "Manufacturer": "Kawasaki made by Kymco"
+    },
+    "RHA": {
+        "Manufacturer": "Ford Lio Ho Motor Co Ltd new designation"
+    },
+    "RK7": {
+        "Manufacturer": "Kawasaki ATV made by Tai Ling Motor Co Ltd (rebadged Suzuki ATV) new designation"
+    },
+    "RKJ": {
+        "Manufacturer": "Prince Motors Taiwan"
+    },
+    "RKL": {
+        "Manufacturer": "Kuozui Motors (Toyota)"
+    },
+    "RKM": {
+        "Manufacturer": "China Motor Corporation"
+    },
+    "RKR": {
+        "Manufacturer": "Yamaha Motor Taiwan Co. Ltd. new designation"
+    },
+    "RKT": {
+        "Manufacturer": "Honda Taiwan"
+    },
+    "RL0": {
+        "Manufacturer": "rowspan=11| Vietnam || Ford Vietnam"
+    },
+    "RL4": {
+        "Manufacturer": "Toyota Motor Vietnam"
+    },
+    "RLA": {
+        "Manufacturer": "Vina Star Motors Corp. \u2013 Mitsubishi"
+    },
+    "RLC": {
+        "Manufacturer": "Yamaha Motor Vietnam Co. Ltd."
+    },
+    "RLE": {
+        "Manufacturer": "Isuzu Vietnam Co."
+    },
+    "RLF": {
+        "Manufacturer": "BMW BMW cars 2003-2014 Vietnam"
+    },
+    "RLH": {
+        "Manufacturer": "Honda Vietnam Co. Ltd."
+    },
+    "RLL": {
+        "Manufacturer": "VinFast SUV"
+    },
+    "RLM": {
+        "Manufacturer": "Mercedes-Benz Vietnam"
+    },
+    "RLV": {
+        "Manufacturer": "Can-Am DS 70 & DS 90"
+    },
+    "RP8": {
+        "Manufacturer": "Piaggio Vietnam Co. Ltd."
+    },
+    "R4N": {
+        "Manufacturer": "Hong Kong ||  Elyx Smart Technology Holdings (Hong Kong) Ltd."
+    },
+    "SA9": {
+        "Manufacturer": "KaiserRushforth"
+    },
+    "005": {
+        "Manufacturer": "Panther"
+    },
+    "019": {
+        "Manufacturer": "TVR"
+    },
+    "039": {
+        "Manufacturer": "Westfield Sportscars"
+    },
+    "048": {
+        "Manufacturer": "Vector Aeromotive"
+    },
+    "050": {
+        "Manufacturer": "Marcos Engineering"
+    },
+    "130": {
+        "Manufacturer": "MG Sport and Racing"
+    },
+    "506": {
+        "Manufacturer": "KaiserRushforth"
+    },
+    "SAA": {
+        "Manufacturer": "rowspan=59| United Kingdom  || Austin"
+    },
+    "SAB": {
+        "Manufacturer": "Optare"
+    },
+    "SAD": {
+        "Manufacturer": "Jaguar SUV"
+    },
+    "SAF": {
+        "Manufacturer": "ERF"
+    },
+    "SAH": {
+        "Manufacturer": "Honda made by Austin Rover Group"
+    },
+    "SAJ": {
+        "Manufacturer": "Jaguar"
+    },
+    "SAL": {
+        "Manufacturer": "Land Rover<ref name=\"KBA list\" />"
+    },
+    "SAM": {
+        "Manufacturer": "Morris"
+    },
+    "SAR": {
+        "Manufacturer": "Rover & MG Rover Group<ref name=\"KBA list\" />"
+    },
+    "SAT": {
+        "Manufacturer": "Triumph car<ref name=\"KBA list\" />"
+    },
+    "SAX": {
+        "Manufacturer": "Sterling Cars"
+    },
+    "SAY": {
+        "Manufacturer": "Norton Motorcycles"
+    },
+    "SAZ": {
+        "Manufacturer": "Freight Rover"
+    },
+    "SBB": {
+        "Manufacturer": "Leyland Vehicles"
+    },
+    "SBC": {
+        "Manufacturer": "Iveco Ford Truck"
+    },
+    "SBJ": {
+        "Manufacturer": "Leyland Bus"
+    },
+    "SBL": {
+        "Manufacturer": "Leyland Motors & Leyland DAF"
+    },
+    "SBM": {
+        "Manufacturer": "McLaren Group<ref name=\"KBA list\" />"
+    },
+    "SBS": {
+        "Manufacturer": "Scammell"
+    },
+    "SBV": {
+        "Manufacturer": "Kenworth & Peterbilt trucks made by Leyland Trucks"
+    },
+    "SB1": {
+        "Manufacturer": "Toyota Manufacturing UK<ref name=\"KBA list\" />"
+    },
+    "SCA": {
+        "Manufacturer": "Rolls-Royce Motor Cars & Rolls-Royce Motors car"
+    },
+    "SCB": {
+        "Manufacturer": "Bentley Motors Limited"
+    },
+    "SCC": {
+        "Manufacturer": "Lotus Cars Limited<ref name=\"KBA list\" />"
+    },
+    "SCE": {
+        "Manufacturer": "DeLorean"
+    },
+    "SCF": {
+        "Manufacturer": "Aston Martin Lagonda Limited<ref name=\"KBA list\" />"
+    },
+    "SCG": {
+        "Manufacturer": "Triumph Engineering original Triumph Motorcycle company"
+    },
+    "SCK": {
+        "Manufacturer": "Ifor Williams Trailers"
+    },
+    "SCR": {
+        "Manufacturer": "London Electric Vehicle Company & London Taxi Company & London Taxis International"
+    },
+    "SCV": {
+        "Manufacturer": "Volvo Truck & Bus"
+    },
+    "SC6": {
+        "Manufacturer": "INEOS Automotive<ref name=\"KBA list\" />"
+    },
+    "SDB": {
+        "Manufacturer": "Talbot Motor Company"
+    },
+    "SDF": {
+        "Manufacturer": "Dodge Trucks \u2013 UK 1981\u20131984"
+    },
+    "SDG": {
+        "Manufacturer": "Renault Trucks Industries 1985\u20131992"
+    },
+    "SDK": {
+        "Manufacturer": "Caterham Cars"
+    },
+    "SDL": {
+        "Manufacturer": "TVR"
+    },
+    "SDP": {
+        "Manufacturer": "MG Motor NAC MG UK & MG Motor UK"
+    },
+    "SD7": {
+        "Manufacturer": "Aston Martin SUVs"
+    },
+    "SED": {
+        "Manufacturer": "IBC Vehicles (Isuzu Bedford Company)"
+    },
+    "SEG": {
+        "Manufacturer": "Dennis Eagle"
+    },
+    "SEY": {
+        "Manufacturer": "LDV Group"
+    },
+    "SFA": {
+        "Manufacturer": "Ford of Britain"
+    },
+    "SFD": {
+        "Manufacturer": "Dennis"
+    },
+    "SFE": {
+        "Manufacturer": "Alexander Dennis"
+    },
+    "SFN": {
+        "Manufacturer": "Foden"
+    },
+    "SFZ": {
+        "Manufacturer": "Tesla Roadster made by Lotus"
+    },
+    "SGD": {
+        "Manufacturer": "Swift Group Ltd."
+    },
+    "SHH": {
+        "Manufacturer": "Honda UK Manufacturing car<ref name=\"KBA list\" />"
+    },
+    "SHS": {
+        "Manufacturer": "Honda UK Manufacturing SUV<ref name=\"KBA list\" />"
+    },
+    "SJA": {
+        "Manufacturer": "Bentley SUV"
+    },
+    "SJK": {
+        "Manufacturer": "Nissan Motor Manufacturing UK<ref name=\"KBA list\" /> Infiniti"
+    },
+    "SJN": {
+        "Manufacturer": "Nissan Motor Manufacturing UK<ref name=\"KBA list\" /> Nissan"
+    },
+    "SKA": {
+        "Manufacturer": "Vauxhall Motors"
+    },
+    "SKF": {
+        "Manufacturer": "Bedford Vehicles"
+    },
+    "SLA": {
+        "Manufacturer": "Rolls-Royce Motor Cars SUV"
+    },
+    "SLP": {
+        "Manufacturer": "JC Bamford Excavators"
+    },
+    "SLV": {
+        "Manufacturer": "Volvo Bus"
+    },
+    "SMT": {
+        "Manufacturer": "Triumph Motorcycles Ltd current Triumph Motorcycle company"
+    },
+    "SNE": {
+        "Manufacturer": "rowspan=3| East Germany || Wartburg"
+    },
+    "SNT": {
+        "Manufacturer": "Trabant"
+    },
+    "SNZ": {
+        "Manufacturer": "MZ Motorrad- und Zweiradwerk"
+    },
+    "SUA": {
+        "Manufacturer": "rowspan=\"20\" | Poland || Sanocka Fabryka Autobusow Sfa / Autosan"
+    },
+    "SUD": {
+        "Manufacturer": "Wielton"
+    },
+    "SUF": {
+        "Manufacturer": "Fabryka Samochod\u00f3w Ma\u0142olitra\u017cowych"
+    },
+    "SUJ": {
+        "Manufacturer": "Jelcz"
+    },
+    "SUL": {
+        "Manufacturer": "FSC Lublin Automotive Factory"
+    },
+    "SUM": {
+        "Manufacturer": "Metal-Fach Sp. z o.o."
+    },
+    "SUN": {
+        "Manufacturer": "{{ill|Department of Commercial Vehicles|pl|Zak\u0142ad Samochod\u00f3w Dostawczych|lt=FSD}}"
+    },
+    "SUP": {
+        "Manufacturer": "Fabryka Samochodow Osobowych"
+    },
+    "SUR": {
+        "Manufacturer": "Factory of Agricultural Vehicles \u2018Polmo\u2019 in Pozna\u0144"
+    },
+    "SUS": {
+        "Manufacturer": "Fabryka Samochod\u00f3w Ci\u0119\u017carowych \u201eStar\u201d"
+    },
+    "SUU": {
+        "Manufacturer": "Solaris Bus & Coach"
+    },
+    "SUZ": {
+        "Manufacturer": "Zas\u0142aw"
+    },
+    "SW9": {
+        "Manufacturer": "Solbus"
+    },
+    "SX9": {
+        "Manufacturer": "SOMMER"
+    },
+    "SZ9": {
+        "Manufacturer": "EPOKA"
+    },
+    "SZA": {
+        "Manufacturer": "Scania Production Slupsk"
+    },
+    "SZB": {
+        "Manufacturer": "Pronar"
+    },
+    "SZH": {
+        "Manufacturer": "BWW"
+    },
+    "SZR": {
+        "Manufacturer": "BORO"
+    },
+    "TAM": {
+        "Manufacturer": "rowspan=6|Switzerland || Mowag"
+    },
+    "TAP": {
+        "Manufacturer": "Polaris Europe (based in Switzerland)"
+    },
+    "TAW": {
+        "Manufacturer": "Nutzfahrzeuggesellschaft Arbon & Wetzikon (NAW) former Swiss manufacturer of commercial vehicles (until 2003)"
+    },
+    "TCC": {
+        "Manufacturer": "Micro Compact Car<ref name=\"KBA list\" /> (until 5/99)"
+    },
+    "TEB": {
+        "Manufacturer": "Bucher Municipal including Johnston Sweepers of the UK (owned by Bucher Municipal of Switzerland)"
+    },
+    "TH9": {
+        "Manufacturer": "Carrosserie HESS AG Swiss manufacturer of buses and trolleybuses"
+    },
+    "TK9": {
+        "Manufacturer": "rowspan=10| Czech Republic || SOR Libchavy"
+    },
+    "SL5": {
+        "Manufacturer": "rowspan=10| Czech Republic || SOR Libchavy"
+    },
+    "TLJ": {
+        "Manufacturer": "Jawa Moto"
+    },
+    "TMA": {
+        "Manufacturer": "Hyundai Motor Manufacturing Czech car<ref name=\"KBA list\" />"
+    },
+    "TMB": {
+        "Manufacturer": "\u0160koda Auto AS<ref name=\"KBA list\" />"
+    },
+    "TMC": {
+        "Manufacturer": "Hyundai Motor Manufacturing Czech SUV"
+    },
+    "TMK": {
+        "Manufacturer": "Karosa"
+    },
+    "TMP": {
+        "Manufacturer": "\u0160koda Ostrov"
+    },
+    "TMT": {
+        "Manufacturer": "Tatra car"
+    },
+    "TNA": {
+        "Manufacturer": "Avia/Daewoo Avia"
+    },
+    "TNT": {
+        "Manufacturer": "Tatra trucks"
+    },
+    "TNU": {
+        "Manufacturer": "Tatra trucks"
+    },
+    "TRA": {
+        "Manufacturer": "rowspan=3| Hungary || Ikarus Bus"
+    },
+    "TRU": {
+        "Manufacturer": "Audi<ref name=\"KBA list\" />"
+    },
+    "TSM": {
+        "Manufacturer": "Suzuki<ref name=\"KBA list\" />"
+    },
+    "TW1": {
+        "Manufacturer": "rowspan=8| Portugal || Toyota Caetano Portugal"
+    },
+    "TW3": {
+        "Manufacturer": "Renault Portuguesa SARL"
+    },
+    "TW7": {
+        "Manufacturer": "Mini Moke made by British Leyland & Austin Rover"
+    },
+    "TW8": {
+        "Manufacturer": "General Motors De Portugal Lda"
+    },
+    "TWG": {
+        "Manufacturer": "Salvador Caetano"
+    },
+    "TX5": {
+        "Manufacturer": "Mini Moke made by Cagiva"
+    },
+    "TYA": {
+        "Manufacturer": "Mitsubishi Fuso Truck and Bus Corp."
+    },
+    "TYB": {
+        "Manufacturer": "Mitsubishi Fuso Truck and Bus Corp."
+    },
+    "U5Y": {
+        "Manufacturer": "rowspan=2| Slovakia || Kia Motors Slovakia car<ref name=\"KBA list\" />"
+    },
+    "U6Y": {
+        "Manufacturer": "Kia Motors Slovakia SUV"
+    },
+    "UKH": {
+        "Manufacturer": "rowspan=2| Denmark || HARDI International A/S (Agricultural Machinery)"
+    },
+    "ULA": {
+        "Manufacturer": "ASA-LIFT: Vegetable Technology Specialist (Agricultural Machinery)"
+    },
+    "UU1": {
+        "Manufacturer": "rowspan=8| Romania || Dacia<ref name=\"KBA list\" />"
+    },
+    "UU2": {
+        "Manufacturer": "Oltcit"
+    },
+    "UU3": {
+        "Manufacturer": "ARO"
+    },
+    "UU5": {
+        "Manufacturer": "Rocar"
+    },
+    "UU6": {
+        "Manufacturer": "Daewoo Romania"
+    },
+    "UU7": {
+        "Manufacturer": "Euro Bus Diamond"
+    },
+    "UU9": {
+        "Manufacturer": "Astra Bus"
+    },
+    "UZT": {
+        "Manufacturer": "UTB (Uzina de Tractoare Bra\u0219ov)"
+    },
+    "VA0": {
+        "Manufacturer": "rowspan=\"7\" | Austria || \u00d6AF<ref name=\"KBA list\" />"
+    },
+    "VAG": {
+        "Manufacturer": "Puch G & Steyr-Puch Pinzgauer"
+    },
+    "VAN": {
+        "Manufacturer": "Steyr-Daimler-Puch Steyr Trucks"
+    },
+    "VBK": {
+        "Manufacturer": "Husqvarna Motorcycles & Gas Gas under KTM ownership"
+    },
+    "VCF": {
+        "Manufacturer": "Fisker Ocean) made by Magna Steyr"
+    },
+    "VF1": {
+        "Manufacturer": "rowspan=\"33\" | France || Renault<ref name=\"KBA list\" /> & Eagle Medallion made by Renault"
+    },
+    "VF2": {
+        "Manufacturer": "Renault Trucks<ref name=\"KBA list\" />"
+    },
+    "VF3": {
+        "Manufacturer": "Peugeot<ref name=\"KBA list\" />"
+    },
+    "VF4": {
+        "Manufacturer": "Talbot<ref name=\"KBA list\" />"
+    },
+    "VF5": {
+        "Manufacturer": "Iveco Unic<ref name=\"KBA list\" />"
+    },
+    "VF6": {
+        "Manufacturer": "Renault Trucks<ref name=\"KBA list\" />"
+    },
+    "VF7": {
+        "Manufacturer": "Citro\u00ebn<ref name=\"KBA list\" />"
+    },
+    "VF8": {
+        "Manufacturer": "Matra/Talbot/Simca<ref name=\"KBA list\" />"
+    },
+    "VF9": {
+        "Manufacturer": "Bugatti Automobiles S.A.S.<ref name=\"KBA list\" />"
+    },
+    "607": {
+        "Manufacturer": "Mathieu Fayat Group"
+    },
+    "673": {
+        "Manufacturer": "Venturi Automobiles"
+    },
+    "795": {
+        "Manufacturer": "Bugatti Automobiles S.A.S.<ref name=\"KBA list\" />"
+    },
+    "VFA": {
+        "Manufacturer": "Alpine"
+    },
+    "VG5": {
+        "Manufacturer": "MBK & Yamaha Motor"
+    },
+    "VG6": {
+        "Manufacturer": "Renault Trucks & Mack Trucks medium duty trucks made by Renault Trucks"
+    },
+    "VG9": {
+        "Manufacturer": "EVRARD (Agricultural Machinery)"
+    },
+    "VGA": {
+        "Manufacturer": "Peugeot Motocycles"
+    },
+    "VJ1": {
+        "Manufacturer": "Heuliez Bus"
+    },
+    "VK8": {
+        "Manufacturer": "Venturi Automobiles"
+    },
+    "VL4": {
+        "Manufacturer": "Bluecar"
+    },
+    "VLU": {
+        "Manufacturer": "Scania Production Angers"
+    },
+    "VMK": {
+        "Manufacturer": "Renault Sport Spider"
+    },
+    "VN1": {
+        "Manufacturer": "Renault SOVAB"
+    },
+    "VNE": {
+        "Manufacturer": "Iveco Bus"
+    },
+    "VNK": {
+        "Manufacturer": "Toyota Motor Manufacturing France"
+    },
+    "VNV": {
+        "Manufacturer": "Nissan"
+    },
+    "VR1": {
+        "Manufacturer": "DS Automobiles"
+    },
+    "VR3": {
+        "Manufacturer": "Peugeot"
+    },
+    "VR7": {
+        "Manufacturer": "Citro\u00ebn"
+    },
+    "VPS": {
+        "Manufacturer": "MLT Automotive"
+    },
+    "VXE": {
+        "Manufacturer": "Opel Automobile GmbH/Vauxhall van"
+    },
+    "VXK": {
+        "Manufacturer": "Opel Automobile GmbH/Vauxhall car/SUV"
+    },
+    "VYC": {
+        "Manufacturer": "Lancia (models on PSA CMP platform)"
+    },
+    "VS1": {
+        "Manufacturer": "rowspan=18| Spain || Pegaso"
+    },
+    "VS5": {
+        "Manufacturer": "Renault Espa\u00f1a"
+    },
+    "VS6": {
+        "Manufacturer": "Ford Espana"
+    },
+    "VS7": {
+        "Manufacturer": "Citro\u00ebn"
+    },
+    "VS8": {
+        "Manufacturer": "Peugeot"
+    },
+    "VSC": {
+        "Manufacturer": "Mercedes-Benz Espana SA (Vitoria)"
+    },
+    "VSE": {
+        "Manufacturer": "Santana Motor"
+    },
+    "VSK": {
+        "Manufacturer": "Nissan Motor Iberica SA, Nissan passenger car/MPV/van/SUV/pickup & Ford Maverick 1993\u20131999"
+    },
+    "VSS": {
+        "Manufacturer": "SEAT<ref name=\"KBA list\" />"
+    },
+    "VSX": {
+        "Manufacturer": "Opel Automobile Espana, SA"
+    },
+    "VTD": {
+        "Manufacturer": "Montesa Honda Honda Montesa motorcycle models"
+    },
+    "VTH": {
+        "Manufacturer": "Derbi"
+    },
+    "VTL": {
+        "Manufacturer": "Yamaha Motor Espa\u00f1a SA & Yamaha Sociedad Espa\u00f1ola de Motocicletas"
+    },
+    "VTM": {
+        "Manufacturer": "Montesa Honda Honda motorcycle models"
+    },
+    "VTR": {
+        "Manufacturer": "Gas Gas"
+    },
+    "VTT": {
+        "Manufacturer": "Suzuki Motor Espa\u00f1a Motorcycle"
+    },
+    "VV9": {
+        "Manufacturer": "Tauro Sport Auto"
+    },
+    "VWA": {
+        "Manufacturer": "Nissan Vehiculos Industriales SA, Nissan Commercial Vehicles"
+    },
+    "VX1": {
+        "Manufacturer": "Yugoslavia/Serbia || Zastava Automobiles"
+    },
+    "V31": {
+        "Manufacturer": "rowspan=2| Croatia || Tvornica Autobusa Zagreb (TAZ)"
+    },
+    "V39": {
+        "Manufacturer": "Rimac Automobili"
+    },
+    "AB8": {
+        "Manufacturer": "Rimac Automobili"
+    },
+    "WAC": {
+        "Manufacturer": "rowspan=\"87\" | Germany || RS 2 Avant"
+    },
+    "WAG": {
+        "Manufacturer": "Neoplan<ref name=\"KBA list\" />"
+    },
+    "WAU": {
+        "Manufacturer": "Audi car<ref name=\"KBA list\" />"
+    },
+    "WAP": {
+        "Manufacturer": "Alpina<ref name=\"KBA list\" />"
+    },
+    "WUA": {
+        "Manufacturer": "Audi Sport GmbH & Quattro GmbH car<ref name=\"KBA list\" />"
+    },
+    "WBA": {
+        "Manufacturer": "BMW car<ref name=\"KBA list\" />"
+    },
+    "WBS": {
+        "Manufacturer": "BMW M car<ref name=\"KBA list\" />"
+    },
+    "WBX": {
+        "Manufacturer": "BMW SUV<ref name=\"KBA list\" />"
+    },
+    "WBY": {
+        "Manufacturer": "BMW i car"
+    },
+    "WB1": {
+        "Manufacturer": "BMW Motorrad Motorcycle"
+    },
+    "WB3": {
+        "Manufacturer": "BMW Motorrad Motorcycles made in India"
+    },
+    "WB4": {
+        "Manufacturer": "BMW Motorrad Motorscooters made in China"
+    },
+    "WB5": {
+        "Manufacturer": "BMW i SUV"
+    },
+    "WB6": {
+        "Manufacturer": "BMW M SUV"
+    },
+    "WCD": {
+        "Manufacturer": "Freightliner Sprinter \"bus\" (van with more than 3 rows of seats) 2008\u20132019"
+    },
+    "WD0": {
+        "Manufacturer": "Dodge Sprinter truck (cargo van with 1 row of seats) 2005\u20132009"
+    },
+    "WD1": {
+        "Manufacturer": "Dodge or Freightliner) 2003\u20132005 incomplete vehicle"
+    },
+    "WD2": {
+        "Manufacturer": "Dodge or Freightliner) 2003\u20132005 truck (cargo van with 1 row of seats)"
+    },
+    "WD3": {
+        "Manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+    },
+    "WD4": {
+        "Manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+    },
+    "WD5": {
+        "Manufacturer": "Dodge or Freightliner) 2003\u20132005 MPV (van with 2 or 3 rows of seats)"
+    },
+    "WD6": {
+        "Manufacturer": "Freightliner Unimog truck"
+    },
+    "WD7": {
+        "Manufacturer": "Freightliner Unimog incomplete vehicle"
+    },
+    "WD8": {
+        "Manufacturer": "Dodge Sprinter MPV (van with 2 or 3 rows of seats) 2005\u20132009"
+    },
+    "WDA": {
+        "Manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+    },
+    "WDB": {
+        "Manufacturer": "Mercedes-Benz & Maybach<ref name=\"KBA list\" />"
+    },
+    "WDC": {
+        "Manufacturer": "Mercedes-Benz SUV<ref name=\"KBA list\" />"
+    },
+    "WDD": {
+        "Manufacturer": "Mercedes-Benz car"
+    },
+    "WDF": {
+        "Manufacturer": "Vito & X-Class)"
+    },
+    "WDP": {
+        "Manufacturer": "Freightliner Sprinter incomplete vehicle 2005\u20132019"
+    },
+    "WDR": {
+        "Manufacturer": "Freightliner Sprinter MPV (van with 2 or 3 rows of seats) 2005\u20132019"
+    },
+    "WDW": {
+        "Manufacturer": "Dodge Sprinter \"bus\" (van with more than 3 rows of seats) 2008\u20132009"
+    },
+    "WDX": {
+        "Manufacturer": "Dodge Sprinter incomplete vehicle 2005\u20132009"
+    },
+    "WDY": {
+        "Manufacturer": "Freightliner Sprinter truck (cargo van with 1 row of seats) 2005\u20132019"
+    },
+    "WDZ": {
+        "Manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+    },
+    "WEB": {
+        "Manufacturer": "EvoBus Mercedes-Benz buses<ref name=\"KBA list\" />"
+    },
+    "WEL": {
+        "Manufacturer": "e.GO Mobile AG"
+    },
+    "WF0": {
+        "Manufacturer": "Ford of Europe<ref name=\"KBA list\" />"
+    },
+    "WF1": {
+        "Manufacturer": "Merkur"
+    },
+    "WJM": {
+        "Manufacturer": "Iveco/Iveco Magirus"
+    },
+    "WJR": {
+        "Manufacturer": "Irmscher<ref name=\"KBA list\" />"
+    },
+    "WKK": {
+        "Manufacturer": "Setra & Karl K\u00e4ssbohrer Fahrzeugwerke<ref name=\"KBA list\" />"
+    },
+    "WMA": {
+        "Manufacturer": "MAN<ref name=\"KBA list\" />"
+    },
+    "WME": {
+        "Manufacturer": "Smart<ref name=\"KBA list\" /> (from 5/99)"
+    },
+    "WMW": {
+        "Manufacturer": "Mini car<ref name=\"KBA list\" />"
+    },
+    "WMX": {
+        "Manufacturer": "Mercedes-AMG used for Mercedes-Benz SLS AMG & Mercedes-AMG GT (not used in North America)"
+    },
+    "WMZ": {
+        "Manufacturer": "Mini SUV"
+    },
+    "WNA": {
+        "Manufacturer": "Next.e.GO Mobile SE"
+    },
+    "WP0": {
+        "Manufacturer": "Porsche car<ref name=\"KBA list\" />"
+    },
+    "WP1": {
+        "Manufacturer": "Porsche SUV<ref name=\"KBA list\" />"
+    },
+    "WS5": {
+        "Manufacturer": "StreetScooter"
+    },
+    "WU1": {
+        "Manufacturer": "Audi Sport GmbH SUV"
+    },
+    "WVG": {
+        "Manufacturer": "Volkswagen SUV<ref name=\"KBA list\" />"
+    },
+    "WVM": {
+        "Manufacturer": "Arbeitsgemeinschaft VW-MAN"
+    },
+    "WVP": {
+        "Manufacturer": "Viseon Bus"
+    },
+    "WVW": {
+        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+    },
+    "WV1": {
+        "Manufacturer": "Volkswagen Commercial Vehicles<ref name=\"KBA list\" />"
+    },
+    "WV2": {
+        "Manufacturer": "Volkswagen Commercial Vehicles<ref name=\"KBA list\" />"
+    },
+    "WZ1": {
+        "Manufacturer": "Toyota Supra Fifth generation"
+    },
+    "W04": {
+        "Manufacturer": "Buick Regal & Buick Cascada"
+    },
+    "W06": {
+        "Manufacturer": "Cadillac Catera"
+    },
+    "W08": {
+        "Manufacturer": "Saturn Astra"
+    },
+    "W09": {
+        "Manufacturer": "Ruf Automobile<ref name=\"KBA list\" />"
+    },
+    "B09": {
+        "Manufacturer": "Bitter Cars"
+    },
+    "B16": {
+        "Manufacturer": "Brabus"
+    },
+    "D05": {
+        "Manufacturer": "Dr\u00f6gm\u00f6ller"
+    },
+    "HA8": {
+        "Manufacturer": "HWA AG"
+    },
+    "R06": {
+        "Manufacturer": "Ruf Automobile<ref name=\"KBA list\" />"
+    },
+    "W0L": {
+        "Manufacturer": "Adam Opel AG/Vauxhall<ref name=\"KBA list\" /> & Holden"
+    },
+    "W0S": {
+        "Manufacturer": "Opel Special Vehicles<ref name=\"KBA list\" />"
+    },
+    "W0V": {
+        "Manufacturer": "Opel Automobile Gmbh/Vauxhall & Holden"
+    },
+    "W1A": {
+        "Manufacturer": "Smart"
+    },
+    "W1H": {
+        "Manufacturer": "Freightliner Econic"
+    },
+    "W1K": {
+        "Manufacturer": "Mercedes-Benz car"
+    },
+    "W1N": {
+        "Manufacturer": "Mercedes-Benz SUV"
+    },
+    "W1T": {
+        "Manufacturer": "Mercedes-Benz truck"
+    },
+    "W1V": {
+        "Manufacturer": "Mercedes-Benz van"
+    },
+    "W1W": {
+        "Manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+    },
+    "W1X": {
+        "Manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+    },
+    "W1Y": {
+        "Manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+    },
+    "W1Z": {
+        "Manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+    },
+    "W2W": {
+        "Manufacturer": "Freightliner Sprinter MPV (van with 2 or 3 rows of seats)"
+    },
+    "W2X": {
+        "Manufacturer": "Freightliner Sprinter incomplete vehicle"
+    },
+    "W2Y": {
+        "Manufacturer": "Freightliner Sprinter truck (cargo van with 1 row of seats)"
+    },
+    "W2Z": {
+        "Manufacturer": "Freightliner Sprinter \"bus\" (van with more than 3 rows of seats)"
+    },
+    "XBB": {
+        "Manufacturer": "Bulgaria || Great Wall Motors/Litex Motors AD"
+    },
+    "XL9": {
+        "Manufacturer": "Groenewold Carrosseriefabriek B.V."
+    },
+    "003": {
+        "Manufacturer": "rowspan=\"14\" | Netherlands || Autobusfabriek Bova BV"
+    },
+    "320": {
+        "Manufacturer": "VDL Bova"
+    },
+    "363": {
+        "Manufacturer": "Spyker Cars"
+    },
+    "A27": {
+        "Manufacturer": "Groenewold Carrosseriefabriek B.V."
+    },
+    "XLB": {
+        "Manufacturer": "Volvo Car B.V./NedCar B.V. (Volvo Cars)"
+    },
+    "XLE": {
+        "Manufacturer": "Scania Nederland B.V."
+    },
+    "XLR": {
+        "Manufacturer": "DAF Trucks<ref name=\"KBA list\" /> & Leyland DAF"
+    },
+    "XLV": {
+        "Manufacturer": "DAF Bus"
+    },
+    "XMC": {
+        "Manufacturer": "NedCar B.V. Mitsubishi Motors"
+    },
+    "XMG": {
+        "Manufacturer": "VDL Bus International"
+    },
+    "XNC": {
+        "Manufacturer": "NedCar B.V. Mitsubishi Motors (Colt CZC convertible)"
+    },
+    "XNL": {
+        "Manufacturer": "VDL Bus & Coach"
+    },
+    "XP7": {
+        "Manufacturer": "Tesla Europe (based in the Netherlands)"
+    },
+    "XTA": {
+        "Manufacturer": "rowspan=28| Russia || AvtoVAZ<ref name=\"KBA list\" />"
+    },
+    "XTB": {
+        "Manufacturer": "AZLK<ref name=\"KBA list\" />"
+    },
+    "XTC": {
+        "Manufacturer": "KAMAZ"
+    },
+    "XTF": {
+        "Manufacturer": "GolAZ"
+    },
+    "XTH": {
+        "Manufacturer": "GAZ"
+    },
+    "XTT": {
+        "Manufacturer": "UAZ"
+    },
+    "XTY": {
+        "Manufacturer": "LiAZ"
+    },
+    "XU1": {
+        "Manufacturer": "UAZ Special Purpose Vehicles"
+    },
+    "XUF": {
+        "Manufacturer": "General Motors Russia"
+    },
+    "XUU": {
+        "Manufacturer": "Chevrolet made by Avtotor"
+    },
+    "XW7": {
+        "Manufacturer": "Toyota Motor Manufacturing Russia"
+    },
+    "XW8": {
+        "Manufacturer": "Volkswagen Group Rus"
+    },
+    "XWE": {
+        "Manufacturer": "Hyundai Motor Company & Kia made by Avtotor"
+    },
+    "X1E": {
+        "Manufacturer": "KAvZ"
+    },
+    "X1M": {
+        "Manufacturer": "PAZ"
+    },
+    "X4X": {
+        "Manufacturer": "BMW made by Avtotor"
+    },
+    "X7L": {
+        "Manufacturer": "Renault Russia"
+    },
+    "X8J": {
+        "Manufacturer": "IMZ-Ural Ural Motorcycles"
+    },
+    "X96": {
+        "Manufacturer": "GAZ"
+    },
+    "X9F": {
+        "Manufacturer": "Ford Motor Company ZAO"
+    },
+    "X9L": {
+        "Manufacturer": "GM-AvtoVAZ"
+    },
+    "X9P": {
+        "Manufacturer": "Volvo Vostok ZAO Volvo Trucks"
+    },
+    "X9X": {
+        "Manufacturer": "Great Wall Motors IMS Avtotrade-12 LLC"
+    },
+    "Z6F": {
+        "Manufacturer": "Ford Sollers"
+    },
+    "Z8N": {
+        "Manufacturer": "Nissan Manufacturing Rus"
+    },
+    "Z8T": {
+        "Manufacturer": "PCMA Rus"
+    },
+    "Z94": {
+        "Manufacturer": "Hyundai Motor Manufacturing Rus"
+    },
+    "Z9M": {
+        "Manufacturer": "Mercedes-Benz Trucks Vostok"
+    },
+    "XWB": {
+        "Manufacturer": "Uzbekist\u00e1n || Ravon"
+    },
+    "Y6D": {
+        "Manufacturer": "rowspan=5| Ukraine || ZAZ"
+    },
+    "Y6J": {
+        "Manufacturer": "Bogdan group"
+    },
+    "Y6U": {
+        "Manufacturer": "\u0160koda Auto made by Eurocar"
+    },
+    "Y7B": {
+        "Manufacturer": "Bogdan group"
+    },
+    "Y7C": {
+        "Manufacturer": "Great Wall Motors KrASZ"
+    },
+    "YAR": {
+        "Manufacturer": "rowspan=5| Belgium || Toyota Motor Europe (based in Belgium) used for Toyota ProAce & Toyota ProAce City"
+    },
+    "YB3": {
+        "Manufacturer": "Volvo Trucks"
+    },
+    "YB6": {
+        "Manufacturer": "Jonckheere"
+    },
+    "YC1": {
+        "Manufacturer": "Honda"
+    },
+    "YE2": {
+        "Manufacturer": "Van Hool<ref name=\"KBA list\" />"
+    },
+    "YH2": {
+        "Manufacturer": "rowspan=4| Finland || Lynx (snowmobile)"
+    },
+    "YH4": {
+        "Manufacturer": "Fisker Automotive (Fisker Karma) built by Valmet Automotive"
+    },
+    "YK1": {
+        "Manufacturer": "Saab<ref name=\"KBA list\" /> built by Valmet Automotive"
+    },
+    "YK7": {
+        "Manufacturer": "Sisu Auto"
+    },
+    "YS2": {
+        "Manufacturer": "rowspan=13| Sweden || Scania, S\u00f6dert\u00e4lje<ref name=\"KBA list\" /> truck"
+    },
+    "YS3": {
+        "Manufacturer": "Saab<ref name=\"KBA list\" />"
+    },
+    "YS4": {
+        "Manufacturer": "Scania, Katrineholm<ref name=\"KBA list\" /> bus"
+    },
+    "YSC": {
+        "Manufacturer": "Saab"
+    },
+    "YSM": {
+        "Manufacturer": "Polestar"
+    },
+    "YT9": {
+        "Manufacturer": " title=Re: VIN Information pursuant to 49 CFR 565.7 KOENIGSEGG | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG6062.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2008-03-14 | access-date=2019-03-13}}</ref>"
+    },
+    "007": {
+        "Manufacturer": " title=Re: VIN Information pursuant to 49 CFR 565.7 KOENIGSEGG | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG6062.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2008-03-14 | access-date=2019-03-13}}</ref>"
+    },
+    "YTN": {
+        "Manufacturer": "Saab NEVS"
+    },
+    "YU7": {
+        "Manufacturer": "Husaberg Swedish built models"
+    },
+    "YV1": {
+        "Manufacturer": "Volvo Cars car<ref name=\"KBA list\" />"
+    },
+    "YV2": {
+        "Manufacturer": "Volvo Trucks<ref name=\"KBA list\" />"
+    },
+    "YV3": {
+        "Manufacturer": "Volvo Buses<ref name=\"KBA list\" />"
+    },
+    "YV4": {
+        "Manufacturer": "Volvo Cars SUV"
+    },
+    "YV5": {
+        "Manufacturer": "Volvo Trucks incomplete vehicle"
+    },
+    "YYC": {
+        "Manufacturer": "Norway || Think Nordic"
+    },
+    "ZA9": {
+        "Manufacturer": "Automobili Pininfarina"
+    },
+    "A12": {
+        "Manufacturer": "rowspan=\"62\" | Italy || Lamborghini through mid 2003"
+    },
+    "D38": {
+        "Manufacturer": "Cizeta Automobili SRL"
+    },
+    "D39": {
+        "Manufacturer": "Bugatti Automobili S.p.A"
+    },
+    "F76": {
+        "Manufacturer": "Pagani Automobili S.p.A."
+    },
+    "M09": {
+        "Manufacturer": "Italdesign Automobili Speciali"
+    },
+    "M27": {
+        "Manufacturer": "Dallara Stradale"
+    },
+    "M91": {
+        "Manufacturer": "Automobili Pininfarina"
+    },
+    "ZAA": {
+        "Manufacturer": "Autobianchi"
+    },
+    "ZAC": {
+        "Manufacturer": "Dodge Hornet"
+    },
+    "ZAM": {
+        "Manufacturer": "Maserati car<ref name=\"KBA list\" />"
+    },
+    "ZAP": {
+        "Manufacturer": " url=http://modernvespa.com/forum/wiki-vin-decoding| title=Modern Vespa : VIN Decoding| website=modernvespa.com| access-date=2019-10-08}}</ref>"
+    },
+    "ZAR": {
+        "Manufacturer": "Nissan Cherry Europe"
+    },
+    "ZAS": {
+        "Manufacturer": "Alfa Romeo SUV 2018-"
+    },
+    "ZBA": {
+        "Manufacturer": "BMW For South africa"
+    },
+    "ZBB": {
+        "Manufacturer": "Gruppo Bertone"
+    },
+    "ZBI": {
+        "Manufacturer": "BMW For Indonesia"
+    },
+    "ZBM": {
+        "Manufacturer": "BMW For Philippines"
+    },
+    "ZBN": {
+        "Manufacturer": "Benelli"
+    },
+    "ZBP": {
+        "Manufacturer": "BMW For Malaysia"
+    },
+    "ZBT": {
+        "Manufacturer": "BMW For Thailand"
+    },
+    "ZBW": {
+        "Manufacturer": "Rayton-Fissore Magnum"
+    },
+    "ZC2": {
+        "Manufacturer": "Chrysler TC by Maserati"
+    },
+    "ZCF": {
+        "Manufacturer": "Iveco<ref name=\"KBA list\" />"
+    },
+    "ZCG": {
+        "Manufacturer": "Husqvarna Motorcycles Under MV Agusta ownership"
+    },
+    "ZD0": {
+        "Manufacturer": "Yamaha Motor Italia SpA & Belgarda SpA"
+    },
+    "ZD3": {
+        "Manufacturer": "Betamotor S.p.A."
+    },
+    "ZD4": {
+        "Manufacturer": "Aprilia"
+    },
+    "ZDC": {
+        "Manufacturer": "Honda Italia Industriale S.p.A."
+    },
+    "ZDM": {
+        "Manufacturer": "Ducati Motor Holding"
+    },
+    "ZDT": {
+        "Manufacturer": "De Tomaso Modena SpA"
+    },
+    "ZES": {
+        "Manufacturer": "Bimota"
+    },
+    "ZF4": {
+        "Manufacturer": "Qvale"
+    },
+    "ZFA": {
+        "Manufacturer": "Fiat car<ref name=\"KBA list\" /> Also Fiat Fullback"
+    },
+    "ZFB": {
+        "Manufacturer": "Fiat MPV/SUV"
+    },
+    "ZFC": {
+        "Manufacturer": "Ram 1200"
+    },
+    "ZFF": {
+        "Manufacturer": "Ferrari<ref name=\"KBA list\" />"
+    },
+    "ZFM": {
+        "Manufacturer": "Fantic Motor"
+    },
+    "ZFR": {
+        "Manufacturer": "Pininfarina"
+    },
+    "ZGA": {
+        "Manufacturer": "Iveco Bus<ref name=\"KBA list\" />"
+    },
+    "ZGU": {
+        "Manufacturer": "Moto Guzzi"
+    },
+    "ZHU": {
+        "Manufacturer": "Husqvarna Motorcycles Under Cagiva ownership"
+    },
+    "ZHW": {
+        "Manufacturer": "Lamborghini car<ref name=\"KBA list\" /> from mid 2003"
+    },
+    "ZJM": {
+        "Manufacturer": "Malaguti"
+    },
+    "ZJN": {
+        "Manufacturer": "Innocenti"
+    },
+    "ZJT": {
+        "Manufacturer": "Italjet"
+    },
+    "ZKH": {
+        "Manufacturer": "Husqvarna Motorcycles Srl Under BMW ownership"
+    },
+    "ZK5": {
+        "Manufacturer": "Hyundai Automobili Italia Importazioni"
+    },
+    "ZLA": {
+        "Manufacturer": "Lancia<ref name=\"KBA list\" />"
+    },
+    "ZLM": {
+        "Manufacturer": "Moto Morini srl"
+    },
+    "ZLV": {
+        "Manufacturer": "Laverda"
+    },
+    "ZN0": {
+        "Manufacturer": "SWM Motorcycles S.r.l."
+    },
+    "ZN3": {
+        "Manufacturer": "Iveco Defence"
+    },
+    "ZN6": {
+        "Manufacturer": "Maserati SUV"
+    },
+    "ZNN": {
+        "Manufacturer": "Energica Motor Company"
+    },
+    "ZPB": {
+        "Manufacturer": "Lamborghini SUV"
+    },
+    "ZZ1": {
+        "Manufacturer": "Slovenia || Tomos motorcycle"
+    },
+    "1A4": {
+        "Manufacturer": "rowspan=143| United States || Chrysler brand  MPV/SUV 2006\u20132009 only"
+    },
+    "1A8": {
+        "Manufacturer": "rowspan=143| United States || Chrysler brand  MPV/SUV 2006\u20132009 only"
+    },
+    "1AC": {
+        "Manufacturer": "American Motors Corporation MPV"
+    },
+    "1AF": {
+        "Manufacturer": "American LaFrance truck"
+    },
+    "1AM": {
+        "Manufacturer": "American Motors Corporation car & Renault Alliance 1983 only"
+    },
+    "1B3": {
+        "Manufacturer": "Dodge<ref name=\"KBA list\" /> car 1981\u20132011"
+    },
+    "1B4": {
+        "Manufacturer": "Dodge MPV/SUV 1981\u20132002"
+    },
+    "1B6": {
+        "Manufacturer": "Dodge incomplete vehicle 1981\u20132002"
+    },
+    "1B7": {
+        "Manufacturer": "Dodge truck 1981\u20132002"
+    },
+    "1B9": {
+        "Manufacturer": "Motus Motorcycles"
+    },
+    "133": {
+        "Manufacturer": "Buell Motorcycle Company through mid 1995"
+    },
+    "975": {
+        "Manufacturer": "Motus Motorcycles"
+    },
+    "1BA": {
+        "Manufacturer": "Blue Bird Corporation bus"
+    },
+    "1BB": {
+        "Manufacturer": "Blue Bird Wanderlodge MPV"
+    },
+    "1BD": {
+        "Manufacturer": "Blue Bird Corporation incomplete vehicle"
+    },
+    "1BL": {
+        "Manufacturer": "Balko, Inc. from Ladysmith, WI"
+    },
+    "1C3": {
+        "Manufacturer": "Chrysler Group (all brands) car (including Lancia) 2012-"
+    },
+    "1C4": {
+        "Manufacturer": "Chrysler Group (all brands) MPV 2012\u2013"
+    },
+    "1C6": {
+        "Manufacturer": "Chrysler Group (all brands) truck 2012\u2013"
+    },
+    "1C8": {
+        "Manufacturer": "Chrysler brand MPV 2001\u20132005"
+    },
+    "1C9": {
+        "Manufacturer": "CX Automotive"
+    },
+    "291": {
+        "Manufacturer": "CX Automotive"
+    },
+    "1CM": {
+        "Manufacturer": "Checker Motors Corporation"
+    },
+    "1CU": {
+        "Manufacturer": "Cushman Haulster (Cushman division of Outboard Marine Corporation)"
+    },
+    "1CY": {
+        "Manufacturer": "Crane Carrier Company"
+    },
+    "1D3": {
+        "Manufacturer": "Dodge truck 2002\u20132009"
+    },
+    "1D4": {
+        "Manufacturer": "Dodge MPV/SUV 2003\u20132011 only"
+    },
+    "1D7": {
+        "Manufacturer": "Dodge truck 2002\u20132011"
+    },
+    "1D8": {
+        "Manufacturer": "Dodge MPV/SUV 2003\u20132009 only"
+    },
+    "1F": {
+        "Manufacturer": "Ford<ref name=\"KBA list\" />"
+    },
+    "1F1": {
+        "Manufacturer": "Ford SUV \u2013 limousine (through 2009)"
+    },
+    "1F6": {
+        "Manufacturer": "Ford stripped chassis made by Detroit Chassis LLC"
+    },
+    "1F9": {
+        "Manufacturer": "Seagrave"
+    },
+    "ST2": {
+        "Manufacturer": "Seagrave"
+    },
+    "1FA": {
+        "Manufacturer": "Ford car"
+    },
+    "1FB": {
+        "Manufacturer": "Ford \"bus\" (van with more than 3 rows of seats)"
+    },
+    "1FC": {
+        "Manufacturer": "Ford stripped chassis made by Ford"
+    },
+    "1FD": {
+        "Manufacturer": "Ford incomplete vehicle (chassis cab)"
+    },
+    "1FM": {
+        "Manufacturer": "Ford MPV/SUV"
+    },
+    "1FT": {
+        "Manufacturer": "Ford truck"
+    },
+    "1FU": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "1FV": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "1G": {
+        "Manufacturer": "General Motors<ref name=\"KBA list\" />"
+    },
+    "1G0": {
+        "Manufacturer": "Opel car 2007\u20132017"
+    },
+    "1G1": {
+        "Manufacturer": "Chevrolet car"
+    },
+    "1G2": {
+        "Manufacturer": "Pontiac car"
+    },
+    "1G3": {
+        "Manufacturer": "Oldsmobile car"
+    },
+    "1G4": {
+        "Manufacturer": "Buick car<ref name=\"GM 2016\" />"
+    },
+    "1G5": {
+        "Manufacturer": "GMC MPV/SUV 1981\u20131986"
+    },
+    "1G6": {
+        "Manufacturer": "Cadillac car"
+    },
+    "1G7": {
+        "Manufacturer": "Pontiac car only sold by GM Canada"
+    },
+    "1G8": {
+        "Manufacturer": "Saturn car 1991\u20132010"
+    },
+    "1G9": {
+        "Manufacturer": "Waymo"
+    },
+    "495": {
+        "Manufacturer": "Waymo"
+    },
+    "1GA": {
+        "Manufacturer": "Chevrolet \"bus\" (van with more than 3 rows of seats)"
+    },
+    "1GB": {
+        "Manufacturer": " title=Revision to General Motors' Vehicle Identification Number decoding for 2016 Model Year | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG10560.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2015-01-12 | access-date=2019-03-13}}</ref>"
+    },
+    "1GC": {
+        "Manufacturer": "Chevrolet truck"
+    },
+    "1GD": {
+        "Manufacturer": "GMC incomplete vehicles<ref name=\"GM 2016\"/>"
+    },
+    "1GE": {
+        "Manufacturer": "Cadillac incomplete vehicle"
+    },
+    "1GF": {
+        "Manufacturer": "Flxible bus"
+    },
+    "1GG": {
+        "Manufacturer": "Isuzu pickup trucks made by GM"
+    },
+    "1GH": {
+        "Manufacturer": "Holden Acadia 2019\u20132020"
+    },
+    "1GJ": {
+        "Manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1987\u2013"
+    },
+    "1GK": {
+        "Manufacturer": "GMC MPV/SUV 1987\u2013"
+    },
+    "1GM": {
+        "Manufacturer": "Pontiac MPV"
+    },
+    "1GN": {
+        "Manufacturer": "Chevrolet MPV/SUV 1987-"
+    },
+    "1GT": {
+        "Manufacturer": "GMC truck"
+    },
+    "1GY": {
+        "Manufacturer": "Cadillac SUV"
+    },
+    "1H9": {
+        "Manufacturer": "Crane Carrier Company"
+    },
+    "A": {
+        "Manufacturer": "Crane Carrier Company"
+    },
+    "1HA": {
+        "Manufacturer": "Chevrolet incomplete vehicles made by Navistar International"
+    },
+    "1HD": {
+        "Manufacturer": "Harley-Davidson"
+    },
+    "1HF": {
+        "Manufacturer": "Honda motorcycle/ATV/UTV"
+    },
+    "1HG": {
+        "Manufacturer": "Honda of America Mfg. in Ohio"
+    },
+    "1HS": {
+        "Manufacturer": "International Trucks & Caterpillar Trucks truck"
+    },
+    "1HT": {
+        "Manufacturer": "International Trucks & Caterpillar Trucks & Chevrolet Silverado 4500HD, 5500HD, 6500HD incomplete vehicle"
+    },
+    "1HV": {
+        "Manufacturer": "IC Bus incomplete bus"
+    },
+    "1J4": {
+        "Manufacturer": "Jeep<ref name=\"KBA list\" /> SUV 1989\u20132011 (using Chrysler-style VIN structure)"
+    },
+    "1J7": {
+        "Manufacturer": "Jeep truck 1989\u20131992 (using Chrysler-style VIN structure)"
+    },
+    "1J8": {
+        "Manufacturer": "Jeep SUV 2002\u20132011 (using Chrysler-style VIN structure)"
+    },
+    "1JC": {
+        "Manufacturer": "Jeep SUV 1981\u20131988 (using AMC-style VIN structure)"
+    },
+    "1JT": {
+        "Manufacturer": "Jeep truck 1981\u20131988 (using AMC-style VIN structure)"
+    },
+    "1JU": {
+        "Manufacturer": "Marmon Motor Company"
+    },
+    "1L": {
+        "Manufacturer": "Lincoln<ref name=\"KBA list\" />"
+    },
+    "1L1": {
+        "Manufacturer": "Lincoln car \u2013 limousine"
+    },
+    "1L9": {
+        "Manufacturer": "Laforza"
+    },
+    "234": {
+        "Manufacturer": "Laforza"
+    },
+    "1LJ": {
+        "Manufacturer": "Lincoln incomplete vehicle"
+    },
+    "1LN": {
+        "Manufacturer": "Lincoln car"
+    },
+    "1LV": {
+        "Manufacturer": "John Deere equipment designed in Augusta, Georgia"
+    },
+    "1M0": {
+        "Manufacturer": "John Deere Gator"
+    },
+    "1M1": {
+        "Manufacturer": "Mack Trucks"
+    },
+    "1M2": {
+        "Manufacturer": "Mack Trucks"
+    },
+    "1M8": {
+        "Manufacturer": "Motor Coach Industries"
+    },
+    "1M9": {
+        "Manufacturer": "Proterra Through mid-2019"
+    },
+    "682": {
+        "Manufacturer": "Mosler Automotive"
+    },
+    "816": {
+        "Manufacturer": "Proterra Through mid-2019"
+    },
+    "1MB": {
+        "Manufacturer": "Mercedes-Benz Truck Co."
+    },
+    "1ME": {
+        "Manufacturer": "Mercury car<ref name=\"KBA list\" />"
+    },
+    "1MR": {
+        "Manufacturer": "Continental Mark VI & VII 1981\u20131985 & Continental sedan<ref name=\"KBA list\" /> 1982\u20131985"
+    },
+    "1N4": {
+        "Manufacturer": "Nissan car"
+    },
+    "1N6": {
+        "Manufacturer": "Nissan truck"
+    },
+    "1N9": {
+        "Manufacturer": "Nikola Corporation"
+    },
+    "013": {
+        "Manufacturer": "Neoplan USA"
+    },
+    "393": {
+        "Manufacturer": "Nikola Corporation"
+    },
+    "1NK": {
+        "Manufacturer": "Kenworth incomplete vehicle"
+    },
+    "1NP": {
+        "Manufacturer": "Peterbilt incomplete vehicle"
+    },
+    "1NX": {
+        "Manufacturer": "Toyota car made by NUMMI"
+    },
+    "1P3": {
+        "Manufacturer": "Plymouth car"
+    },
+    "1P4": {
+        "Manufacturer": "Plymouth MPV/SUV"
+    },
+    "1P9": {
+        "Manufacturer": "Panoz"
+    },
+    "213": {
+        "Manufacturer": "Panoz"
+    },
+    "1PY": {
+        "Manufacturer": "Pune, India"
+    },
+    "1S9": {
+        "Manufacturer": "SSC North America"
+    },
+    "098": {
+        "Manufacturer": "Scania AB Scania CN112 bus made in Orange, CT"
+    },
+    "842": {
+        "Manufacturer": "Saleen S7"
+    },
+    "944": {
+        "Manufacturer": "SSC North America"
+    },
+    "1T7": {
+        "Manufacturer": "Thomas Built Buses"
+    },
+    "1T8": {
+        "Manufacturer": "Thomas Built Buses"
+    },
+    "1T9": {
+        "Manufacturer": "Tomcar USA"
+    },
+    "899": {
+        "Manufacturer": "Tomcar USA"
+    },
+    "1TU": {
+        "Manufacturer": "Transportation Manufacturing Corporation"
+    },
+    "1UT": {
+        "Manufacturer": "Jeep DJ made by AM General"
+    },
+    "1V1": {
+        "Manufacturer": "Volkswagen truck"
+    },
+    "1V2": {
+        "Manufacturer": "Volkswagen SUV"
+    },
+    "1V9": {
+        "Manufacturer": "Vector Aeromotive"
+    },
+    "1VH": {
+        "Manufacturer": "Orion Bus Industries"
+    },
+    "1VR": {
+        "Manufacturer": "Vermeer Corporation"
+    },
+    "1VW": {
+        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+    },
+    "1WU": {
+        "Manufacturer": "White truck"
+    },
+    "1WV": {
+        "Manufacturer": "Winnebago Industries"
+    },
+    "1WW": {
+        "Manufacturer": "Winnebago Industries"
+    },
+    "1WX": {
+        "Manufacturer": "White incomplete vehicle"
+    },
+    "1WY": {
+        "Manufacturer": "White incomplete vehicle"
+    },
+    "1XK": {
+        "Manufacturer": "Kenworth truck"
+    },
+    "1XM": {
+        "Manufacturer": "Renault Alliance/GTA/Encore 1984\u20131987"
+    },
+    "1XP": {
+        "Manufacturer": "Peterbilt truck"
+    },
+    "1Y1": {
+        "Manufacturer": "Geo car made by NUMMI"
+    },
+    "1YJ": {
+        "Manufacturer": "Rokon International, Inc."
+    },
+    "1YV": {
+        "Manufacturer": "Mazda<ref name=\"KBA list\" />"
+    },
+    "1Z3": {
+        "Manufacturer": "Mitsubishi Raider"
+    },
+    "1Z7": {
+        "Manufacturer": "Mitsubishi Raider"
+    },
+    "1Z9": {
+        "Manufacturer": "Oshkosh Specialty Vehicles LLC"
+    },
+    "332": {
+        "Manufacturer": "Oshkosh Specialty Vehicles LLC"
+    },
+    "1ZV": {
+        "Manufacturer": "Ford made by AutoAlliance International"
+    },
+    "1ZW": {
+        "Manufacturer": "Mercury made by AutoAlliance International"
+    },
+    "10R": {
+        "Manufacturer": "E-Z-GO"
+    },
+    "10T": {
+        "Manufacturer": "Oshkosh Corporation"
+    },
+    "12A": {
+        "Manufacturer": "Avanti"
+    },
+    "137": {
+        "Manufacturer": "AM General Hummer & Hummer H1"
+    },
+    "15G": {
+        "Manufacturer": "Gillig bus"
+    },
+    "16X": {
+        "Manufacturer": "Vixen 21 motorhome"
+    },
+    "17N": {
+        "Manufacturer": "John Deere incomplete vehicle (RV chassis)"
+    },
+    "19U": {
+        "Manufacturer": "Honda of America Mfg. in Ohio"
+    },
+    "19V": {
+        "Manufacturer": "Acura car made by Honda Manufacturing of Indiana"
+    },
+    "19X": {
+        "Manufacturer": "Honda car made by Honda Manufacturing of Indiana"
+    },
+    "2A3": {
+        "Manufacturer": "rowspan=103| Canada || Imperial"
+    },
+    "2A4": {
+        "Manufacturer": "Chrysler brand MPV/SUV 2006\u20132011 only"
+    },
+    "2A8": {
+        "Manufacturer": "Chrysler brand MPV/SUV 2006\u20132011 only"
+    },
+    "2AY": {
+        "Manufacturer": "Hino"
+    },
+    "2AZ": {
+        "Manufacturer": "Hino"
+    },
+    "2B1": {
+        "Manufacturer": "Orion Bus Industries"
+    },
+    "2B3": {
+        "Manufacturer": "Dodge<ref name=\"KBA list\" /> car 1981\u20132011"
+    },
+    "2B4": {
+        "Manufacturer": "Dodge MPV 1981\u20132002"
+    },
+    "2B5": {
+        "Manufacturer": "Dodge \"bus\" (van with more than 3 rows of seats) 1981\u20132002"
+    },
+    "2B6": {
+        "Manufacturer": "Dodge incomplete vehicle 1981\u20132002"
+    },
+    "2B7": {
+        "Manufacturer": "Dodge truck 1981\u20132002"
+    },
+    "2BC": {
+        "Manufacturer": "Jeep Wrangler (YJ) 1987\u20131988 (using AMC-style VIN structure)"
+    },
+    "2BP": {
+        "Manufacturer": "Ski-Doo"
+    },
+    "2BV": {
+        "Manufacturer": "Can-Am & Bombardier ATV"
+    },
+    "2BW": {
+        "Manufacturer": "Can-Am Commander E LSV"
+    },
+    "2BX": {
+        "Manufacturer": "Can-Am Spyder"
+    },
+    "2BZ": {
+        "Manufacturer": "Can-Am Freedom Trailer for Can-Am Spyder"
+    },
+    "2C1": {
+        "Manufacturer": "Geo/Chevrolet car made by CAMI Automotive"
+    },
+    "2C3": {
+        "Manufacturer": "Chrysler Group (all brands) car (including Lancia) 2012-"
+    },
+    "2C4": {
+        "Manufacturer": "Chrysler Group (all brands) MPV (including Lancia & VW) 2012-"
+    },
+    "2C7": {
+        "Manufacturer": "Pontiac car made by CAMI Automotive only sold by GM Canada"
+    },
+    "2C8": {
+        "Manufacturer": "Chrysler brand MPV/SUV 2001\u20132005"
+    },
+    "2C9": {
+        "Manufacturer": "Campagna Motors"
+    },
+    "145": {
+        "Manufacturer": "Campagna Motors"
+    },
+    "2CC": {
+        "Manufacturer": "American Motors Corporation MPV"
+    },
+    "2CG": {
+        "Manufacturer": "Pontiac SUV made by CAMI Automotive only sold by GM Canada"
+    },
+    "2CK": {
+        "Manufacturer": "Pontiac Torrent SUV made by CAMI Automotive 2006\u20132009 only"
+    },
+    "2CM": {
+        "Manufacturer": "American Motors Corporation car"
+    },
+    "2CN": {
+        "Manufacturer": "Geo/Chevrolet SUV made by CAMI Automotive 1990\u20132011 only"
+    },
+    "2CT": {
+        "Manufacturer": "GMC Terrain SUV made by CAMI Automotive 2010\u20132011 only"
+    },
+    "2D4": {
+        "Manufacturer": "Dodge MPV 2003\u20132011 only"
+    },
+    "2D6": {
+        "Manufacturer": "Dodge incomplete vehicle 2003"
+    },
+    "2D7": {
+        "Manufacturer": "Dodge truck 2003"
+    },
+    "2D8": {
+        "Manufacturer": "Dodge MPV 2003\u20132011 only"
+    },
+    "2DG": {
+        "Manufacturer": "Ontario Drive & Gear"
+    },
+    "2E3": {
+        "Manufacturer": "Eagle car 1989\u20131997 (using Chrysler-style VIN structure)"
+    },
+    "2E4": {
+        "Manufacturer": "Lancia MPV"
+    },
+    "2F": {
+        "Manufacturer": "Ford<ref name=\"KBA list\" />"
+    },
+    "2FA": {
+        "Manufacturer": "Ford car"
+    },
+    "2FM": {
+        "Manufacturer": "Ford MPV/SUV"
+    },
+    "2FT": {
+        "Manufacturer": "Ford truck"
+    },
+    "2FU": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "2FV": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "2FW": {
+        "Manufacturer": "Sterling Trucks truck"
+    },
+    "2FY": {
+        "Manufacturer": "New Flyer"
+    },
+    "2FZ": {
+        "Manufacturer": "Sterling Trucks incomplete vehicle"
+    },
+    "2G0": {
+        "Manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1981\u20131986"
+    },
+    "2G1": {
+        "Manufacturer": "Chevrolet"
+    },
+    "2G2": {
+        "Manufacturer": "Pontiac"
+    },
+    "2G3": {
+        "Manufacturer": "Oldsmobile car"
+    },
+    "2G4": {
+        "Manufacturer": "Buick"
+    },
+    "2G5": {
+        "Manufacturer": "GMC MPV 1981\u20131986; BrightDrop Zevo delivery van"
+    },
+    "2G6": {
+        "Manufacturer": "Cadillac"
+    },
+    "2G7": {
+        "Manufacturer": "Pontiac car only sold by GM Canada"
+    },
+    "2G8": {
+        "Manufacturer": "Chevrolet MPV 1981\u20131986"
+    },
+    "2G9": {
+        "Manufacturer": "Gnome Homes"
+    },
+    "2GA": {
+        "Manufacturer": "Chevrolet \"bus\" (van with more than 3 rows of seats)"
+    },
+    "2GB": {
+        "Manufacturer": "Chevrolet incomplete vehicles"
+    },
+    "2GC": {
+        "Manufacturer": "Chevrolet truck"
+    },
+    "2GD": {
+        "Manufacturer": "GMC incomplete vehicles"
+    },
+    "2GE": {
+        "Manufacturer": "Cadillac incomplete vehicle"
+    },
+    "2GH": {
+        "Manufacturer": "GMC GM Classic series bus"
+    },
+    "2GJ": {
+        "Manufacturer": "GMC \"bus\" (van with more than 3 rows of seats) 1987\u2013"
+    },
+    "2GK": {
+        "Manufacturer": "GMC MPV/SUV 1987\u2013"
+    },
+    "2GN": {
+        "Manufacturer": "Chevrolet MPV/SUV 1987-"
+    },
+    "2GT": {
+        "Manufacturer": "GMC truck"
+    },
+    "2HG": {
+        "Manufacturer": "Honda car made by Honda of Canada Manufacturing"
+    },
+    "2HH": {
+        "Manufacturer": "Acura car made by Honda of Canada Manufacturing"
+    },
+    "2HJ": {
+        "Manufacturer": "Honda truck made by Honda of Canada Manufacturing"
+    },
+    "2HK": {
+        "Manufacturer": "Honda MPV/SUV made by Honda of Canada Manufacturing"
+    },
+    "2HM": {
+        "Manufacturer": "Hyundai"
+    },
+    "2HN": {
+        "Manufacturer": "Acura SUV made by Honda of Canada Manufacturing"
+    },
+    "2HS": {
+        "Manufacturer": "International Trucks truck"
+    },
+    "2HT": {
+        "Manufacturer": "International Trucks incomplete vehicle"
+    },
+    "2J4": {
+        "Manufacturer": "Jeep Wrangler (YJ) 1989\u20131992 (using Chrysler-style VIN structure)"
+    },
+    "2L1": {
+        "Manufacturer": "Lincoln incomplete vehicle \u2013 limo"
+    },
+    "2L9": {
+        "Manufacturer": "Les Contenants Durabac"
+    },
+    "2LJ": {
+        "Manufacturer": "Lincoln incomplete vehicle \u2013 hearse"
+    },
+    "2LM": {
+        "Manufacturer": "Lincoln SUV"
+    },
+    "2LN": {
+        "Manufacturer": "Lincoln car<ref name=\"KBA list\" />"
+    },
+    "2M1": {
+        "Manufacturer": "Mack Trucks"
+    },
+    "2M2": {
+        "Manufacturer": "Mack Trucks"
+    },
+    "2ME": {
+        "Manufacturer": "Mercury car<ref name=\"KBA list\" />"
+    },
+    "2MG": {
+        "Manufacturer": "Motor Coach Industries (Produced from Sept. 1, 2008 on)"
+    },
+    "2MR": {
+        "Manufacturer": "Mercury MPV"
+    },
+    "2NK": {
+        "Manufacturer": "Kenworth incomplete vehicle"
+    },
+    "2NP": {
+        "Manufacturer": "Peterbilt incomplete vehicle"
+    },
+    "2NV": {
+        "Manufacturer": "Nova Bus"
+    },
+    "2P3": {
+        "Manufacturer": "Plymouth car"
+    },
+    "2P4": {
+        "Manufacturer": "Plymouth MPV 1981\u20132000"
+    },
+    "2P5": {
+        "Manufacturer": "Plymouth \"bus\" (van with more than 3 rows of seats) 1981\u20131983"
+    },
+    "2P9": {
+        "Manufacturer": "Prevost 1981\u20131995"
+    },
+    "001": {
+        "Manufacturer": "Prevost 1981\u20131995"
+    },
+    "2PC": {
+        "Manufacturer": "Prevost 1996-"
+    },
+    "2S2": {
+        "Manufacturer": "Suzuki car made by CAMI Automotive"
+    },
+    "2S3": {
+        "Manufacturer": "Suzuki SUV made by CAMI Automotive"
+    },
+    "2T1": {
+        "Manufacturer": "Toyota car"
+    },
+    "2T2": {
+        "Manufacturer": "Lexus SUV"
+    },
+    "2T3": {
+        "Manufacturer": "Toyota SUV"
+    },
+    "2V4": {
+        "Manufacturer": "Volkswagen Routan"
+    },
+    "2V8": {
+        "Manufacturer": "Volkswagen Routan"
+    },
+    "2WK": {
+        "Manufacturer": "Western Star Trucks truck"
+    },
+    "2WL": {
+        "Manufacturer": "Western Star Trucks incomplete vehicle"
+    },
+    "2WM": {
+        "Manufacturer": "Western Star Trucks incomplete vehicle"
+    },
+    "2XK": {
+        "Manufacturer": "Kenworth truck"
+    },
+    "2XM": {
+        "Manufacturer": "Eagle Premier 1988 only (using AMC-style VIN structure)"
+    },
+    "2XP": {
+        "Manufacturer": "Peterbilt truck"
+    },
+    "3A4": {
+        "Manufacturer": "rowspan=77| Mexico || Chrysler brand MPV 2006\u20132010 only"
+    },
+    "3A8": {
+        "Manufacturer": "rowspan=77| Mexico || Chrysler brand MPV 2006\u20132010 only"
+    },
+    "3AK": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "3AL": {
+        "Manufacturer": "Freightliner Trucks"
+    },
+    "3AV": {
+        "Manufacturer": "BMW Mexico 1999-2009"
+    },
+    "3B3": {
+        "Manufacturer": "Dodge car 1981\u20132011"
+    },
+    "3B4": {
+        "Manufacturer": "Dodge SUV 1986\u20131993"
+    },
+    "3B6": {
+        "Manufacturer": "Dodge incomplete vehicle 1981\u20132002"
+    },
+    "3B7": {
+        "Manufacturer": "Dodge truck 1981\u20132002"
+    },
+    "3BJ": {
+        "Manufacturer": "Western Star 3700 truck made by DINA S.A."
+    },
+    "3BK": {
+        "Manufacturer": "Kenworth incomplete vehicle"
+    },
+    "3BM": {
+        "Manufacturer": "Motor Coach Industries bus made by DINA S.A."
+    },
+    "3BP": {
+        "Manufacturer": "Peterbilt incomplete vehicle"
+    },
+    "3C3": {
+        "Manufacturer": "Chrysler Group (all brands) car (including Fiat) 2012-"
+    },
+    "3C4": {
+        "Manufacturer": "Chrysler Group (all brands) MPV (including Fiat) 2012-"
+    },
+    "3C6": {
+        "Manufacturer": "Chrysler Group (all brands) truck 2012\u2013"
+    },
+    "3C7": {
+        "Manufacturer": "Chrysler Group (all brands) incomplete vehicle 2012\u2013"
+    },
+    "3C8": {
+        "Manufacturer": "Chrysler brand MPV 2001\u20132005"
+    },
+    "3CE": {
+        "Manufacturer": "Volvo Buses de Mexico"
+    },
+    "3CZ": {
+        "Manufacturer": "Honda SUV"
+    },
+    "3D2": {
+        "Manufacturer": "Dodge incomplete vehicle 2007\u20132009"
+    },
+    "3D3": {
+        "Manufacturer": "Dodge truck 2006\u20132009"
+    },
+    "3D4": {
+        "Manufacturer": "Dodge SUV 2009\u20132011"
+    },
+    "3D6": {
+        "Manufacturer": "Dodge incomplete vehicle 2003\u20132011"
+    },
+    "3D7": {
+        "Manufacturer": "Dodge truck 2002\u20132011"
+    },
+    "3E4": {
+        "Manufacturer": "Fiat SUV"
+    },
+    "3F": {
+        "Manufacturer": "Ford"
+    },
+    "3F6": {
+        "Manufacturer": "Sterling Bullet"
+    },
+    "3FA": {
+        "Manufacturer": "Ford car"
+    },
+    "3FC": {
+        "Manufacturer": "Ford stripped chassis made by Ford & IMMSA"
+    },
+    "3FM": {
+        "Manufacturer": "Ford MPV/SUV"
+    },
+    "3FN": {
+        "Manufacturer": "Ford F-650/F-750 made by Blue Diamond Truck Co."
+    },
+    "3FR": {
+        "Manufacturer": "Ford F-650/F-750 made by Blue Diamond Truck Co."
+    },
+    "3FT": {
+        "Manufacturer": "Ford truck"
+    },
+    "3G": {
+        "Manufacturer": "General Motors<ref name=\"KBA list\" />"
+    },
+    "3G0": {
+        "Manufacturer": "Holden Equinox 2018\u20132020"
+    },
+    "3G1": {
+        "Manufacturer": "Chevrolet car"
+    },
+    "3G2": {
+        "Manufacturer": "Pontiac car"
+    },
+    "3G4": {
+        "Manufacturer": "Buick car"
+    },
+    "3G5": {
+        "Manufacturer": "Buick SUV"
+    },
+    "3G7": {
+        "Manufacturer": "Pontiac SUV"
+    },
+    "3GC": {
+        "Manufacturer": "Chevrolet truck"
+    },
+    "3GK": {
+        "Manufacturer": "GMC SUV"
+    },
+    "3GM": {
+        "Manufacturer": "Holden Suburban"
+    },
+    "3GN": {
+        "Manufacturer": "Chevrolet SUV"
+    },
+    "3GS": {
+        "Manufacturer": "Saturn SUV"
+    },
+    "3GT": {
+        "Manufacturer": "GMC truck"
+    },
+    "3GY": {
+        "Manufacturer": "Cadillac SUV"
+    },
+    "3H1": {
+        "Manufacturer": "Honda motorcycle/UTV"
+    },
+    "3H3": {
+        "Manufacturer": "Hyundai de Mexico, S.A. de C.V. for Hyundai Translead (truck trailers)"
+    },
+    "3HA": {
+        "Manufacturer": "International Trucks incomplete vehicle"
+    },
+    "3HC": {
+        "Manufacturer": "International Trucks truck"
+    },
+    "3HG": {
+        "Manufacturer": "Honda car<ref name=\"KBA list\" />"
+    },
+    "3HS": {
+        "Manufacturer": "International Trucks & Caterpillar Trucks truck"
+    },
+    "3HT": {
+        "Manufacturer": "International Trucks & Caterpillar Trucks incomplete vehicle"
+    },
+    "3JB": {
+        "Manufacturer": "Can-Am ATV/UTV & Can-Am Ryker"
+    },
+    "3KP": {
+        "Manufacturer": "Hyundai car<ref name=\"KBA list\" />"
+    },
+    "3LN": {
+        "Manufacturer": "Lincoln car"
+    },
+    "3MD": {
+        "Manufacturer": "Mazda car"
+    },
+    "3ME": {
+        "Manufacturer": "Mercury car"
+    },
+    "3MV": {
+        "Manufacturer": "Mazda SUV"
+    },
+    "3MW": {
+        "Manufacturer": "BMW"
+    },
+    "3MY": {
+        "Manufacturer": "Mazda de Mexico Vehicle Operation"
+    },
+    "3MZ": {
+        "Manufacturer": "Mazda car"
+    },
+    "3N1": {
+        "Manufacturer": "Nissan<ref name=\"KBA list\" /> car"
+    },
+    "3N6": {
+        "Manufacturer": "Nissan truck & Chevrolet City Express"
+    },
+    "3N8": {
+        "Manufacturer": "Nissan MPV"
+    },
+    "3NE": {
+        "Manufacturer": "Polaris Inc. ATV"
+    },
+    "3NS": {
+        "Manufacturer": "Polaris Inc. UTV"
+    },
+    "3P3": {
+        "Manufacturer": "Plymouth car"
+    },
+    "3PC": {
+        "Manufacturer": "COMPAS"
+    },
+    "3TM": {
+        "Manufacturer": "Toyota truck made by TMMBC"
+    },
+    "3TY": {
+        "Manufacturer": "Toyota truck made by TMMGT"
+    },
+    "3VV": {
+        "Manufacturer": "Volkswagen SUV"
+    },
+    "3VW": {
+        "Manufacturer": "Volkswagen car<ref name=\"KBA list\" />"
+    },
+    "3WK": {
+        "Manufacturer": "Kenworth truck"
+    },
+    "3WP": {
+        "Manufacturer": "Peterbilt truck"
+    },
+    "4A3": {
+        "Manufacturer": "rowspan=\"140\" | United States || Mitsubishi Motors car"
+    },
+    "4A4": {
+        "Manufacturer": "Mitsubishi Motors SUV"
+    },
+    "4B3": {
+        "Manufacturer": "Dodge car made by Diamond-Star Motors factory"
+    },
+    "4B9": {
+        "Manufacturer": "BYD Coach & Bus LLC"
+    },
+    "038": {
+        "Manufacturer": "BYD Coach & Bus LLC"
+    },
+    "4C3": {
+        "Manufacturer": "Chrysler car made by Diamond-Star Motors factory"
+    },
+    "4C9": {
+        "Manufacturer": "Czinger"
+    },
+    "561": {
+        "Manufacturer": "Czinger"
+    },
+    "4CD": {
+        "Manufacturer": "Oshkosh Chassis Division incomplete vehicle (RV chassis)"
+    },
+    "4DR": {
+        "Manufacturer": "IC Bus"
+    },
+    "4E3": {
+        "Manufacturer": "Eagle car made by Diamond-Star Motors factory"
+    },
+    "4F2": {
+        "Manufacturer": "Mazda<ref name=\"KBA list\" /> SUV made by Ford"
+    },
+    "4F4": {
+        "Manufacturer": "Mazda truck made by Ford"
+    },
+    "4G1": {
+        "Manufacturer": "Chevrolet Cavalier convertible made by Genasys L.C. \u2013 a GM/ASC joint venture"
+    },
+    "4G2": {
+        "Manufacturer": "Pontiac Sunfire convertible made by Genasys L.C. \u2013 a GM/ASC joint venture"
+    },
+    "4G3": {
+        "Manufacturer": "Toyota Cavalier made by GM"
+    },
+    "4G5": {
+        "Manufacturer": "General Motors EV1"
+    },
+    "4GD": {
+        "Manufacturer": "Opel Sintra"
+    },
+    "4GL": {
+        "Manufacturer": "Buick incomplete vehicle"
+    },
+    "4GT": {
+        "Manufacturer": "Isuzu incomplete vehicle built by GM"
+    },
+    "4JG": {
+        "Manufacturer": "Mercedes-Benz SUV<ref name=\"KBA list\" />"
+    },
+    "4KB": {
+        "Manufacturer": "Chevrolet W-Series incomplete vehicle (gas engine only)"
+    },
+    "4KD": {
+        "Manufacturer": "GMC W-Series incomplete vehicle (gas engine only)"
+    },
+    "4KL": {
+        "Manufacturer": "Isuzu commercial truck built by GM"
+    },
+    "4M2": {
+        "Manufacturer": "Mercury MPV/SUV"
+    },
+    "4ML": {
+        "Manufacturer": "Oshkosh Trailer Division"
+    },
+    "4MZ": {
+        "Manufacturer": "Buell Motorcycle Company"
+    },
+    "4N2": {
+        "Manufacturer": "Nissan Quest made by Ford"
+    },
+    "4NU": {
+        "Manufacturer": "Isuzu Ascender made by GM"
+    },
+    "4P1": {
+        "Manufacturer": "Pierce Manufacturing"
+    },
+    "4P3": {
+        "Manufacturer": "Mitsubishi Motors SUV made by Mitsubishi Motor Manufacturing of America 2013\u20132015 for export only"
+    },
+    "4RK": {
+        "Manufacturer": "Prevost made by Nova Bus (US) Inc."
+    },
+    "4S1": {
+        "Manufacturer": "Isuzu truck made by Subaru Isuzu Automotive"
+    },
+    "4S2": {
+        "Manufacturer": "Isuzu SUV made by Subaru Isuzu Automotive"
+    },
+    "4S3": {
+        "Manufacturer": "Subaru car<ref name=\"KBA list\" />"
+    },
+    "4S4": {
+        "Manufacturer": "Subaru SUV/MPV<ref name=\"KBA list\" />"
+    },
+    "4S6": {
+        "Manufacturer": "Honda SUV made by Subaru Isuzu Automotive"
+    },
+    "4S7": {
+        "Manufacturer": "Spartan Motors incomplete vehicle"
+    },
+    "4S9": {
+        "Manufacturer": "Spartan Fire, LLC incomplete vehicle (formerly Spartan ER)"
+    },
+    "197": {
+        "Manufacturer": "Smith Electric Vehicles US Corp."
+    },
+    "419": {
+        "Manufacturer": "Spartan Motors truck"
+    },
+    "454": {
+        "Manufacturer": "Scuderia Cameron Glickenhaus car"
+    },
+    "542": {
+        "Manufacturer": "Scuderia Cameron Glickenhaus SCG Boot (M.P.V.)"
+    },
+    "544": {
+        "Manufacturer": "Scuderia Cameron Glickenhaus car"
+    },
+    "559": {
+        "Manufacturer": "Spartan Fire, LLC truck (formerly Spartan ER)"
+    },
+    "560": {
+        "Manufacturer": "Spartan Fire, LLC incomplete vehicle (formerly Spartan ER)"
+    },
+    "4T1": {
+        "Manufacturer": "Toyota<ref name=\"KBA list\" /> car made by Toyota Motor Manufacturing Kentucky"
+    },
+    "4T3": {
+        "Manufacturer": "Toyota MPV/SUV made by Toyota Motor Manufacturing Kentucky"
+    },
+    "4T4": {
+        "Manufacturer": "Toyota car made by Subaru of Indiana Automotive"
+    },
+    "4T9": {
+        "Manufacturer": "Xos, Inc."
+    },
+    "208": {
+        "Manufacturer": "Xos, Inc."
+    },
+    "4TA": {
+        "Manufacturer": "Toyota truck made by NUMMI"
+    },
+    "4UF": {
+        "Manufacturer": "Arctic Cat"
+    },
+    "4US": {
+        "Manufacturer": "BMW car<ref name=\"KBA list\" />"
+    },
+    "4UZ": {
+        "Manufacturer": "Freightliner Custom Chassis Corporation & gas-powered Mitsubishi Fuso trucks assembled by Freightliner Custom Chassis & Thomas Built Buses FS-65 & Saf-T-Liner C2"
+    },
+    "4V1": {
+        "Manufacturer": "WhiteGMC truck"
+    },
+    "4V2": {
+        "Manufacturer": "WhiteGMC incomplete vehicle"
+    },
+    "4V4": {
+        "Manufacturer": "Volvo Trucks North America truck"
+    },
+    "4V5": {
+        "Manufacturer": "Volvo Trucks North America incomplete vehicle"
+    },
+    "4VA": {
+        "Manufacturer": "Volvo Trucks North America truck"
+    },
+    "4VG": {
+        "Manufacturer": "Volvo Trucks North America truck"
+    },
+    "4VE": {
+        "Manufacturer": "Volvo Trucks North America incomplete vehicle"
+    },
+    "4VH": {
+        "Manufacturer": "Volvo Trucks North America incomplete vehicle"
+    },
+    "4VM": {
+        "Manufacturer": "Volvo Trucks North America incomplete vehicle"
+    },
+    "4VZ": {
+        "Manufacturer": "Spartan Motors/The Shyft Group incomplete vehicle \u2013 bare chassis only"
+    },
+    "4XA": {
+        "Manufacturer": "Polaris Inc."
+    },
+    "4YM": {
+        "Manufacturer": "Carry-On Trailer, Inc."
+    },
+    "4Z3": {
+        "Manufacturer": "American LaFrance truck"
+    },
+    "43C": {
+        "Manufacturer": "Consulier"
+    },
+    "46G": {
+        "Manufacturer": "Gillig incomplete vehicle"
+    },
+    "478": {
+        "Manufacturer": "Honda ATV"
+    },
+    "480": {
+        "Manufacturer": "Sterling Trucks truck"
+    },
+    "49H": {
+        "Manufacturer": "Sterling Trucks incomplete vehicle"
+    },
+    "5AS": {
+        "Manufacturer": "GEM"
+    },
+    "5B4": {
+        "Manufacturer": "Workhorse Custom Chassis, LLC incomplete vehicle (RV chassis)"
+    },
+    "5BZ": {
+        "Manufacturer": "Nissan \"bus\" (van with more than 3 rows of seats)"
+    },
+    "5CD": {
+        "Manufacturer": "Indian Motorcycle Company of America Gilroy, CA"
+    },
+    "5CX": {
+        "Manufacturer": "Shelby Series 1"
+    },
+    "5DF": {
+        "Manufacturer": "Thomas Dennis Company LLC"
+    },
+    "5EH": {
+        "Manufacturer": "Excelsior-Henderson Motorcycle"
+    },
+    "5FN": {
+        "Manufacturer": "Honda<ref name=\"KBA list\" /> MPV/SUV made by Honda Manufacturing of Alabama"
+    },
+    "5FP": {
+        "Manufacturer": "Honda truck made by Honda Manufacturing of Alabama"
+    },
+    "5FR": {
+        "Manufacturer": "Acura<ref name=\"KBA list\" /> SUV made by Honda Manufacturing of Alabama"
+    },
+    "5FY": {
+        "Manufacturer": "New Flyer"
+    },
+    "5G8": {
+        "Manufacturer": "Holden Volt"
+    },
+    "5GA": {
+        "Manufacturer": "Buick MPV/SUV"
+    },
+    "5GD": {
+        "Manufacturer": "Daewoo G2X"
+    },
+    "5GN": {
+        "Manufacturer": "Hummer H3T"
+    },
+    "5GR": {
+        "Manufacturer": "Hummer H2"
+    },
+    "5GT": {
+        "Manufacturer": "Hummer H3"
+    },
+    "5GZ": {
+        "Manufacturer": "Saturn MPV/SUV"
+    },
+    "5HD": {
+        "Manufacturer": "Harley-Davidson for export markets"
+    },
+    "5J6": {
+        "Manufacturer": "Honda of America Mfg. in Ohio"
+    },
+    "5J8": {
+        "Manufacturer": "Honda of America Mfg. in Ohio"
+    },
+    "5KB": {
+        "Manufacturer": "Honda<ref name=\"KBA list\" /> car made by Honda Manufacturing of Alabama"
+    },
+    "5KJ": {
+        "Manufacturer": "Western Star Trucks truck"
+    },
+    "5KK": {
+        "Manufacturer": "Western Star Trucks truck"
+    },
+    "5L1": {
+        "Manufacturer": "Lincoln SUV  (2004\u20132009)"
+    },
+    "5LD": {
+        "Manufacturer": "Ford & Lincoln incomplete vehicle \u2013 limousine (2010\u20132014)"
+    },
+    "5LM": {
+        "Manufacturer": "Lincoln SUV"
+    },
+    "5LT": {
+        "Manufacturer": "Lincoln truck"
+    },
+    "5MZ": {
+        "Manufacturer": "Buell Motorcycle Company for export markets"
+    },
+    "5N1": {
+        "Manufacturer": "Nissan & Infiniti SUV"
+    },
+    "5N3": {
+        "Manufacturer": "Infiniti SUV"
+    },
+    "5NM": {
+        "Manufacturer": "Hyundai SUV"
+    },
+    "5NP": {
+        "Manufacturer": "Hyundai car"
+    },
+    "5NT": {
+        "Manufacturer": "Hyundai truck"
+    },
+    "5PV": {
+        "Manufacturer": "Hino incomplete vehicle"
+    },
+    "5S3": {
+        "Manufacturer": "Saab 9-7X"
+    },
+    "5SA": {
+        "Manufacturer": "Suzuki ATV"
+    },
+    "5SX": {
+        "Manufacturer": "American LaFrance incomplete vehicle (Condor)"
+    },
+    "5TB": {
+        "Manufacturer": "Toyota<ref name=\"KBA list\" /> truck made by TMMI"
+    },
+    "5TD": {
+        "Manufacturer": "Toyota MPV/SUV made by TMMI"
+    },
+    "5TE": {
+        "Manufacturer": "Toyota truck made by NUMMI"
+    },
+    "5TF": {
+        "Manufacturer": "Toyota truck made by TMMTX"
+    },
+    "5UM": {
+        "Manufacturer": "BMW M car<ref name=\"KBA list\" />"
+    },
+    "5UX": {
+        "Manufacturer": "BMW SUV"
+    },
+    "5VC": {
+        "Manufacturer": "Autocar incomplete vehicle"
+    },
+    "5VP": {
+        "Manufacturer": "Victory Motorcycles"
+    },
+    "5WE": {
+        "Manufacturer": "IC Bus incomplete vehicle"
+    },
+    "5XX": {
+        "Manufacturer": "Kia car"
+    },
+    "5XY": {
+        "Manufacturer": "Kia/Hyundai SUV"
+    },
+    "5Y2": {
+        "Manufacturer": "Pontiac Vibe made by NUMMI"
+    },
+    "5Y4": {
+        "Manufacturer": "Yamaha Motor Company ATV, UTV"
+    },
+    "5YA": {
+        "Manufacturer": "Indian Motorcycle Company Kings Mountain, NC"
+    },
+    "5YF": {
+        "Manufacturer": "Toyota car made by TMMMS"
+    },
+    "5YJ": {
+        "Manufacturer": "Tesla<ref name=\"KBA list\" />"
+    },
+    "5YM": {
+        "Manufacturer": "BMW M SUV"
+    },
+    "5Z6": {
+        "Manufacturer": "Suzuki truck made by Nissan"
+    },
+    "50E": {
+        "Manufacturer": "Lucid Motors"
+    },
+    "50G": {
+        "Manufacturer": "Karma Automotive"
+    },
+    "516": {
+        "Manufacturer": "Autocar truck"
+    },
+    "51R": {
+        "Manufacturer": "Brammo Motorcycles"
+    },
+    "523": {
+        "Manufacturer": "VPG"
+    },
+    "52C": {
+        "Manufacturer": "GEM subsidiary of Polaris Inc."
+    },
+    "538": {
+        "Manufacturer": "Zero Motorcycles"
+    },
+    "53G": {
+        "Manufacturer": "Coda Automotive"
+    },
+    "53T": {
+        "Manufacturer": "Think North America in Elkhart, IN"
+    },
+    "546": {
+        "Manufacturer": "EBR"
+    },
+    "54C": {
+        "Manufacturer": "Winnebago Industries trailer"
+    },
+    "54D": {
+        "Manufacturer": "Isuzu & Chevrolet commercial trucks built by Spartan Motors/The Shyft Group"
+    },
+    "55S": {
+        "Manufacturer": "Mercedes-Benz car<ref name=\"KBA list\" />"
+    },
+    "56K": {
+        "Manufacturer": "Indian Motorcycle International, LLC Polaris subsidiary"
+    },
+    "57W": {
+        "Manufacturer": "Mobility Ventures"
+    },
+    "57X": {
+        "Manufacturer": "Polaris Slingshot"
+    },
+    "58A": {
+        "Manufacturer": "TMMK"
+    },
+    "6F1": {
+        "Manufacturer": "rowspan=17| Australia ||Ford<ref name=\"KBA list\" />"
+    },
+    "6F2": {
+        "Manufacturer": "Iveco Trucks Australia Ltd."
+    },
+    "6F4": {
+        "Manufacturer": "Nissan Motor Australia"
+    },
+    "6F5": {
+        "Manufacturer": "Kenworth Australia"
+    },
+    "6FM": {
+        "Manufacturer": "Mack Trucks Australia"
+    },
+    "6FP": {
+        "Manufacturer": "Ford"
+    },
+    "6G": {
+        "Manufacturer": "General Motors"
+    },
+    "6G1": {
+        "Manufacturer": "Holden & Chevrolet"
+    },
+    "6G2": {
+        "Manufacturer": "Pontiac"
+    },
+    "6G3": {
+        "Manufacturer": "Chevrolet"
+    },
+    "6H": {
+        "Manufacturer": "Holden"
+    },
+    "6MM": {
+        "Manufacturer": "Mitsubishi<ref name=\"KBA list\" />"
+    },
+    "6MP": {
+        "Manufacturer": "Mercury Capri"
+    },
+    "6T1": {
+        "Manufacturer": "Toyota"
+    },
+    "6T9": {
+        "Manufacturer": "Trailer"
+    },
+    "6U9": {
+        "Manufacturer": "Low Volume (Grey) Import Vehicles which don't have 17 Digit VIN. Uses NON ISO VIN with \"Filler 0's between WMI & Non Iso VIN \u2013 I.e Japanese VIN PV35-400637 would become 6U90000PV35400637 see note below"
+    },
+    "6ZZ": {
+        "Manufacturer": "Low Volume (Grey) Import Vehicles which don't have 17 Digit VIN. Uses NON ISO VIN with \"Filler 0's between WMI & Non Iso VIN \u2013 I.e Japanese VIN PV35-400637 would become 6ZZ0000PV35400637 see note below"
+    },
+    "7A1": {
+        "Manufacturer": "rowspan=7| New Zealand || Mitsubishi"
+    },
+    "7A3": {
+        "Manufacturer": "Honda"
+    },
+    "7A4": {
+        "Manufacturer": "Toyota"
+    },
+    "7A5": {
+        "Manufacturer": "Ford"
+    },
+    "7A7": {
+        "Manufacturer": "Nissan New Zealand"
+    },
+    "7A8": {
+        "Manufacturer": "NZ Transport Agency (pre-2009)"
+    },
+    "7AT": {
+        "Manufacturer": "NZ Transport Agency (post\u20132009)"
+    },
+    "7FA": {
+        "Manufacturer": "rowspan=20| United States || Honda SUV made by Honda Manufacturing of Indiana"
+    },
+    "7FC": {
+        "Manufacturer": "Rivian truck"
+    },
+    "7GZ": {
+        "Manufacturer": "GMC incomplete vehicles made by Navistar International"
+    },
+    "7G2": {
+        "Manufacturer": "Tesla Cybertruck & Tesla Semi"
+    },
+    "7H4": {
+        "Manufacturer": "Hino truck"
+    },
+    "7JR": {
+        "Manufacturer": "Volvo Cars car"
+    },
+    "7JZ": {
+        "Manufacturer": "Proterra From mid-2019 on"
+    },
+    "7KG": {
+        "Manufacturer": "Vanderhall Motor Works"
+    },
+    "7MM": {
+        "Manufacturer": "MTMUS (Mazda-Toyota Joint Venture)"
+    },
+    "7MU": {
+        "Manufacturer": "MTMUS (Mazda-Toyota Joint Venture)"
+    },
+    "7NA": {
+        "Manufacturer": "Navistar Defense"
+    },
+    "7NY": {
+        "Manufacturer": "Lordstown Motors"
+    },
+    "7PD": {
+        "Manufacturer": "Rivian SUV"
+    },
+    "7RZ": {
+        "Manufacturer": "Electric Last Mile Solutions"
+    },
+    "7R4": {
+        "Manufacturer": "Icon Electric Vehicles"
+    },
+    "7SA": {
+        "Manufacturer": "Tesla SUV 2022+"
+    },
+    "7SU": {
+        "Manufacturer": "Blue Arc electric trucks made by The Shyft Group"
+    },
+    "7SV": {
+        "Manufacturer": "Toyota SUV made by TMMTX"
+    },
+    "7SX": {
+        "Manufacturer": "Global Electric Motorcars"
+    },
+    "7Z0": {
+        "Manufacturer": "Zoox"
+    },
+    "8AC": {
+        "Manufacturer": "rowspan=20| Argentina || Mercedes-Benz vans (for South America)"
+    },
+    "8AD": {
+        "Manufacturer": "Peugeot"
+    },
+    "8AE": {
+        "Manufacturer": "Peugeot van"
+    },
+    "8AF": {
+        "Manufacturer": "Ford Motor Argentina<ref name=\"KBA list\" />"
+    },
+    "8AG": {
+        "Manufacturer": "General Motors de Argentina Chevrolet"
+    },
+    "8AJ": {
+        "Manufacturer": "Toyota Argentina"
+    },
+    "8AN": {
+        "Manufacturer": "Nissan"
+    },
+    "8AP": {
+        "Manufacturer": "Fiat"
+    },
+    "8AT": {
+        "Manufacturer": "Iveco"
+    },
+    "8AW": {
+        "Manufacturer": "Volkswagen Argentina"
+    },
+    "8A1": {
+        "Manufacturer": "Renault Argentina"
+    },
+    "8A3": {
+        "Manufacturer": "Scania Argentina"
+    },
+    "8BB": {
+        "Manufacturer": "Agrale Argentina S.A"
+    },
+    "8BC": {
+        "Manufacturer": "Citro\u00ebn"
+    },
+    "8BN": {
+        "Manufacturer": "Mercedes-Benz incomplete vehicle (North America)"
+    },
+    "8BR": {
+        "Manufacturer": "Mercedes-Benz \"bus\" (van with more than 3 rows of seats) (North America)"
+    },
+    "8BT": {
+        "Manufacturer": "Mercedes-Benz MPV (van with 2 or 3 rows of seats) (North America)"
+    },
+    "8BU": {
+        "Manufacturer": "Mercedes-Benz truck (cargo van with 1 row of seats) (North America)"
+    },
+    "8CH": {
+        "Manufacturer": "Honda motorcycle"
+    },
+    "8C3": {
+        "Manufacturer": "Honda car/SUV"
+    },
+    "8F9": {
+        "Manufacturer": "rowspan=4| Chile || Reborn Electric Motors SPA"
+    },
+    "8G1": {
+        "Manufacturer": "Automotores Franco Chilena S.A Renault"
+    },
+    "8GD": {
+        "Manufacturer": "Automotores Franco Chilena S.A Peugeot"
+    },
+    "8GG": {
+        "Manufacturer": "General Motors Chile Ltda."
+    },
+    "8L4": {
+        "Manufacturer": "rowspan=4| Ecuador || Great Wall Motors made by Ciudad del Auto Ciauto Cia. Ltda."
+    },
+    "8LB": {
+        "Manufacturer": "General Motors OBB"
+    },
+    "8LF": {
+        "Manufacturer": "Maresa (Mazda)"
+    },
+    "8LG": {
+        "Manufacturer": "Aymesa (Hyundai Motor & Kia)"
+    },
+    "8XD": {
+        "Manufacturer": "rowspan=4|Venezuela || Ford Motor Venezuela"
+    },
+    "8XJ": {
+        "Manufacturer": "Mack de Venezuela C.A."
+    },
+    "8XV": {
+        "Manufacturer": "Iveco Venezuela C.A."
+    },
+    "8Z1": {
+        "Manufacturer": "General Motors Venezolana C.A."
+    },
+    "829": {
+        "Manufacturer": "Bolivia || Quantum Motors"
+    },
+    "9AM": {
+        "Manufacturer": "rowspan=51| Brazil || Massari (?)"
+    },
+    "9BD": {
+        "Manufacturer": "Fiat Autom\u00f3veis"
+    },
+    "9BF": {
+        "Manufacturer": "Ford Brasil"
+    },
+    "9BG": {
+        "Manufacturer": "General Motors do Brasil Chevrolet"
+    },
+    "9BH": {
+        "Manufacturer": "Hyundai Motor Brasil"
+    },
+    "9BM": {
+        "Manufacturer": "Mercedes-Benz car & SUV & commercial truck"
+    },
+    "9BN": {
+        "Manufacturer": "Mafersa"
+    },
+    "9BR": {
+        "Manufacturer": "Toyota"
+    },
+    "9BS": {
+        "Manufacturer": "Scania Brazil"
+    },
+    "9BV": {
+        "Manufacturer": "Volvo Trucks"
+    },
+    "9BW": {
+        "Manufacturer": "Volkswagen do Brasil<ref name=\"KBA list\" />"
+    },
+    "9BY": {
+        "Manufacturer": "Agrale S.A."
+    },
+    "9C2": {
+        "Manufacturer": "Honda Motorcycles<ref name=\"KBA list\" />"
+    },
+    "9C6": {
+        "Manufacturer": "Yamaha Motor<ref name=\"KBA list\" />"
+    },
+    "9CD": {
+        "Manufacturer": "Suzuki (motorcycles) assembled by J. Toledo Motos do Brasil"
+    },
+    "9DW": {
+        "Manufacturer": "Volkswagen do Brasil"
+    },
+    "932": {
+        "Manufacturer": "Harley-Davidson"
+    },
+    "935": {
+        "Manufacturer": "Citro\u00ebn"
+    },
+    "936": {
+        "Manufacturer": "Peugeot"
+    },
+    "937": {
+        "Manufacturer": "Dodge"
+    },
+    "93C": {
+        "Manufacturer": "General Motors do Brasil Chevrolet SUV (Mexico)"
+    },
+    "93H": {
+        "Manufacturer": "Honda car/SUV"
+    },
+    "93K": {
+        "Manufacturer": "Volvo Trucks"
+    },
+    "93P": {
+        "Manufacturer": "Volare"
+    },
+    "93S": {
+        "Manufacturer": "Navistar International"
+    },
+    "93U": {
+        "Manufacturer": "Audi 1999\u20132006"
+    },
+    "93V": {
+        "Manufacturer": "Navistar International"
+    },
+    "93W": {
+        "Manufacturer": "Fiat Ducato made by Iveco 2000\u20132016"
+    },
+    "93X": {
+        "Manufacturer": "Souza Ramos \u2013 Suzuki Jimny"
+    },
+    "93Y": {
+        "Manufacturer": "Renault do Brasil"
+    },
+    "93Z": {
+        "Manufacturer": "Iveco"
+    },
+    "94D": {
+        "Manufacturer": "Nissan"
+    },
+    "94G": {
+        "Manufacturer": "Indabra"
+    },
+    "94M": {
+        "Manufacturer": "HVR-Busscar"
+    },
+    "94N": {
+        "Manufacturer": "RWM Brazil"
+    },
+    "94T": {
+        "Manufacturer": "Troller Ve\u00edculos Especiais"
+    },
+    "953": {
+        "Manufacturer": "VW Truck & Bus / MAN Truck & Bus"
+    },
+    "95P": {
+        "Manufacturer": "CAOA / Hyundai & CAOA Chery"
+    },
+    "95V": {
+        "Manufacturer": "BMW motorcycles assembled by Dafra Motos 2009\u20132016"
+    },
+    "95Z": {
+        "Manufacturer": "Buell Motorcycle Company assembled by Harley-Davidson Brazil"
+    },
+    "96P": {
+        "Manufacturer": "Kawasaki"
+    },
+    "97N": {
+        "Manufacturer": "Triumph Motorcycles Ltd"
+    },
+    "988": {
+        "Manufacturer": "Jeep and Fiat (made at the Goiana plant)"
+    },
+    "98M": {
+        "Manufacturer": "BMW car/SUV"
+    },
+    "98R": {
+        "Manufacturer": "Chery"
+    },
+    "99A": {
+        "Manufacturer": "Audi 2016-"
+    },
+    "99J": {
+        "Manufacturer": "Jaguar Land Rover"
+    },
+    "99K": {
+        "Manufacturer": "Haojue & Kymco assembled by JTZ Ind\u00fastria e Com\u00e9rcio de Motos"
+    },
+    "99L": {
+        "Manufacturer": "BYD"
+    },
+    "99Z": {
+        "Manufacturer": "BMW Motorrad Motorcycle assembled by BMW 2017-"
+    },
+    "9FB": {
+        "Manufacturer": "rowspan=3| Colombia || Sofasa (Renault)"
+    },
+    "9FC": {
+        "Manufacturer": "Compa\u00f1\u00eda Colombiana Automotriz S.A. (Mazda)"
+    },
+    "9GA": {
+        "Manufacturer": "GM Colmotores S.A. (Chevrolet)"
+    },
+    "9UJ": {
+        "Manufacturer": "rowspan=5| Uruguay || Chery Socma S.A."
+    },
+    "9UK": {
+        "Manufacturer": "Lifan"
+    },
+    "9UW": {
+        "Manufacturer": "Kia made by Nordex S.A."
+    },
+    "9V7": {
+        "Manufacturer": "Citroen made by Nordex S.A."
+    },
+    "9V8": {
+        "Manufacturer": "Peugeot made by Nordex S.A."
+    }
+}

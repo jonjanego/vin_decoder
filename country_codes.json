@@ -1,0 +1,1244 @@
+{
+    "AA": {
+        "Country": "South Africa"
+    },
+    "AB": {
+        "Country": "South Africa"
+    },
+    "AC": {
+        "Country": "South Africa"
+    },
+    "AD": {
+        "Country": "South Africa"
+    },
+    "AE": {
+        "Country": "South Africa"
+    },
+    "AF": {
+        "Country": "South Africa"
+    },
+    "AG": {
+        "Country": "South Africa"
+    },
+    "AH": {
+        "Country": "South Africa"
+    },
+    "AJ": {
+        "Country": "C\u00f4te d'Ivoire"
+    },
+    "AK": {
+        "Country": "C\u00f4te d'Ivoire"
+    },
+    "AL": {
+        "Country": "Lesotho"
+    },
+    "AM": {
+        "Country": "Lesotho"
+    },
+    "AN": {
+        "Country": "Botswana"
+    },
+    "AO": {
+        "Country": "Botswana"
+    },
+    "AP": {
+        "Country": "Botswana"
+    },
+    "AR": {
+        "Country": "Namibia"
+    },
+    "AS": {
+        "Country": "Namibia"
+    },
+    "AT": {
+        "Country": "Madagascar"
+    },
+    "AU": {
+        "Country": "Madagascar"
+    },
+    "AV": {
+        "Country": "Mauritius"
+    },
+    "AW": {
+        "Country": "Mauritius"
+    },
+    "AX": {
+        "Country": "Tunisia"
+    },
+    "AY": {
+        "Country": "Tunisia"
+    },
+    "AZ": {
+        "Country": "Cyprus"
+    },
+    "A1": {
+        "Country": "Cyprus"
+    },
+    "A2": {
+        "Country": "Zimbabwe"
+    },
+    "A3": {
+        "Country": "Zimbabwe"
+    },
+    "A4": {
+        "Country": "Mozambique"
+    },
+    "A5": {
+        "Country": "Mozambique"
+    },
+    "BA": {
+        "Country": "Angola"
+    },
+    "BB": {
+        "Country": "Angola"
+    },
+    "BC": {
+        "Country": "Ethiopia"
+    },
+    "BF": {
+        "Country": "Kenya"
+    },
+    "BG": {
+        "Country": "Kenya"
+    },
+    "BH": {
+        "Country": "Rwanda"
+    },
+    "BL": {
+        "Country": "Nigeria"
+    },
+    "BR": {
+        "Country": "Algeria"
+    },
+    "BT": {
+        "Country": "Swaziland"
+    },
+    "BU": {
+        "Country": "Uganda"
+    },
+    "B3": {
+        "Country": "Libya"
+    },
+    "B4": {
+        "Country": "Libya"
+    },
+    "CA": {
+        "Country": "Egypt"
+    },
+    "CB": {
+        "Country": "Egypt"
+    },
+    "CF": {
+        "Country": "Morocco"
+    },
+    "CG": {
+        "Country": "Morocco"
+    },
+    "CL": {
+        "Country": "Zambia"
+    },
+    "CM": {
+        "Country": "Zambia"
+    },
+    "H": {
+        "Country": "China"
+    },
+    "J": {
+        "Country": "Japan"
+    },
+    "KF": {
+        "Country": "Israel"
+    },
+    "KG": {
+        "Country": "Israel"
+    },
+    "KH": {
+        "Country": "Israel"
+    },
+    "KL": {
+        "Country": "South Korea"
+    },
+    "KM": {
+        "Country": "South Korea"
+    },
+    "KN": {
+        "Country": "South Korea"
+    },
+    "KO": {
+        "Country": "South Korea"
+    },
+    "KP": {
+        "Country": "South Korea"
+    },
+    "KQ": {
+        "Country": "South Korea"
+    },
+    "KR": {
+        "Country": "South Korea"
+    },
+    "KS": {
+        "Country": "Jordan"
+    },
+    "KT": {
+        "Country": "Jordan"
+    },
+    "K1": {
+        "Country": "South Korea"
+    },
+    "K2": {
+        "Country": "South Korea"
+    },
+    "K3": {
+        "Country": "South Korea"
+    },
+    "K5": {
+        "Country": "Kyrgistan"
+    },
+    "L": {
+        "Country": "China"
+    },
+    "MA": {
+        "Country": "India"
+    },
+    "MB": {
+        "Country": "India"
+    },
+    "MC": {
+        "Country": "India"
+    },
+    "MD": {
+        "Country": "India"
+    },
+    "ME": {
+        "Country": "India"
+    },
+    "MF": {
+        "Country": "Indonesia"
+    },
+    "MG": {
+        "Country": "Indonesia"
+    },
+    "MH": {
+        "Country": "Indonesia"
+    },
+    "MI": {
+        "Country": "Indonesia"
+    },
+    "MJ": {
+        "Country": "Indonesia"
+    },
+    "MK": {
+        "Country": "Indonesia"
+    },
+    "ML": {
+        "Country": "Thailand"
+    },
+    "MM": {
+        "Country": "Thailand"
+    },
+    "MN": {
+        "Country": "Thailand"
+    },
+    "MO": {
+        "Country": "Thailand"
+    },
+    "MP": {
+        "Country": "Thailand"
+    },
+    "MQ": {
+        "Country": "Thailand"
+    },
+    "MR": {
+        "Country": "Thailand"
+    },
+    "MS": {
+        "Country": "Myanmar"
+    },
+    "MU": {
+        "Country": "Mongolia"
+    },
+    "MX": {
+        "Country": "Kazakhstan"
+    },
+    "MY": {
+        "Country": "India"
+    },
+    "MZ": {
+        "Country": "India"
+    },
+    "NA": {
+        "Country": "Iran"
+    },
+    "NB": {
+        "Country": "Iran"
+    },
+    "NC": {
+        "Country": "Iran"
+    },
+    "ND": {
+        "Country": "Iran"
+    },
+    "NE": {
+        "Country": "Iran"
+    },
+    "NF": {
+        "Country": "Pakistan"
+    },
+    "NG": {
+        "Country": "Pakistan"
+    },
+    "NJ": {
+        "Country": "Iraq"
+    },
+    "NL": {
+        "Country": "Turkey"
+    },
+    "NM": {
+        "Country": "Turkey"
+    },
+    "NN": {
+        "Country": "Turkey"
+    },
+    "NO": {
+        "Country": "Turkey"
+    },
+    "NP": {
+        "Country": "Turkey"
+    },
+    "NQ": {
+        "Country": "Turkey"
+    },
+    "NR": {
+        "Country": "Turkey"
+    },
+    "NS": {
+        "Country": "Uzbekistan"
+    },
+    "NT": {
+        "Country": "Uzbekistan"
+    },
+    "NV": {
+        "Country": "Azerbaijan"
+    },
+    "NX": {
+        "Country": "Tajikistan"
+    },
+    "NY": {
+        "Country": "Armenia"
+    },
+    "N1": {
+        "Country": "Iran"
+    },
+    "N2": {
+        "Country": "Iran"
+    },
+    "N3": {
+        "Country": "Iran"
+    },
+    "N4": {
+        "Country": "Iran"
+    },
+    "N5": {
+        "Country": "Iran"
+    },
+    "N7": {
+        "Country": "Turkey"
+    },
+    "N8": {
+        "Country": "Turkey"
+    },
+    "PA": {
+        "Country": "Philippines"
+    },
+    "PB": {
+        "Country": "Philippines"
+    },
+    "PC": {
+        "Country": "Philippines"
+    },
+    "PF": {
+        "Country": "Singapore"
+    },
+    "PG": {
+        "Country": "Singapore"
+    },
+    "PL": {
+        "Country": "Malaysia"
+    },
+    "PM": {
+        "Country": "Malaysia"
+    },
+    "PN": {
+        "Country": "Malaysia"
+    },
+    "PO": {
+        "Country": "Malaysia"
+    },
+    "PP": {
+        "Country": "Malaysia"
+    },
+    "PQ": {
+        "Country": "Malaysia"
+    },
+    "PR": {
+        "Country": "Malaysia"
+    },
+    "PS": {
+        "Country": "Bangladesh"
+    },
+    "PT": {
+        "Country": "Bangladesh"
+    },
+    "RA": {
+        "Country": "United Arab Emirates"
+    },
+    "RB": {
+        "Country": "United Arab Emirates"
+    },
+    "RF": {
+        "Country": "Taiwan"
+    },
+    "RG": {
+        "Country": "Taiwan"
+    },
+    "RH": {
+        "Country": "Taiwan"
+    },
+    "RI": {
+        "Country": "Taiwan"
+    },
+    "RJ": {
+        "Country": "Taiwan"
+    },
+    "RK": {
+        "Country": "Taiwan"
+    },
+    "RL": {
+        "Country": "Vietnam"
+    },
+    "RM": {
+        "Country": "Vietnam"
+    },
+    "RN": {
+        "Country": "Vietnam"
+    },
+    "RP": {
+        "Country": "Laos"
+    },
+    "RS": {
+        "Country": "Saudi Arabia"
+    },
+    "RT": {
+        "Country": "Saudi Arabia"
+    },
+    "R1": {
+        "Country": "Hong Kong"
+    },
+    "R2": {
+        "Country": "Hong Kong"
+    },
+    "R3": {
+        "Country": "Hong Kong"
+    },
+    "R4": {
+        "Country": "Hong Kong"
+    },
+    "R5": {
+        "Country": "Hong Kong"
+    },
+    "R6": {
+        "Country": "Hong Kong"
+    },
+    "R7": {
+        "Country": "Hong Kong"
+    },
+    "SA": {
+        "Country": "United Kingdom"
+    },
+    "SB": {
+        "Country": "United Kingdom"
+    },
+    "SC": {
+        "Country": "United Kingdom"
+    },
+    "SD": {
+        "Country": "United Kingdom"
+    },
+    "SE": {
+        "Country": "United Kingdom"
+    },
+    "SF": {
+        "Country": "United Kingdom"
+    },
+    "SG": {
+        "Country": "United Kingdom"
+    },
+    "SH": {
+        "Country": "United Kingdom"
+    },
+    "SI": {
+        "Country": "United Kingdom"
+    },
+    "SJ": {
+        "Country": "United Kingdom"
+    },
+    "SK": {
+        "Country": "United Kingdom"
+    },
+    "SL": {
+        "Country": "United Kingdom"
+    },
+    "SM": {
+        "Country": "United Kingdom"
+    },
+    "SN": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SO": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SP": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SQ": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SR": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SS": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "ST": {
+        "Country": "Germany <small>(former East Germany)</small>"
+    },
+    "SU": {
+        "Country": "Poland"
+    },
+    "SV": {
+        "Country": "Poland"
+    },
+    "SW": {
+        "Country": "Poland"
+    },
+    "SX": {
+        "Country": "Poland"
+    },
+    "SY": {
+        "Country": "Poland"
+    },
+    "SZ": {
+        "Country": "Poland"
+    },
+    "S1": {
+        "Country": "Latvia"
+    },
+    "S2": {
+        "Country": "Latvia"
+    },
+    "S3": {
+        "Country": "Georgia"
+    },
+    "S4": {
+        "Country": "Iceland"
+    },
+    "TA": {
+        "Country": "Switzerland"
+    },
+    "TB": {
+        "Country": "Switzerland"
+    },
+    "TC": {
+        "Country": "Switzerland"
+    },
+    "TD": {
+        "Country": "Switzerland"
+    },
+    "TE": {
+        "Country": "Switzerland"
+    },
+    "TF": {
+        "Country": "Switzerland"
+    },
+    "TG": {
+        "Country": "Switzerland"
+    },
+    "TH": {
+        "Country": "Switzerland"
+    },
+    "TJ": {
+        "Country": "Czech Republic"
+    },
+    "TK": {
+        "Country": "Czech Republic"
+    },
+    "TL": {
+        "Country": "Czech Republic"
+    },
+    "TM": {
+        "Country": "Czech Republic"
+    },
+    "TN": {
+        "Country": "Czech Republic"
+    },
+    "TO": {
+        "Country": "Czech Republic"
+    },
+    "TP": {
+        "Country": "Czech Republic"
+    },
+    "TR": {
+        "Country": "Hungary"
+    },
+    "TS": {
+        "Country": "Hungary"
+    },
+    "TT": {
+        "Country": "Hungary"
+    },
+    "TU": {
+        "Country": "Hungary"
+    },
+    "TV": {
+        "Country": "Hungary"
+    },
+    "TW": {
+        "Country": "Portugal"
+    },
+    "TX": {
+        "Country": "Portugal"
+    },
+    "TY": {
+        "Country": "Portugal"
+    },
+    "TZ": {
+        "Country": "Portugal"
+    },
+    "T1": {
+        "Country": "Portugal"
+    },
+    "T2": {
+        "Country": "Portugal"
+    },
+    "T3": {
+        "Country": "Serbia"
+    },
+    "T4": {
+        "Country": "Serbia"
+    },
+    "T5": {
+        "Country": "Serbia"
+    },
+    "T6": {
+        "Country": "Andorra"
+    },
+    "T7": {
+        "Country": "Netherlands"
+    },
+    "T8": {
+        "Country": "Netherlands"
+    },
+    "UA": {
+        "Country": "Spain"
+    },
+    "UB": {
+        "Country": "Spain"
+    },
+    "UC": {
+        "Country": "Spain"
+    },
+    "UH": {
+        "Country": "Denmark"
+    },
+    "UI": {
+        "Country": "Denmark"
+    },
+    "UJ": {
+        "Country": "Denmark"
+    },
+    "UK": {
+        "Country": "Denmark"
+    },
+    "UL": {
+        "Country": "Denmark"
+    },
+    "UM": {
+        "Country": "Denmark"
+    },
+    "UN": {
+        "Country": "Ireland"
+    },
+    "UO": {
+        "Country": "Ireland"
+    },
+    "UP": {
+        "Country": "Ireland"
+    },
+    "UQ": {
+        "Country": "Ireland"
+    },
+    "UR": {
+        "Country": "Ireland"
+    },
+    "UU": {
+        "Country": "Romania"
+    },
+    "UV": {
+        "Country": "Romania"
+    },
+    "UW": {
+        "Country": "Romania"
+    },
+    "UX": {
+        "Country": "Romania"
+    },
+    "U1": {
+        "Country": "North Macedonia"
+    },
+    "U2": {
+        "Country": "North Macedonia"
+    },
+    "U5": {
+        "Country": "Slovakia"
+    },
+    "U6": {
+        "Country": "Slovakia"
+    },
+    "U7": {
+        "Country": "Slovakia"
+    },
+    "VA": {
+        "Country": "Austria"
+    },
+    "VB": {
+        "Country": "Austria"
+    },
+    "VC": {
+        "Country": "Austria"
+    },
+    "VD": {
+        "Country": "Austria"
+    },
+    "VE": {
+        "Country": "Austria"
+    },
+    "VF": {
+        "Country": "France"
+    },
+    "VG": {
+        "Country": "France"
+    },
+    "VH": {
+        "Country": "France"
+    },
+    "VI": {
+        "Country": "France"
+    },
+    "VJ": {
+        "Country": "France"
+    },
+    "VK": {
+        "Country": "France"
+    },
+    "VL": {
+        "Country": "France"
+    },
+    "VM": {
+        "Country": "France"
+    },
+    "VN": {
+        "Country": "France"
+    },
+    "VO": {
+        "Country": "France"
+    },
+    "VP": {
+        "Country": "France"
+    },
+    "VQ": {
+        "Country": "France"
+    },
+    "VR": {
+        "Country": "France"
+    },
+    "VS": {
+        "Country": "Spain"
+    },
+    "VT": {
+        "Country": "Spain"
+    },
+    "VU": {
+        "Country": "Spain"
+    },
+    "VV": {
+        "Country": "Spain"
+    },
+    "VW": {
+        "Country": "Spain"
+    },
+    "VX": {
+        "Country": "France"
+    },
+    "VY": {
+        "Country": "France"
+    },
+    "VZ": {
+        "Country": "France"
+    },
+    "V1": {
+        "Country": "France"
+    },
+    "V2": {
+        "Country": "France"
+    },
+    "V3": {
+        "Country": "Croatia"
+    },
+    "V4": {
+        "Country": "Croatia"
+    },
+    "V5": {
+        "Country": "Croatia"
+    },
+    "V6": {
+        "Country": "Estonia"
+    },
+    "V7": {
+        "Country": "Estonia"
+    },
+    "V8": {
+        "Country": "Estonia"
+    },
+    "W": {
+        "Country": "Germany <small>(former West Germany)</small>"
+    },
+    "XA": {
+        "Country": "Bulgaria"
+    },
+    "XB": {
+        "Country": "Bulgaria"
+    },
+    "XC": {
+        "Country": "Bulgaria"
+    },
+    "XD": {
+        "Country": "Russia"
+    },
+    "XE": {
+        "Country": "Russia"
+    },
+    "XF": {
+        "Country": "Greece"
+    },
+    "XG": {
+        "Country": "Greece"
+    },
+    "XH": {
+        "Country": "Greece"
+    },
+    "XJ": {
+        "Country": "Russia"
+    },
+    "XK": {
+        "Country": "Russia"
+    },
+    "XL": {
+        "Country": "Netherlands"
+    },
+    "XM": {
+        "Country": "Netherlands"
+    },
+    "XN": {
+        "Country": "Netherlands"
+    },
+    "XO": {
+        "Country": "Netherlands"
+    },
+    "XP": {
+        "Country": "Netherlands"
+    },
+    "XQ": {
+        "Country": "Netherlands"
+    },
+    "XR": {
+        "Country": "Netherlands"
+    },
+    "XS": {
+        "Country": "Russia <small>(former USSR)</small>"
+    },
+    "XT": {
+        "Country": "Russia <small>(former USSR)</small>"
+    },
+    "XU": {
+        "Country": "Russia <small>(former USSR)</small>"
+    },
+    "XV": {
+        "Country": "Russia <small>(former USSR)</small>"
+    },
+    "XW": {
+        "Country": "Russia <small>(former USSR)</small>"
+    },
+    "XX": {
+        "Country": "Luxembourg"
+    },
+    "XY": {
+        "Country": "Luxembourg"
+    },
+    "XZ": {
+        "Country": "Russia"
+    },
+    "YA": {
+        "Country": "Belgium"
+    },
+    "YB": {
+        "Country": "Belgium"
+    },
+    "YC": {
+        "Country": "Belgium"
+    },
+    "YD": {
+        "Country": "Belgium"
+    },
+    "YE": {
+        "Country": "Belgium"
+    },
+    "YF": {
+        "Country": "Finland"
+    },
+    "YG": {
+        "Country": "Finland"
+    },
+    "YH": {
+        "Country": "Finland"
+    },
+    "YI": {
+        "Country": "Finland"
+    },
+    "YJ": {
+        "Country": "Finland"
+    },
+    "YK": {
+        "Country": "Finland"
+    },
+    "YN": {
+        "Country": "Malta"
+    },
+    "YS": {
+        "Country": "Sweden"
+    },
+    "YT": {
+        "Country": "Sweden"
+    },
+    "YU": {
+        "Country": "Sweden"
+    },
+    "YV": {
+        "Country": "Sweden"
+    },
+    "YW": {
+        "Country": "Sweden"
+    },
+    "YX": {
+        "Country": "Norway"
+    },
+    "YY": {
+        "Country": "Norway"
+    },
+    "YZ": {
+        "Country": "Norway"
+    },
+    "Y1": {
+        "Country": "Norway"
+    },
+    "Y2": {
+        "Country": "Norway"
+    },
+    "Y3": {
+        "Country": "Belarus"
+    },
+    "Y4": {
+        "Country": "Belarus"
+    },
+    "Y5": {
+        "Country": "Belarus"
+    },
+    "Y6": {
+        "Country": "Ukraine"
+    },
+    "Y7": {
+        "Country": "Ukraine"
+    },
+    "Y8": {
+        "Country": "Ukraine"
+    },
+    "ZA": {
+        "Country": "Italy"
+    },
+    "ZB": {
+        "Country": "Italy"
+    },
+    "ZC": {
+        "Country": "Italy"
+    },
+    "ZD": {
+        "Country": "Italy"
+    },
+    "ZE": {
+        "Country": "Italy"
+    },
+    "ZF": {
+        "Country": "Italy"
+    },
+    "ZG": {
+        "Country": "Italy"
+    },
+    "ZH": {
+        "Country": "Italy"
+    },
+    "ZI": {
+        "Country": "Italy"
+    },
+    "ZJ": {
+        "Country": "Italy"
+    },
+    "ZK": {
+        "Country": "Italy"
+    },
+    "ZL": {
+        "Country": "Italy"
+    },
+    "ZM": {
+        "Country": "Italy"
+    },
+    "ZN": {
+        "Country": "Italy"
+    },
+    "ZO": {
+        "Country": "Italy"
+    },
+    "ZP": {
+        "Country": "Italy"
+    },
+    "ZQ": {
+        "Country": "Italy"
+    },
+    "ZR": {
+        "Country": "Italy"
+    },
+    "ZS": {
+        "Country": "Italy"
+    },
+    "ZT": {
+        "Country": "Italy"
+    },
+    "ZU": {
+        "Country": "Italy"
+    },
+    "ZX": {
+        "Country": "Slovenia"
+    },
+    "ZY": {
+        "Country": "Slovenia"
+    },
+    "ZZ": {
+        "Country": "Slovenia"
+    },
+    "Z1": {
+        "Country": "San Marino"
+    },
+    "Z3": {
+        "Country": "Lithuania"
+    },
+    "Z4": {
+        "Country": "Lithuania"
+    },
+    "Z5": {
+        "Country": "Lithuania"
+    },
+    "2": {
+        "Country": "Canada"
+    },
+    "3A": {
+        "Country": "Mexico"
+    },
+    "3B": {
+        "Country": "Mexico"
+    },
+    "3C": {
+        "Country": "Mexico"
+    },
+    "3D": {
+        "Country": "Mexico"
+    },
+    "3E": {
+        "Country": "Mexico"
+    },
+    "3F": {
+        "Country": "Mexico"
+    },
+    "3G": {
+        "Country": "Mexico"
+    },
+    "3H": {
+        "Country": "Mexico"
+    },
+    "3I": {
+        "Country": "Mexico"
+    },
+    "3J": {
+        "Country": "Mexico"
+    },
+    "3K": {
+        "Country": "Mexico"
+    },
+    "3L": {
+        "Country": "Mexico"
+    },
+    "3M": {
+        "Country": "Mexico"
+    },
+    "3N": {
+        "Country": "Mexico"
+    },
+    "3O": {
+        "Country": "Mexico"
+    },
+    "3P": {
+        "Country": "Mexico"
+    },
+    "3Q": {
+        "Country": "Mexico"
+    },
+    "3R": {
+        "Country": "Mexico"
+    },
+    "3S": {
+        "Country": "Mexico"
+    },
+    "3T": {
+        "Country": "Mexico"
+    },
+    "3U": {
+        "Country": "Mexico"
+    },
+    "3V": {
+        "Country": "Mexico"
+    },
+    "3W": {
+        "Country": "Mexico"
+    },
+    "3X": {
+        "Country": "Mexico"
+    },
+    "34": {
+        "Country": "Nicaragua"
+    },
+    "35": {
+        "Country": "Dominican Republic"
+    },
+    "36": {
+        "Country": "Honduras"
+    },
+    "37": {
+        "Country": "Panama"
+    },
+    "38": {
+        "Country": "Puerto Rico"
+    },
+    "39": {
+        "Country": "Puerto Rico"
+    },
+    "4": {
+        "Country": "United States"
+    },
+    "7": {
+        "Country": "United States"
+    },
+    "6": {
+        "Country": "Australia"
+    },
+    "6Y": {
+        "Country": "New Zealand"
+    },
+    "6Z": {
+        "Country": "New Zealand"
+    },
+    "61": {
+        "Country": "New Zealand"
+    },
+    "8F": {
+        "Country": "Chile"
+    },
+    "8G": {
+        "Country": "Chile"
+    },
+    "8L": {
+        "Country": "Ecuador"
+    },
+    "8M": {
+        "Country": "Ecuador"
+    },
+    "8N": {
+        "Country": "Ecuador"
+    },
+    "8S": {
+        "Country": "Peru"
+    },
+    "8T": {
+        "Country": "Peru"
+    },
+    "8U": {
+        "Country": "Peru"
+    },
+    "8V": {
+        "Country": "Peru"
+    },
+    "8W": {
+        "Country": "Peru"
+    },
+    "8X": {
+        "Country": "Venezuela"
+    },
+    "8Y": {
+        "Country": "Venezuela"
+    },
+    "8Z": {
+        "Country": "Venezuela"
+    },
+    "82": {
+        "Country": "Costa Rica"
+    },
+    "9A": {
+        "Country": "Brazil"
+    },
+    "9B": {
+        "Country": "Brazil"
+    },
+    "9C": {
+        "Country": "Brazil"
+    },
+    "9D": {
+        "Country": "Brazil"
+    },
+    "9E": {
+        "Country": "Brazil"
+    },
+    "9F": {
+        "Country": "Colombia"
+    },
+    "9G": {
+        "Country": "Colombia"
+    },
+    "9S": {
+        "Country": "Uruguay"
+    },
+    "9T": {
+        "Country": "Uruguay"
+    },
+    "9U": {
+        "Country": "Uruguay"
+    },
+    "9V": {
+        "Country": "Uruguay"
+    }
+}

@@ -1,20 +1,16 @@
 import re
+import json
+import os
 
-# WMI (World Manufacturer Identifier) mapping
-WMI_MAPPING = {
-    "1": "United States",
-    "2": "Canada",
-    "3": "Mexico",
-    "J": "Japan",
-    "K": "South Korea",
-    "S": "United Kingdom",
-    "W": "Germany",
-    "Z": "Italy",
-    "4": "United States",
-    "5": "United States",
-    "7": "United States"
-    # Add more mappings as needed
-}
+# Load WMI manufacturers from external JSON file
+WMI_MANUFACTURERS_FILE = os.path.join(os.path.dirname(__file__), "wmi_manufacturers.json")
+with open(WMI_MANUFACTURERS_FILE, "r") as file:
+    WMI_MANUFACTURERS = json.load(file)
+
+# Load country codes from external JSON file
+COUNTRY_CODES_FILE = os.path.join(os.path.dirname(__file__), "country_codes.json")
+with open(COUNTRY_CODES_FILE, "r") as file:
+    COUNTRY_CODES = json.load(file)
 
 # Year code mapping (for 1980-2039)
 YEAR_MAPPING = {
@@ -38,8 +34,17 @@ def decode_vin(vin):
 
     # Extract WMI (first 3 characters)
     wmi = vin[:3]
-    country = WMI_MAPPING.get(wmi[0], "Unknown")
-    manufacturer = wmi  # In practice, you'd map this to a manufacturer database.
+
+    # Determine the country based on the first 1 or 2 characters of the WMI
+    country = "Unknown"
+    if wmi[:2] in COUNTRY_CODES:
+        country = COUNTRY_CODES[wmi[:2]]["Country"]
+    elif wmi[:1] in COUNTRY_CODES:
+        country = COUNTRY_CODES[wmi[:1]]["Country"]
+
+    # Determine the manufacturer based on the full WMI
+    manufacturer_data = WMI_MANUFACTURERS.get(wmi, {"Manufacturer": "Unknown"})
+    manufacturer = manufacturer_data["Manufacturer"]
 
     # Extract year (10th character)
     year_code = vin[9]
