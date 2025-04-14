@@ -34,7 +34,7 @@ python3 vin_decoder.py <VIN>
 
 Replace `<VIN>` with the 17-character Vehicle Identification Number you want to decode.
 
-It will also accept a VIN in interactive mode
+It will also accept a VIN in interactive mode by running it without arguments.
 
 ## Example
 
