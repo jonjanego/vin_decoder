@@ -51,6 +51,20 @@ Model Year: 2003
 Assembly Plant: Ohio
 ```
 
+## Source Data
+
+This project relies on the country and manufacturer lookup codes that is published on [Wikipedia](https://en.wikipedia.org/wiki/Vehicle_identification_number#List_of_common_WMI), and is current as of its latest updates in April 2025. There isn't an automatic sync process or anything, so take this "As-is"
+
+The country code and manufacturer looks might also be individually useful:
+
+- [Country code lookup](country_codes.json)
+- [Manufacturer lookup](wmi_manufacturers.json)
+
+
+## Credits
+
+Thank you Copilot + GPT-4o for the help.
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you’d like to improve the script.
