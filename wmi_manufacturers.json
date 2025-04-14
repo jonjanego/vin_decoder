@@ -894,7 +894,7 @@
         "Manufacturer": "Sinotruk (CNHTC) Howo, Sitrak"
     },
     "MA1": {
-        "Manufacturer": "rowspan=51| India || Mahindra"
+        "Manufacturer": " Mahindra"
     },
     "MA3": {
         "Manufacturer": "Maruti Suzuki India Limited"
@@ -1047,7 +1047,7 @@
         "Manufacturer": "UM Lohia Two Wheelers Private Limited"
     },
     "MH1": {
-        "Manufacturer": "rowspan=12| Indonesia || PT Astra Honda Motor"
+        "Manufacturer": " PT Astra Honda Motor"
     },
     "MH3": {
         "Manufacturer": "PT Yamaha Indonesia Motor Mfg."
@@ -1083,7 +1083,7 @@
         "Manufacturer": "PT SGMW Motor Indonesia Wuling"
     },
     "ML0": {
-        "Manufacturer": "rowspan=34| Thailand || Ducati Motor (Thailand) Co., Ltd."
+        "Manufacturer": " Ducati Motor (Thailand) Co., Ltd."
     },
     "ML3": {
         "Manufacturer": "Mitsubishi Motors (Thailand)"
@@ -1134,22 +1134,22 @@
         "Manufacturer": "Tata"
     },
     "MMK": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Toyota"
     },
     "MMM": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Chevrolet"
     },
     "MML": {
         "Manufacturer": "MG"
     },
     "MMR": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Subaru"
     },
     "MMS": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Suzuki"
     },
     "MMT": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Mitsubishi Motors (Thailand)"
     },
     "MMU": {
         "Manufacturer": "Holden"
@@ -1188,13 +1188,13 @@
         "Manufacturer": "Honda car"
     },
     "MR0": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Toyota (Ban Pho and Samrong plant)"
     },
     "MR1": {
         "Manufacturer": "Toyota (Samrong plant) (Fortuner)"
     },
     "MR2": {
-        "Manufacturer": "date=September 2023}}</ref>"
+        "Manufacturer": "Toyota (Gateway plant)"
     },
     "MS0": {
         "Manufacturer": "SSS MOTORS Myanmar/Kia"
@@ -1824,13 +1824,13 @@
         "Manufacturer": "Kia Motors Slovakia SUV"
     },
     "UKH": {
-        "Manufacturer": "rowspan=2| Denmark || HARDI International A/S (Agricultural Machinery)"
+        "Manufacturer": " HARDI International A/S (Agricultural Machinery)"
     },
     "ULA": {
         "Manufacturer": "ASA-LIFT: Vegetable Technology Specialist (Agricultural Machinery)"
     },
     "UU1": {
-        "Manufacturer": "rowspan=8| Romania || Dacia"
+        "Manufacturer": " Dacia"
     },
     "UU2": {
         "Manufacturer": "Oltcit"
@@ -1854,7 +1854,7 @@
         "Manufacturer": "UTB (Uzina de Tractoare Bra\u0219ov)"
     },
     "VA0": {
-        "Manufacturer": "rowspan=\"7\" | Austria || \u00d6AF"
+        "Manufacturer": "AF"
     },
     "VAG": {
         "Manufacturer": "Puch G & Steyr-Puch Pinzgauer"
@@ -1869,7 +1869,7 @@
         "Manufacturer": "Fisker Ocean) made by Magna Steyr"
     },
     "VF1": {
-        "Manufacturer": "rowspan=\"33\" | France || Renault<ref name=\"KBA list\" /> & Eagle Medallion made by Renault"
+        "Manufacturer": "Renault & Eagle Medallion made by Renault"
     },
     "VF2": {
         "Manufacturer": "Renault Trucks"
@@ -1968,7 +1968,7 @@
         "Manufacturer": "Lancia (models on PSA CMP platform)"
     },
     "VS1": {
-        "Manufacturer": "rowspan=18| Spain || Pegaso"
+        "Manufacturer": " Pegaso"
     },
     "VS5": {
         "Manufacturer": "Renault Espa\u00f1a"
@@ -2025,7 +2025,7 @@
         "Manufacturer": "Yugoslavia/Serbia || Zastava Automobiles"
     },
     "V31": {
-        "Manufacturer": "rowspan=2| Croatia || Tvornica Autobusa Zagreb (TAZ)"
+        "Manufacturer": " Tvornica Autobusa Zagreb (TAZ)"
     },
     "V39": {
         "Manufacturer": "Rimac Automobili"
@@ -2034,7 +2034,7 @@
         "Manufacturer": "Rimac Automobili"
     },
     "WAC": {
-        "Manufacturer": "rowspan=\"87\" | Germany || RS 2 Avant"
+        "Manufacturer": "RS 2 Avant"
     },
     "WAG": {
         "Manufacturer": "Neoplan"
@@ -2163,7 +2163,7 @@
         "Manufacturer": "MAN"
     },
     "WME": {
-        "Manufacturer": "Smart<ref name=\"KBA list\" /> (from 5/99)"
+        "Manufacturer": "Smart (from 5/99)"
     },
     "WMW": {
         "Manufacturer": "Mini car"
@@ -2238,7 +2238,7 @@
         "Manufacturer": "Ruf Automobile"
     },
     "W0L": {
-        "Manufacturer": "Adam Opel AG/Vauxhall<ref name=\"KBA list\" /> & Holden"
+        "Manufacturer": "Adam Opel AG/Vauxhall & Holden"
     },
     "W0S": {
         "Manufacturer": "Opel Special Vehicles"
@@ -2295,7 +2295,7 @@
         "Manufacturer": "Groenewold Carrosseriefabriek B.V."
     },
     "003": {
-        "Manufacturer": "rowspan=\"14\" | Netherlands || Autobusfabriek Bova BV"
+        "Manufacturer": "Autobusfabriek Bova BV"
     },
     "320": {
         "Manufacturer": "VDL Bova"
@@ -2313,7 +2313,7 @@
         "Manufacturer": "Scania Nederland B.V."
     },
     "XLR": {
-        "Manufacturer": "DAF Trucks<ref name=\"KBA list\" /> & Leyland DAF"
+        "Manufacturer": "DAF Trucks & Leyland DAF"
     },
     "XLV": {
         "Manufacturer": "DAF Bus"
@@ -2334,7 +2334,7 @@
         "Manufacturer": "Tesla Europe (based in the Netherlands)"
     },
     "XTA": {
-        "Manufacturer": "rowspan=28| Russia || AvtoVAZ"
+        "Manufacturer": " AvtoVAZ"
     },
     "XTB": {
         "Manufacturer": "AZLK"
@@ -2421,7 +2421,7 @@
         "Manufacturer": "Uzbekist\u00e1n || Ravon"
     },
     "Y6D": {
-        "Manufacturer": "rowspan=5| Ukraine || ZAZ"
+        "Manufacturer": " ZAZ"
     },
     "Y6J": {
         "Manufacturer": "Bogdan group"
@@ -2436,7 +2436,7 @@
         "Manufacturer": "Great Wall Motors KrASZ"
     },
     "YAR": {
-        "Manufacturer": "rowspan=5| Belgium || Toyota Motor Europe (based in Belgium) used for Toyota ProAce & Toyota ProAce City"
+        "Manufacturer": " Toyota Motor Europe (based in Belgium) used for Toyota ProAce & Toyota ProAce City"
     },
     "YB3": {
         "Manufacturer": "Volvo Trucks"
@@ -2451,25 +2451,25 @@
         "Manufacturer": "Van Hool"
     },
     "YH2": {
-        "Manufacturer": "rowspan=4| Finland || Lynx (snowmobile)"
+        "Manufacturer": " Lynx (snowmobile)"
     },
     "YH4": {
         "Manufacturer": "Fisker Automotive (Fisker Karma) built by Valmet Automotive"
     },
     "YK1": {
-        "Manufacturer": "Saab<ref name=\"KBA list\" /> built by Valmet Automotive"
+        "Manufacturer": "Saab built by Valmet Automotive"
     },
     "YK7": {
         "Manufacturer": "Sisu Auto"
     },
     "YS2": {
-        "Manufacturer": "rowspan=13| Sweden || Scania, S\u00f6dert\u00e4lje<ref name=\"KBA list\" /> truck"
+        "Manufacturer": " Scania, S\u00f6dert\u00e4lje truck"
     },
     "YS3": {
         "Manufacturer": "Saab"
     },
     "YS4": {
-        "Manufacturer": "Scania, Katrineholm<ref name=\"KBA list\" /> bus"
+        "Manufacturer": "Scania, Katrineholm bus"
     },
     "YSC": {
         "Manufacturer": "Saab"
@@ -2478,10 +2478,10 @@
         "Manufacturer": "Polestar"
     },
     "YT9": {
-        "Manufacturer": " title=Re: VIN Information pursuant to 49 CFR 565.7 KOENIGSEGG | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG6062.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2008-03-14 | access-date=2019-03-13}}</ref>"
+        "Manufacturer": "Koenigsegg Automotive AB"
     },
     "007": {
-        "Manufacturer": " title=Re: VIN Information pursuant to 49 CFR 565.7 KOENIGSEGG | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG6062.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2008-03-14 | access-date=2019-03-13}}</ref>"
+        "Manufacturer": "Koenigsegg Automotive AB"
     },
     "YTN": {
         "Manufacturer": "Saab NEVS"
@@ -2511,7 +2511,7 @@
         "Manufacturer": "Automobili Pininfarina"
     },
     "A12": {
-        "Manufacturer": "rowspan=\"62\" | Italy || Lamborghini through mid 2003"
+        "Manufacturer": "Lamborghini through mid 2003"
     },
     "D38": {
         "Manufacturer": "Cizeta Automobili SRL"
@@ -2541,7 +2541,7 @@
         "Manufacturer": "Maserati car"
     },
     "ZAP": {
-        "Manufacturer": " url=http://modernvespa.com/forum/wiki-vin-decoding| title=Modern Vespa : VIN Decoding| website=modernvespa.com| access-date=2019-10-08}}</ref>"
+        "Manufacturer": "Piaggio and Vespa and Gilera"
     },
     "ZAR": {
         "Manufacturer": "Nissan Cherry Europe"
@@ -2607,7 +2607,7 @@
         "Manufacturer": "Qvale"
     },
     "ZFA": {
-        "Manufacturer": "Fiat car<ref name=\"KBA list\" /> Also Fiat Fullback"
+        "Manufacturer": "Fiat car Also Fiat Fullback"
     },
     "ZFB": {
         "Manufacturer": "Fiat MPV/SUV"
@@ -2634,7 +2634,7 @@
         "Manufacturer": "Husqvarna Motorcycles Under Cagiva ownership"
     },
     "ZHW": {
-        "Manufacturer": "Lamborghini car<ref name=\"KBA list\" /> from mid 2003"
+        "Manufacturer": "Lamborghini car from mid 2003"
     },
     "ZJM": {
         "Manufacturer": "Malaguti"
@@ -2679,10 +2679,10 @@
         "Manufacturer": "Slovenia || Tomos motorcycle"
     },
     "1A4": {
-        "Manufacturer": "rowspan=143| United States || Chrysler brand  MPV/SUV 2006\u20132009 only"
+        "Manufacturer": " Chrysler brand  MPV/SUV 2006\u20132009 only"
     },
     "1A8": {
-        "Manufacturer": "rowspan=143| United States || Chrysler brand  MPV/SUV 2006\u20132009 only"
+        "Manufacturer": " Chrysler brand  MPV/SUV 2006\u20132009 only"
     },
     "1AC": {
         "Manufacturer": "American Motors Corporation MPV"
@@ -2694,7 +2694,7 @@
         "Manufacturer": "American Motors Corporation car & Renault Alliance 1983 only"
     },
     "1B3": {
-        "Manufacturer": "Dodge<ref name=\"KBA list\" /> car 1981\u20132011"
+        "Manufacturer": "Dodge car 1981\u20132011"
     },
     "1B4": {
         "Manufacturer": "Dodge MPV/SUV 1981\u20132002"
@@ -2820,7 +2820,7 @@
         "Manufacturer": "Oldsmobile car"
     },
     "1G4": {
-        "Manufacturer": "Buick car<ref name=\"GM 2016\" />"
+        "Manufacturer": "Buick car"
     },
     "1G5": {
         "Manufacturer": "GMC MPV/SUV 1981\u20131986"
@@ -2844,13 +2844,13 @@
         "Manufacturer": "Chevrolet \"bus\" (van with more than 3 rows of seats)"
     },
     "1GB": {
-        "Manufacturer": " title=Revision to General Motors' Vehicle Identification Number decoding for 2016 Model Year | url=http://ftp.nhtsa.dot.gov/mfrmail/ORG10560.pdf | publisher=National Highway Traffic Safety Administration | location=US | date=2015-01-12 | access-date=2019-03-13}}</ref>"
+        "Manufacturer": "Chevrolet incomplete vehicles"
     },
     "1GC": {
         "Manufacturer": "Chevrolet truck"
     },
     "1GD": {
-        "Manufacturer": "GMC incomplete vehicles<ref name=\"GM 2016\"/>"
+        "Manufacturer": "GMC incomplete vehicles"
     },
     "1GE": {
         "Manufacturer": "Cadillac incomplete vehicle"
@@ -2910,7 +2910,7 @@
         "Manufacturer": "IC Bus incomplete bus"
     },
     "1J4": {
-        "Manufacturer": "Jeep<ref name=\"KBA list\" /> SUV 1989\u20132011 (using Chrysler-style VIN structure)"
+        "Manufacturer": "Jeep SUV 1989\u20132011 (using Chrysler-style VIN structure)"
     },
     "1J7": {
         "Manufacturer": "Jeep truck 1989\u20131992 (using Chrysler-style VIN structure)"
@@ -2976,7 +2976,7 @@
         "Manufacturer": "Mercury car"
     },
     "1MR": {
-        "Manufacturer": "Continental Mark VI & VII 1981\u20131985 & Continental sedan<ref name=\"KBA list\" /> 1982\u20131985"
+        "Manufacturer": "Continental Mark VI & VII 1981\u20131985 & Continental sedan 1982\u20131985"
     },
     "1N4": {
         "Manufacturer": "Nissan car"
@@ -3147,7 +3147,7 @@
         "Manufacturer": "Honda car made by Honda Manufacturing of Indiana"
     },
     "2A3": {
-        "Manufacturer": "rowspan=103| Canada || Imperial"
+        "Manufacturer": " Imperial"
     },
     "2A4": {
         "Manufacturer": "Chrysler brand MPV/SUV 2006\u20132011 only"
@@ -3165,7 +3165,7 @@
         "Manufacturer": "Orion Bus Industries"
     },
     "2B3": {
-        "Manufacturer": "Dodge<ref name=\"KBA list\" /> car 1981\u20132011"
+        "Manufacturer": "Dodge car 1981\u20132011"
     },
     "2B4": {
         "Manufacturer": "Dodge MPV 1981\u20132002"
@@ -3468,10 +3468,10 @@
         "Manufacturer": "Peterbilt truck"
     },
     "3A4": {
-        "Manufacturer": "rowspan=77| Mexico || Chrysler brand MPV 2006\u20132010 only"
+        "Manufacturer": " Chrysler brand MPV 2006\u20132010 only"
     },
     "3A8": {
-        "Manufacturer": "rowspan=77| Mexico || Chrysler brand MPV 2006\u20132010 only"
+        "Manufacturer": " Chrysler brand MPV 2006\u20132010 only"
     },
     "3AK": {
         "Manufacturer": "Freightliner Trucks"
@@ -3660,7 +3660,7 @@
         "Manufacturer": "Mazda car"
     },
     "3N1": {
-        "Manufacturer": "Nissan<ref name=\"KBA list\" /> car"
+        "Manufacturer": "Nissan car"
     },
     "3N6": {
         "Manufacturer": "Nissan truck & Chevrolet City Express"
@@ -3699,7 +3699,7 @@
         "Manufacturer": "Peterbilt truck"
     },
     "4A3": {
-        "Manufacturer": "rowspan=\"140\" | United States || Mitsubishi Motors car"
+        "Manufacturer": "Mitsubishi Motors car"
     },
     "4A4": {
         "Manufacturer": "Mitsubishi Motors SUV"
@@ -3732,7 +3732,7 @@
         "Manufacturer": "Eagle car made by Diamond-Star Motors factory"
     },
     "4F2": {
-        "Manufacturer": "Mazda<ref name=\"KBA list\" /> SUV made by Ford"
+        "Manufacturer": "Mazda SUV made by Ford"
     },
     "4F4": {
         "Manufacturer": "Mazda truck made by Ford"
@@ -3837,7 +3837,7 @@
         "Manufacturer": "Spartan Fire, LLC incomplete vehicle (formerly Spartan ER)"
     },
     "4T1": {
-        "Manufacturer": "Toyota<ref name=\"KBA list\" /> car made by Toyota Motor Manufacturing Kentucky"
+        "Manufacturer": "Toyota car made by Toyota Motor Manufacturing Kentucky"
     },
     "4T3": {
         "Manufacturer": "Toyota MPV/SUV made by Toyota Motor Manufacturing Kentucky"
@@ -3939,13 +3939,13 @@
         "Manufacturer": "Excelsior-Henderson Motorcycle"
     },
     "5FN": {
-        "Manufacturer": "Honda<ref name=\"KBA list\" /> MPV/SUV made by Honda Manufacturing of Alabama"
+        "Manufacturer": "Honda MPV/SUV made by Honda Manufacturing of Alabama"
     },
     "5FP": {
         "Manufacturer": "Honda truck made by Honda Manufacturing of Alabama"
     },
     "5FR": {
-        "Manufacturer": "Acura<ref name=\"KBA list\" /> SUV made by Honda Manufacturing of Alabama"
+        "Manufacturer": "Acura SUV made by Honda Manufacturing of Alabama"
     },
     "5FY": {
         "Manufacturer": "New Flyer"
@@ -3981,7 +3981,7 @@
         "Manufacturer": "Honda of America Mfg. in Ohio"
     },
     "5KB": {
-        "Manufacturer": "Honda<ref name=\"KBA list\" /> car made by Honda Manufacturing of Alabama"
+        "Manufacturer": "Honda car made by Honda Manufacturing of Alabama"
     },
     "5KJ": {
         "Manufacturer": "Western Star Trucks truck"
@@ -4032,7 +4032,7 @@
         "Manufacturer": "American LaFrance incomplete vehicle (Condor)"
     },
     "5TB": {
-        "Manufacturer": "Toyota<ref name=\"KBA list\" /> truck made by TMMI"
+        "Manufacturer": "Toyota truck made by TMMI"
     },
     "5TD": {
         "Manufacturer": "Toyota MPV/SUV made by TMMI"
@@ -4137,7 +4137,7 @@
         "Manufacturer": "TMMK"
     },
     "6F1": {
-        "Manufacturer": "rowspan=17| Australia ||Ford"
+        "Manufacturer": "Ford"
     },
     "6F2": {
         "Manufacturer": "Iveco Trucks Australia Ltd."
@@ -4188,7 +4188,7 @@
         "Manufacturer": "Low Volume (Grey) Import Vehicles which don't have 17 Digit VIN. Uses NON ISO VIN with \"Filler 0's between WMI & Non Iso VIN \u2013 I.e Japanese VIN PV35-400637 would become 6ZZ0000PV35400637 see note below"
     },
     "7A1": {
-        "Manufacturer": "rowspan=7| New Zealand || Mitsubishi"
+        "Manufacturer": " Mitsubishi"
     },
     "7A3": {
         "Manufacturer": "Honda"
@@ -4209,7 +4209,7 @@
         "Manufacturer": "NZ Transport Agency (post\u20132009)"
     },
     "7FA": {
-        "Manufacturer": "rowspan=20| United States || Honda SUV made by Honda Manufacturing of Indiana"
+        "Manufacturer": " Honda SUV made by Honda Manufacturing of Indiana"
     },
     "7FC": {
         "Manufacturer": "Rivian truck"
@@ -4269,7 +4269,7 @@
         "Manufacturer": "Zoox"
     },
     "8AC": {
-        "Manufacturer": "rowspan=20| Argentina || Mercedes-Benz vans (for South America)"
+        "Manufacturer": " Mercedes-Benz vans (for South America)"
     },
     "8AD": {
         "Manufacturer": "Peugeot"
@@ -4329,7 +4329,7 @@
         "Manufacturer": "Honda car/SUV"
     },
     "8F9": {
-        "Manufacturer": "rowspan=4| Chile || Reborn Electric Motors SPA"
+        "Manufacturer": " Reborn Electric Motors SPA"
     },
     "8G1": {
         "Manufacturer": "Automotores Franco Chilena S.A Renault"
@@ -4341,7 +4341,7 @@
         "Manufacturer": "General Motors Chile Ltda."
     },
     "8L4": {
-        "Manufacturer": "rowspan=4| Ecuador || Great Wall Motors made by Ciudad del Auto Ciauto Cia. Ltda."
+        "Manufacturer": " Great Wall Motors made by Ciudad del Auto Ciauto Cia. Ltda."
     },
     "8LB": {
         "Manufacturer": "General Motors OBB"
@@ -4353,7 +4353,7 @@
         "Manufacturer": "Aymesa (Hyundai Motor & Kia)"
     },
     "8XD": {
-        "Manufacturer": "rowspan=4|Venezuela || Ford Motor Venezuela"
+        "Manufacturer": " Ford Motor Venezuela"
     },
     "8XJ": {
         "Manufacturer": "Mack de Venezuela C.A."
@@ -4368,7 +4368,7 @@
         "Manufacturer": "Bolivia || Quantum Motors"
     },
     "9AM": {
-        "Manufacturer": "rowspan=51| Brazil || Massari (?)"
+        "Manufacturer": " Massari (?)"
     },
     "9BD": {
         "Manufacturer": "Fiat Autom\u00f3veis"
@@ -4518,7 +4518,7 @@
         "Manufacturer": "BMW Motorrad Motorcycle assembled by BMW 2017-"
     },
     "9FB": {
-        "Manufacturer": "rowspan=3| Colombia || Sofasa (Renault)"
+        "Manufacturer": " Sofasa (Renault)"
     },
     "9FC": {
         "Manufacturer": "Compa\u00f1\u00eda Colombiana Automotriz S.A. (Mazda)"
@@ -4527,7 +4527,7 @@
         "Manufacturer": "GM Colmotores S.A. (Chevrolet)"
     },
     "9UJ": {
-        "Manufacturer": "rowspan=5| Uruguay || Chery Socma S.A."
+        "Manufacturer": " Chery Socma S.A."
     },
     "9UK": {
         "Manufacturer": "Lifan"
